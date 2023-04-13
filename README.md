@@ -1,10 +1,17 @@
 # sign-language-datasets
-Datasets for sign language translation.
+Datasets for sign language translation. [See release files for big data files]()
 
-- Pakistani Sign Language Clips: 840 clips performed by 12 people (10 normies, 2 hearing impaired).
-    - Labeled in Urdu & English.
-- Text2Text: Spoken Language Text to Sign Language Text (restructure & shorten) (both Urdu & English).
-- English & Urdu Text Corpora used in synthethetic data generation (contain all and only the supported words).
+This project includes:
+- Reference Clips
+  - pakistan-hamza_foundation (pk-hfad) [788]
+  - wordless (~10 minutes of a person doing everything except signs)
+- Word Mapping (which spoken language words map to which sign language clips or sequence of clips)
+- Videos (Recordings)
+  - 12 people performing pk-hfad and wordless in 4 camera angles (front, left, right, below)
+  - Male : Female = 1 : 1
+  - The left and right camera angles are half of the times top-left or top-right
+- Text Corpora
+  - A parallel corpus of spoken language sentences and their corresponding sign language gloss (clip sequence)
 
 # Definitions
 - gloss: word sequence corresponding to sign sequence for a given complete spoken language text.
@@ -59,4 +66,6 @@ Datasets for sign language translation.
 
 # Bonus
 ##### new file size command
-    git status -u --porcelain | awk '{print $2}' | xargs ls -hl | awk '{print $5 "\t" $9}'
+```
+git status -u --porcelain | awk '{print $2}' | xargs ls -hl | awk '{print $5 "\t" $9}'
+```
