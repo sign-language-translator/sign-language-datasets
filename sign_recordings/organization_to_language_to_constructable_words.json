@@ -131,6 +131,78 @@
                 "pk-hfad-1_ساتھ",
                 "pk-hfad-1_مختلف"
             ]
+        },
+        {
+            "english": [
+                "for(کیلئے)"
+            ],
+            "urdu": [
+                "کیلئے"
+            ],
+            "components": [
+                "pk-hfad-1_کے(of)",
+                "pk-hfad-1_لیے(for)"
+            ]
+        },
+        {
+            "english": [
+                "now a days"
+            ],
+            "urdu": [
+                "آجکل"
+            ],
+            "components": [
+                "pk-hfad-1_today",
+                "pk-hfad-1_کل(tomorrow)"
+            ]
+        },
+        {
+            "english": [
+                "your(آپکا)"
+            ],
+            "urdu": [
+                "آپکا"
+            ],
+            "components": [
+                "pk-hfad-1_آپ",
+                "pk-hfad-1_کا"
+            ]
+        },
+        {
+            "english": [
+                "your(آپکی)"
+            ],
+            "urdu": [
+                "آپکی"
+            ],
+            "components": [
+                "pk-hfad-1_آپ",
+                "pk-hfad-1_کی(of)"
+            ]
+        },
+        {
+            "english": [
+                "your(آپکے)"
+            ],
+            "urdu": [
+                "آپکے"
+            ],
+            "components": [
+                "pk-hfad-1_آپ",
+                "pk-hfad-1_کے(of)"
+            ]
+        },
+        {
+            "english": [
+                "to you(formal-آپ)"
+            ],
+            "urdu": [
+                "آپکو"
+            ],
+            "components": [
+                "pk-hfad-1_آپ",
+                "pk-hfad-1_کو"
+            ]
         }
     ]
 }
