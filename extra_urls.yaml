@@ -1,0 +1,22 @@
+reference_clips:
+  - name: pk-hfad-1
+    files:
+      - name: videos/pk-hfad-1_1.mp4
+        url: https://drive.google.com/uc?export=download&id=122bdHg08J-lhZ7UVyNFM_qREo1SFDGJL
+
+  - name: wordless
+    files:
+      - name: videos/wordless_wordless.mp4
+        url: https://drive.google.com/uc?export=download&id=13EvV5I5YYcbT6f8eOV_kIF48Is777ZvT
+
+videos:
+  - name: pk-hfad-1_df00001
+    files:
+      - name: videos/pk-hfad-1_df00001_1.mp4
+        url: https
+
+features:
+  - name: mediapipe_face_v2_hand_v1
+    files:
+      - name: features/mediapipe-face-v2-hand-v1_pk-hfad-1_df00001.jsonl
+        url: http
