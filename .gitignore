@@ -11,7 +11,7 @@ sign_recordings/reference_clips/**/*.*
 sign_recordings/videos/**/*.*
 
 text_corpora/raw_corpora/**/*.*
-text_corpora/supported_substrings_frequency.json
+text_corpora/supported_substrings_frequency*.json
 
 # keep these so that directory is visible at least
 !sign_recordings/features/**/.gitkeep

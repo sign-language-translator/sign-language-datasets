@@ -8543,6 +8543,25 @@
             ]
         }
     },
+    "pk-hfad-2": {
+        "hour": {
+            "english": [
+                "hour"
+            ],
+            "urdu": [
+                "گھنٹہ",
+                "گھنٹے"
+            ],
+            "hindi": [
+                "घंटा(समय)",
+                "घंटे"
+            ],
+            "roman-urdu": [
+                "ghanta",
+                "ghanty"
+            ]
+        }
+    },
     "wordless": {
         "wordless": {
             "english": [

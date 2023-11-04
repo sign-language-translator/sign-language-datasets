@@ -1,9 +1,11 @@
 # sign-language-datasets
-Datasets for sign language translation. [See release files for big data files]()
+
+Datasets for sign language translation. [See release files for big data files](https://github.com/sign-language-translator/sign-language-datasets/releases)
 
 This project includes:
+
 - Reference Clips
-  - pakistan-hamza_foundation (pk-hfad) [788]
+  - pakistan-hamza_foundation (pk-hfad) [788+1]
   - wordless (~10 minutes of a person doing everything except signs)
 - Word Mapping (which spoken language words map to which sign language clips or sequence of clips)
 - Videos (Recordings)
@@ -13,13 +15,17 @@ This project includes:
 - Text Corpora
   - A parallel corpus of spoken language sentences and their corresponding sign language gloss (clip sequence)
 
-# Definitions
+## Definitions
+
 - gloss: word sequence corresponding to sign sequence for a given complete spoken language text.
 
-# Explanations
+## Explanations
+
 - json ...
 
-# Directory Tree
+## Directory Tree
+
+```text
     sign-language-datasets
     ├── sign_recordings
     │   ├── features
@@ -27,6 +33,7 @@ This project includes:
     │   │
     │   ├── reference_clips
     │   │   ├── pk-hfad-1 [788]
+    │   │   ├── pk-hfad-2 [1]
     │   │   └── wordless [1]
     │   │
     │   └── videos
@@ -63,9 +70,12 @@ This project includes:
         ├── supported_substrings_frequency.json
         └── raw_corpora
             └── wikipedia.json
-
-# Bonus
-##### new file size command
 ```
+
+## Bonus
+
+**new file size command**
+
+```bash
 git status -u --porcelain | awk '{print $2}' | xargs ls -hl | awk '{print $5 "\t" $9}'
 ```

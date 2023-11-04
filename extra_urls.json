@@ -1,0 +1,60 @@
+{
+  "datasets": {
+    "features": [
+      {
+        "description": "mediapipe_face_v2_hand_v1",
+        "file_to_url": {
+          "features/mediapipe-face-v2-hand-v1_pk-hfad-1_df00001.jsonl.zip": "https://example.com"
+        }
+      }
+    ],
+    "reference_clips": [
+      {
+        "description": "wordless",
+        "file_to_url": {
+          "videos/wordless_wordless.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/wordless_wordless.mp4"
+        }
+      },
+      {
+        "description": "pk-hfad-1",
+        "file_to_url": {
+          "videos/pk-hfad-1_1.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_1.mp4",
+          "videos/pk-hfad-1_10.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_10.mp4",
+          "videos/pk-hfad-1_100.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_100.mp4",
+          "videos/pk-hfad-1_1000.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_1000.mp4",
+          "videos/pk-hfad-1_10000.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_10000.mp4",
+          "videos/pk-hfad-1_100000.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_100000.mp4",
+          "videos/pk-hfad-1_10000000.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_10000000.mp4",
+          "videos/pk-hfad-1_4.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_4.mp4",
+          "videos/pk-hfad-1_5.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_5.mp4",
+          "videos/pk-hfad-1_6.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_6.mp4",
+          "videos/pk-hfad-1_7.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_7.mp4",
+          "videos/pk-hfad-1_8.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_8.mp4",
+          "videos/pk-hfad-1_9.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_9.mp4",
+          "videos/pk-hfad-1_a(double-handed-letter).mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_a.double-handed-letter.mp4",
+          "videos/pk-hfad-1_chips(fries).mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_chips.fries.mp4",
+          "videos/pk-hfad-1_f(single-handed-letter).mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_f.single-handed-letter.mp4",
+          "videos/pk-hfad-1_february.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_february.mp4",
+          "videos/pk-hfad-1_india.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_india.mp4",
+          "videos/pk-hfad-1_strawberry.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_strawberry.mp4",
+          "videos/pk-hfad-1_washroom.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-1_washroom.mp4"
+        }
+      },
+      {
+        "description": "pk-hfad-2",
+        "file_to_url": {
+          "videos/pk-hfad-2_hour.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/pk-hfad-2_hour.mp4"
+        }
+      }
+    ],
+    "video_recordings": [
+      {
+        "description": "pk-hfad-1",
+        "file_to_url": {
+          "videos/pk-hfad-1_df00001_front.zip": "https://example.com"
+        }
+      }
+    ]
+  },
+  "models": {}
+}
