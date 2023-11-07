@@ -8019,6 +8019,10 @@
             "urdu": [
                 "کویت",
                 "کویتی"
+            ],
+            "components": [
+                "pk-hfad-1_saudi-arabia",
+                "pk-hfad-1_k(double-handed-letter)"
             ]
         },
         "کچھوا": {
@@ -8063,7 +8067,7 @@
         },
         "کی(of)": {
             "english": [
-                "of(feminine-f)"
+                "of(feminine-کی)"
             ],
             "urdu": [
                 "کی(حرف-اضافت)"
