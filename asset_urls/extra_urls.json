@@ -1,0 +1,29 @@
+{
+  "datasets": {
+    "landmarks": [
+      {
+        "description": "mediapipe_face_v2_hand_v1",
+        "file_to_url": {
+          "datasets/features/pk-hfad-1_landmarks-mediapipep2h1-csv.zip": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.4/pk-hfad-1_landmarks-mediapipep2h1-csv.zip"
+        }
+      }
+    ],
+    "videos": [
+      {
+        "description": "pk-hfad-1",
+        "file_to_url": {
+          "datasets/videos/pk-hfad-1_video-mp4.zip": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.3/pk-hfad-1_video-mp4.zip"
+        }
+      }
+    ]
+  },
+  "models": {},
+  "sign-dictionary": [
+    {
+      "description": "wordless",
+      "file_to_url": {
+        "videos/wordless_wordless.mp4": "https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.2/wordless_wordless.mp4"
+      }
+    }
+  ]
+}
