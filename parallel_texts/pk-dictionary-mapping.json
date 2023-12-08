@@ -1,0 +1,5962 @@
+[
+  {
+    "country": "pk",
+    "description": "pakistan sign language videos taught in hamza foundation academy for the deaf,lahore, pakistan.",
+    "mapping": [
+      {
+        "label": "pk-hfad-1_1",
+        "token": {
+          "en": ["1", "one", "a(article)", "an"],
+          "hi": ["1", "एक"],
+          "ur": ["1", "۱", "ایک", "اک", "اِک", "یکم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_10",
+        "token": {
+          "en": ["10", "ten"],
+          "hi": ["10", "दस"],
+          "ur": ["10", "۱۰", "دس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_100",
+        "token": {
+          "en": ["100", "one hundred", "a hundred"],
+          "hi": ["100", "एक सौ"],
+          "ur": ["100", "۱۰۰", "ایک سو(100)", "ایکسو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_1000",
+        "token": {
+          "en": ["1000", "1,000", "one thousand", "a thousand"],
+          "hi": ["1000", "एक हजार"],
+          "ur": ["1000", "1,000", "۱۰۰۰", "ایک ہزار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_10000",
+        "token": {
+          "en": ["10000", "10,000", "ten thousand"],
+          "ur": ["10000", "10,000", "۱۰۰۰۰", "دس ہزار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_100000",
+        "token": {
+          "en": ["100000", "1,00,000", "100,000", "one lakh"],
+          "ur": ["100000", "1,00,000", "100,000", "۱۰۰۰۰۰", "ایک لاکھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_10000000",
+        "token": {
+          "en": ["10000000", "1,00,00,000", "10,000,000", "one crore"],
+          "ur": ["10000000", "1,00,00,000", "10,000,000", "۱۰۰۰۰۰۰۰", "ایک کروڑ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_4",
+        "token": {
+          "en": ["4", "four"],
+          "hi": ["4", "चार"],
+          "ur": ["4", "۴", "چار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_5",
+        "token": {
+          "en": ["5", "five"],
+          "hi": ["5", "पाँच"],
+          "ur": ["5", "۵", "پانچ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_500",
+        "token": {
+          "en": ["500", "five hundred"],
+          "hi": ["500", "पांच सौ"],
+          "ur": ["500", "۵۰۰", "پانچ سو", "پانچسو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_6",
+        "token": {
+          "en": ["6", "six"],
+          "hi": ["6", "छह"],
+          "ur": ["6", "۶", "چھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_7",
+        "token": {
+          "en": ["7", "seven"],
+          "hi": ["7", "सात"],
+          "ur": ["7", "۷", "سات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_8",
+        "token": {
+          "en": ["8", "eight"],
+          "hi": ["8", "आठ"],
+          "ur": ["8", "۸", "آٹھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_9",
+        "token": {
+          "en": ["9", "nine"],
+          "hi": ["9", "नौ"],
+          "ur": ["9", "۹", "نو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_a(double-handed-letter)",
+        "token": {
+          "en": ["a(double-handed-letter)", "answered", "answer", "answering"],
+          "ur": ["a(double-handed-letter)", "اے(a-double-handed-letter)", "جواب", "جوابی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_a(single-handed-letter)",
+        "token": {
+          "en": ["a(single-handed-letter)", "ا"],
+          "ur": ["a(single-handed-letter)", "اے(a-single-handed-letter)", "ا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_address(noun)",
+        "token": {
+          "en": ["address(noun)"],
+          "ur": ["ایڈریس", "پتہ(ایڈریس)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_afghanistan",
+        "token": {
+          "en": ["afghanistan"],
+          "ur": ["افغانستان", "افغانستانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_airplane",
+        "token": {
+          "en": ["airplane", "aeroplane", "plane(aeroplane)", "aircraft"],
+          "ur": ["طیارہ", "طیارے", "ہوائی جہاز"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_airplane", "pk-hfad-1_جگہ"],
+        "label": "pk-hfad-1_airport",
+        "token": {
+          "en": ["airport", "airfield"],
+          "ur": ["ہوائی اڈہ", "ہوائی اڈے", "ایئرپورٹ", "ایرپورٹ", "ائیرپورٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_alarm(clock)",
+        "token": {
+          "en": ["alarm(clock)"],
+          "ur": ["الارم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ambulance",
+        "token": {
+          "en": ["ambulance"],
+          "ur": ["ایمبولینس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_america(country)",
+        "token": {
+          "en": ["america(country)", "american(country)", "united states of america", "usa", "us(country)"],
+          "ur": [
+            "امریکہ(ملک)",
+            "امریکی(ملک)",
+            "امریکا(ملک)",
+            "ریاست ہائے متحدہ امریکہ",
+            "ریاست ہائے متحدہ امریکا",
+            "ریاستہائےمتحدہ",
+            "ریاستہائےمتحدہ امریکہ"
+          ]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_a(double-handed-letter)", "pk-hfad-1_بہار"],
+        "label": "pk-hfad-1_april(month)",
+        "token": {
+          "en": ["april(month)"],
+          "ur": ["اپریل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_art",
+        "token": {
+          "en": ["art", "arts"],
+          "ur": ["فن", "فنون", "آرٹ", "آرٹس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_assembly(congregation)",
+        "token": {
+          "en": ["assembly(congregation)"],
+          "ur": ["(اسکول)اسمبلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_august(month)",
+        "token": {
+          "en": ["august(month)"],
+          "ur": ["اگست"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_australia",
+        "token": {
+          "en": ["australia", "australian"],
+          "ur": ["آسٹریلیا", "اسٹریلیا", "آسٹریلوی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_b(double-handed-letter)",
+        "token": {
+          "en": ["b(double-handed-letter)"],
+          "ur": ["b(double-handed-letter)", "بی(b-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_b(single-handed-letter)",
+        "token": {
+          "en": ["b(single-handed-letter)", "ب"],
+          "ur": ["b(single-handed-letter)", "بی(b-single-handed-letter)", "ب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bag(noun)",
+        "token": {
+          "en": ["bag(noun)"],
+          "ur": ["بیگ", "بستہ(بیگ)", "بستے(بیگ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ballpoint",
+        "token": {
+          "en": ["ball point", "ballpoint", "ball point pen", "ballpoint pen"],
+          "ur": ["بال پوائنٹ", "بال پوائنٹ پین"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bangladesh",
+        "token": {
+          "en": ["bangladesh"],
+          "ur": ["بنگلہ دیش", "بنگلہ دیشی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bank(institution)",
+        "token": {
+          "en": ["bank(institution)"],
+          "ur": ["بینک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_before",
+        "token": {
+          "en": ["before", "prior", "previous"],
+          "ur": ["پہلے", "قبل", "گزشتہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_benefit",
+        "token": {
+          "en": [
+            "beneficial",
+            "benefit",
+            "utility",
+            "helpful",
+            "advantage",
+            "advantageous",
+            "useful",
+            "usefulness",
+            "convenience",
+            "convenient"
+          ],
+          "ur": ["فائدہ", "فائدے", "سہولت", "افادیت", "مفاد", "مفید", "فائدہ مند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_biscuit",
+        "token": {
+          "en": ["biscuit", "cookie", "biscuits", "cookies"],
+          "ur": ["بسکٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bookshop",
+        "token": {
+          "en": ["bookstore", "bookshop"],
+          "ur": ["بک شاپ", "کتاب کی دکان", "کتابوں کی دکان", "کتب شاپ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bottle(noun)",
+        "token": {
+          "en": ["bottle(noun)"],
+          "ur": ["بوتل", "بوٹل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_break(pause)",
+        "token": {
+          "en": ["break(pause)"],
+          "ur": ["بریک(وقفہ)", "وقفہ", "وقفے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_brother",
+        "token": {
+          "en": ["brother"],
+          "ur": ["بھائی", "برادر", "بھئی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_brown",
+        "token": {
+          "en": ["brown"],
+          "ur": ["براؤن", "بھورا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_burger",
+        "token": {
+          "en": ["burger"],
+          "ur": ["برگر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bus",
+        "token": {
+          "en": ["bus"],
+          "ur": ["بس(گاڑی)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_bus-stop",
+        "token": {
+          "en": ["bus stop", "busstop", "bus station", "bus stand"],
+          "ur": ["بس اسٹاپ", "بس سٹاپ", "لاری اڈا", "لاری اڈے", "بس سٹینڈ", "بس اسٹینڈ", "بس سٹیشن", "بس اسٹیشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_c(double-handed-letter)",
+        "token": {
+          "en": ["c(double-handed-letter)"],
+          "ur": ["c(double-handed-letter)", "سی(c-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_c(single-handed-letter)",
+        "token": {
+          "en": ["c(single-handed-letter)", "ث"],
+          "ur": ["c(single-handed-letter)", "سی(c-single-handed-letter)", "ث"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_cake",
+        "token": {
+          "en": ["cake"],
+          "ur": ["کیک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_calculator",
+        "token": {
+          "en": ["calculator"],
+          "ur": ["کیلکولیٹر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_calendar",
+        "token": {
+          "en": ["calendar"],
+          "ur": ["کیلنڈر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_came-and-went",
+        "token": {
+          "en": ["come and go", "transportation", "came and went", "coming and going"],
+          "ur": ["آمدورفت", "آمد و رفت", "نقل و حمل", "آیا گیا", "آنا جانا", "آنے جانے", "آتا جاتا", "آتے جاتے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_camera",
+        "token": {
+          "en": ["camera"],
+          "ur": ["کیمرا", "کیمرہ", "کیمرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_car",
+        "token": {
+          "en": ["car"],
+          "ur": ["کار(گاڑی)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_cartoon",
+        "token": {
+          "en": ["cartoon", "cartoonish"],
+          "ur": ["کارٹون"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_chairman",
+        "token": {
+          "en": ["chairman", "chairperson", "chairwoman"],
+          "ur": ["چیئرمین", "چیئر مین", "چیئرپرسن", "چیئر پرسن", "چیئر وومن", "چیئروومن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_chicken-meat",
+        "token": {
+          "en": ["chicken meat"],
+          "ur": ["مرغی کا گوشت", "مرغی کے گوشت", "چکن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_china",
+        "token": {
+          "en": ["china"],
+          "ur": ["چین(چائنا)", "چینی(چائنیز)", "چائنیز", "چائنا", "چائنہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_china-clay",
+        "token": {
+          "en": ["china clay"],
+          "ur": [
+            "چینی(چائنیز) مٹی",
+            "چائنا مٹی",
+            "چائنہ مٹی",
+            "چائنیز مٹی",
+            "چینی(چائنیز) کلے",
+            "چائنا کلے",
+            "چائنہ کلے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_chips(fries)",
+        "token": {
+          "en": ["chips(fries)", "fries(chips)"],
+          "ur": ["چپس", "فرائز", "فرنچ فرائز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_christian",
+        "token": {
+          "en": ["christian", "christians", "christianity"],
+          "ur": ["عیسائی", "عیسائیت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_classroom",
+        "token": {
+          "en": ["classroom"],
+          "ur": ["کلاس روم", "کلاس", "کمرہ جماعت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_coal",
+        "token": {
+          "en": ["coal", "charcoal"],
+          "ur": ["کوئلہ", "کوئلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_coffee",
+        "token": {
+          "en": ["coffee"],
+          "ur": ["کافی(قہوہ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_college",
+        "token": {
+          "en": ["college"],
+          "ur": ["کالج"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_company(corporation)",
+        "token": {
+          "en": ["company(corporation)", "corporation", "corporate"],
+          "ur": ["کمپنی", "کارپوریشن", "کارپوریٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_cow",
+        "token": {
+          "en": ["cow"],
+          "ur": ["گائے(جانور)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_cow-meat",
+        "token": {
+          "en": ["cow meat", "beef"],
+          "ur": ["بیف", "گائے(جانور) کا گوشت", "گائے(جانور) کے گوشت", "بڑا گوشت", "بڑے گوشت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_d(double-handed-letter)",
+        "token": {
+          "en": ["d(double-handed-letter)"],
+          "ur": ["d(double-handed-letter)", "ڈی(d-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_d(single-handed-letter)",
+        "token": {
+          "en": ["d(single-handed-letter)", "ڈ"],
+          "ur": ["d(single-handed-letter)", "ڈی(d-single-handed-letter)", "ڈ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_d(double-handed-letter)", "pk-hfad-1_سردی"],
+        "label": "pk-hfad-1_december",
+        "token": {
+          "en": ["december"],
+          "ur": ["دسمبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_diary",
+        "token": {
+          "en": ["diary"],
+          "ur": ["ڈائری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_doctor(physician)",
+        "token": {
+          "en": ["doctor(physician)", "physician", "therapist"],
+          "ur": ["طبیب", "ڈاکٹر", "معالج", "تھراپسٹ", "فزیشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_drama",
+        "token": {
+          "en": ["drama", "drama serial", "drama series"],
+          "ur": ["ڈرامہ", "ڈرامے", "ڈرامہ سیریل", "ڈرامہ سیریز", "ناٹک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_dubai",
+        "token": {
+          "en": ["dubai"],
+          "ur": ["دبئی", "دوبئی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_duty",
+        "token": {
+          "en": ["job", "duty"],
+          "ur": ["ڈیوٹی", "نوکری", "ملازمت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_e(double-handed-letter)",
+        "token": {
+          "en": ["e(double-handed-letter)"],
+          "ur": ["e(double-handed-letter)", "ای(e-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_e(single-handed-letter)",
+        "token": {
+          "en": ["e(single-handed-letter)", "ی"],
+          "ur": ["e(single-handed-letter)", "ای(e-single-handed-letter)", "ی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_easy",
+        "token": {
+          "en": ["easy", "ease", "easiness", "easily"],
+          "ur": ["آسان", "آساں", "آسانی", "سہل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_election",
+        "token": {
+          "en": ["election", "elections", "vote", "voting"],
+          "ur": ["انتخابات", "الیکشن", "ووٹنگ", "ووٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_emergency",
+        "token": {
+          "en": ["emergency"],
+          "ur": ["ایمرجنسی", "ہنگامی حالت", "ہنگامی صورتحال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_england",
+        "token": {
+          "en": ["england"],
+          "ur": ["انگلینڈ", "اِنگلینڈ", "انگلستان", "انگلستانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_english(language)",
+        "token": {
+          "en": ["english(language)"],
+          "ur": ["انگریزی", "انگلش"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_eraser",
+        "token": {
+          "en": ["eraser", "rubber(eraser)"],
+          "ur": ["ربڑ(مٹانے-والا)", "ربر(مٹانے-والا)", "رَبڑ(مٹانے-والا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_exhibition",
+        "token": {
+          "en": ["exhibition"],
+          "ur": ["نمائش"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_f(double-handed-letter)",
+        "token": {
+          "en": ["f(double-handed-letter)"],
+          "ur": ["f(double-handed-letter)", "ایف(f-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_f(single-handed-letter)",
+        "token": {
+          "en": ["f(single-handed-letter)"],
+          "ur": ["f(single-handed-letter)", "ایف(f-single-handed-letter)", "ف"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_factory",
+        "token": {
+          "en": ["factory"],
+          "ur": ["فیکٹری", "کارخانہ", "کارخانے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_fail",
+        "token": {
+          "en": ["fail", "failed", "failure"],
+          "ur": ["فیل(ناکام)", "ناکام", "ناکامی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_faisalabad",
+        "token": {
+          "en": ["faisalabad"],
+          "ur": ["فیصل آباد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_fashion",
+        "token": {
+          "en": ["fashion"],
+          "ur": ["فیشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_fashionable",
+        "token": {
+          "en": ["fashionable"],
+          "ur": ["فیشن ایبل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_february",
+        "token": {
+          "en": ["february"],
+          "ur": ["فروری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_first",
+        "token": {
+          "en": ["first"],
+          "ur": ["پہلا", "پہلی", "پہل", "اول"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_flour",
+        "token": {
+          "en": ["flour"],
+          "ur": ["آٹا", "آٹے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_fraud",
+        "token": {
+          "en": ["fraud"],
+          "ur": ["فراڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_free(at-liberty)",
+        "token": {
+          "en": ["free(at-liberty)", "liberate", "liberated", "freed"],
+          "ur": ["آزاد", "رہا(آزاد)", "رِہا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_freedom",
+        "token": {
+          "en": ["freedom", "independence", "liberty(freedom)"],
+          "ur": ["آزادی", "رہائی", "رِہائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_frock",
+        "token": {
+          "en": ["frock"],
+          "ur": ["فراک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_g(double-handed-letter)",
+        "token": {
+          "en": ["g(double-handed-letter)"],
+          "ur": ["g(double-handed-letter)", "جی(g-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_g(single-handed-letter)",
+        "token": {
+          "en": ["g(single-handed-letter)", "گ"],
+          "ur": ["g(single-handed-letter)", "جی(g-single-handed-letter)", "گ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_gate(noun)",
+        "token": {
+          "en": ["gate(noun)", "door"],
+          "ur": ["گیٹ", "دروازہ", "دروازے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_goat",
+        "token": {
+          "en": ["goat"],
+          "ur": ["بکرا", "بکری", "بکرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_goat-meat",
+        "token": {
+          "en": ["goat meat", "mutton"],
+          "ur": ["بکری کا گوشت", "بکری کے گوشت", "بکرے کا گوشت", "بکرے کے گوشت", "چھوٹا گوشت", "چھوٹے گوشت", "مٹن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_gold",
+        "token": {
+          "en": ["gold", "golden"],
+          "ur": ["سونا(دھات)", "سونے(دھات)", "گولڈ", "سنہرا", "سنہری", "سنہرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_government",
+        "token": {
+          "en": ["government", "govt", "governmental"],
+          "ur": ["گورنمنٹ", "حکومت", "حکومتِ", "سرکاری", "گورمنٹ", "حکومتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_grey",
+        "token": {
+          "en": ["grey", "gray"],
+          "ur": ["گرے(رنگ)", "سرمئی", "سلیٹی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_h(double-handed-letter)",
+        "token": {
+          "en": ["h(double-handed-letter)"],
+          "ur": ["h(double-handed-letter)", "ایچ(h-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_h(single-handed-letter)",
+        "token": {
+          "en": ["h(single-handed-letter)", "ح"],
+          "ur": ["h(single-handed-letter)", "ایچ(h-single-handed-letter)", "ح"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_half-an-hour",
+        "token": {
+          "en": ["half an hour", "half hour"],
+          "ur": ["آدھا گھنٹہ", "آدھے گھنٹے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_hazrat-adam",
+        "token": {
+          "en": ["adam(first-man)", "hazrat adam"],
+          "ur": ["آدم(پیغمبر)", "حضرت آدم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_hospital",
+        "token": {
+          "en": ["hospital"],
+          "ur": ["ہسپتال", "اسپتال", "علاج گاہ", "شفاخانہ", "شفاخانے", "ہاسپٹل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_hostel",
+        "token": {
+          "en": ["hostel"],
+          "ur": ["ہاسٹل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_hotel",
+        "token": {
+          "en": ["hotel"],
+          "ur": ["ہوٹل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_i(double-handed-letter)",
+        "token": {
+          "en": ["i(double-handed-letter)"],
+          "ur": ["i(double-handed-letter)", "آئی(i-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_i(single-handed-letter)",
+        "token": {
+          "en": ["i(single-handed-letter)"],
+          "ur": ["i(single-handed-letter)", "آئی(i-single-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_icecream",
+        "token": {
+          "en": ["icecream", "ice cream"],
+          "ur": ["آئس کریم", "آئسکریم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_india",
+        "token": {
+          "en": ["india", "indian", "hindustan"],
+          "ur": ["انڈیا", "بھارت", "ہندوستان", "ہندوستاں", "انڈین", "بھارتی", "ہندوستانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_inflation(economic)",
+        "token": {
+          "en": ["inflation(economic)"],
+          "ur": ["مہنگائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ink",
+        "token": {
+          "en": ["ink"],
+          "ur": ["سیاہی(قلم)", "روشنائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_iran",
+        "token": {
+          "en": ["iran", "iranian"],
+          "ur": ["ایران", "ایرانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_iraq",
+        "token": {
+          "en": ["iraq", "iraqi"],
+          "ur": ["عراق", "عراقی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_irrigation",
+        "token": {
+          "en": ["irrigation", "irrigate"],
+          "ur": ["آب پاشی", "آبپاشی", "سیراب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_islamabad",
+        "token": {
+          "en": ["islamabad"],
+          "ur": ["اسلام آباد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_j(double-handed-letter)",
+        "token": {
+          "en": ["j(double-handed-letter)"],
+          "ur": ["j(double-handed-letter)", "جے(j-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_j(single-handed-letter)",
+        "token": {
+          "en": ["j(single-handed-letter)"],
+          "ur": ["j(single-handed-letter)", "جے(j-single-handed-letter)"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_j(double-handed-letter)", "pk-hfad-1_سردی"],
+        "label": "pk-hfad-1_january",
+        "token": {
+          "en": ["january"],
+          "ur": ["جنوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_japan",
+        "token": {
+          "en": ["japan", "japanese"],
+          "ur": ["جاپان", "جاپانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_jeans-pants",
+        "token": {
+          "en": ["jeans pants", "denim pants", "jeans"],
+          "ur": [
+            "جینز کی پتلون",
+            "جینز کی پینٹ(پتلون)",
+            "جینز پینٹ(پتلون)",
+            "جینز پینٹس(پتلون)",
+            "ڈینم کی پتلون",
+            "ڈینم کی پینٹ(پتلون)",
+            "ڈینم پینٹ(پتلون)",
+            "ڈینم پینٹس(پتلون)"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_judge(noun)",
+        "token": {
+          "en": ["judge(noun)"],
+          "ur": ["جج", "قاضی", "منصف"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_juice",
+        "token": {
+          "en": ["juice"],
+          "ur": ["جوس", "رس"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_j(double-handed-letter)", "pk-hfad-1_y(double-handed-letter)"],
+        "label": "pk-hfad-1_july",
+        "token": {
+          "en": ["july"],
+          "ur": ["جولائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_june",
+        "token": {
+          "en": ["june"],
+          "ur": ["جون"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_k(double-handed-letter)",
+        "token": {
+          "en": ["k(double-handed-letter)", "karachi"],
+          "ur": ["k(double-handed-letter)", "کے(k-double-handed-letter)", "کراچی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_k(single-handed-letter)",
+        "token": {
+          "en": ["k(single-handed-letter)", "ک"],
+          "ur": ["k(single-handed-letter)", "کے(k-single-handed-letter)", "ک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_l(single-handed-letter)",
+        "token": {
+          "en": ["l(single-handed-letter)", "l(double-handed-letter)", "ل"],
+          "ur": [
+            "l(single-handed-letter)",
+            "ایل(l-single-handed-letter)",
+            "l(double-handed-letter)",
+            "ایل(l-double-handed-letter)",
+            "ل"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_last(final)",
+        "token": {
+          "en": ["last(final)", "final"],
+          "ur": ["آخری", "آخر", "حتمی", "فائنل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_liberty(place)",
+        "token": {
+          "en": ["liberty(place)"],
+          "ur": ["لیبرٹی(جگہ)", "لبرٹی(جگہ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_library",
+        "token": {
+          "en": ["library"],
+          "ur": ["لائبریری", "کتب خانہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_m(double-handed-letter)",
+        "token": {
+          "en": ["m(double-handed-letter)", "monday"],
+          "ur": ["m(double-handed-letter)", "ایم(m-double-handed-letter)", "سوموار", "پیر(سوموار)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_m(single-handed-letter)",
+        "token": {
+          "en": ["m(single-handed-letter)", "م"],
+          "ur": ["m(single-handed-letter)", "ایم(m-single-handed-letter)", "م"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_mango",
+        "token": {
+          "en": ["mango", "mangos", "mangoes"],
+          "ur": ["آم", "مینگو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_march(month)",
+        "token": {
+          "en": ["march(month)"],
+          "ur": ["مارچ(مہینہ)"]
+        }
+      },
+      {
+        "components": [
+          "pk-hfad-1_m(double-handed-letter)",
+          "pk-hfad-1_a(double-handed-letter)",
+          "pk-hfad-1_y(double-handed-letter)"
+        ],
+        "label": "pk-hfad-1_may(month)",
+        "token": {
+          "en": ["may(month)"],
+          "ur": ["مئی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_medication",
+        "token": {
+          "en": ["medicine(drug)", "medication"],
+          "ur": ["دوا", "دوائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_meeting(noun)",
+        "token": {
+          "en": ["meeting(noun)"],
+          "ur": ["میٹنگ", "ملاقات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_minute(unit-of-time)",
+        "token": {
+          "en": ["minute(unit-of-time)", "minutes(unit-of-time)"],
+          "ur": ["منٹ(وقت)", "منٹوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_monitor(prefect)",
+        "token": {
+          "en": ["monitor(prefect)"],
+          "ur": ["مانیٹر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_motorcycle",
+        "token": {
+          "en": ["motorcycle", "motorbike"],
+          "ur": ["موٹرسائیکل", "موٹر سائیکل", "موٹربائیک", "موٹر بائیک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_movie",
+        "token": {
+          "en": ["movie", "film(movie)"],
+          "ur": ["فلم", "فلمی", "مووی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_museum",
+        "token": {
+          "en": ["museum", "historic sites", "historic places"],
+          "ur": ["عجائب گھر", "میوزیم", "تاریخی مقامات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_n(double-handed-letter)",
+        "token": {
+          "en": ["n(double-handed-letter)", "november"],
+          "ur": ["n(double-handed-letter)", "این(n-double-handed-letter)", "نومبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_n(single-handed-letter)",
+        "token": {
+          "en": ["n(single-handed-letter)", "ن"],
+          "ur": ["n(single-handed-letter)", "این(n-single-handed-letter)", "ن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_neighbors",
+        "token": {
+          "en": ["neighbors", "neighbor", "neighborhood", "neighbours", "neighbour", "neighbourhood"],
+          "ur": ["ہمسایہ", "ہمسائے", "ہمسائی", "پڑوس", "پڑوسی", "پڑوسن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_noodles",
+        "token": {
+          "en": ["noodles"],
+          "ur": ["نوڈلز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_notebook",
+        "token": {
+          "en": ["notebook"],
+          "ur": ["کاپی", "نوٹ بک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_o(single-handed-letter)",
+        "token": {
+          "en": ["o(single-handed-letter)", "o(double-handed-letter)", "october", "و"],
+          "ur": [
+            "o(single-handed-letter)",
+            "او(o-single-handed-letter)",
+            "o(double-handed-letter)",
+            "او(o-double-handed-letter)",
+            "و(حرف)",
+            "اکتوبر"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_office",
+        "token": {
+          "en": ["office", "workplace"],
+          "ur": ["آفس", "دفتر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_owl",
+        "token": {
+          "en": ["owl"],
+          "ur": ["الو", "الّو", "اُلّو", "اُلو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_p(double-handed-letter)",
+        "token": {
+          "en": ["p(double-handed-letter)", "pakistan", "pakistani"],
+          "ur": ["p(double-handed-letter)", "پی(p-double-handed-letter)", "پاکستان", "پاکستانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_p(single-handed-letter)",
+        "token": {
+          "en": ["p(single-handed-letter)", "پ"],
+          "ur": ["p(single-handed-letter)", "پی(p-single-handed-letter)", "پ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_pass(succeed)",
+        "token": {
+          "en": ["pass(succeed)"],
+          "ur": ["پاس(کامیاب)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_pen",
+        "token": {
+          "en": ["pen"],
+          "ur": ["قلم(لکھنے-کا-آلہ)", "پین(قلم)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_pencil",
+        "token": {
+          "en": ["pencil"],
+          "ur": ["پینسل", "پنسل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_population",
+        "token": {
+          "en": ["population"],
+          "ur": ["آبادی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_election", "pk-hfad-1_english(language)"],
+        "label": "pk-hfad-1_post-office",
+        "token": {
+          "en": ["post office"],
+          "ur": ["پوسٹ آفس", "ڈاکخانہ", "ڈاکخانے", "ڈاک خانہ", "ڈاک خانے", "ڈاک گھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_potato",
+        "token": {
+          "en": ["potato"],
+          "ur": ["آلو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_principal",
+        "token": {
+          "en": ["principal"],
+          "ur": ["پرنسپل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_program",
+        "token": {
+          "en": ["programme", "program", "programed"],
+          "ur": ["پروگرام"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_punctuality",
+        "token": {
+          "en": ["punctuality", "punctual"],
+          "ur": ["وقت کی پابندی", "وقت کی پابند", "وقت کا پابند", "وقت کے پابند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_purple",
+        "token": {
+          "en": ["purple"],
+          "ur": ["جامنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_q(double-handed-letter)",
+        "token": {
+          "en": ["q(double-handed-letter)", "quetta", "question"],
+          "ur": ["q(double-handed-letter)", "کیو(q-double-handed-letter)", "کوئٹہ", "سوال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_q(single-handed-letter)",
+        "token": {
+          "en": ["q(single-handed-letter)", "ق"],
+          "ur": ["q(single-handed-letter)", "کیو(q-single-handed-letter)", "ق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_quaid-e-azam",
+        "token": {
+          "en": [
+            "quaid-e-azam",
+            "quaid e azam",
+            "muhammad ali jinnah",
+            "quaid e azam muhammad ali jinnah",
+            "quaid-e-azam muhammad ali jinnah"
+          ],
+          "ur": ["قائد اعظم", "قائداعظم", "محمد علی جناح", "قائد اعظم محمد علی جناح", "قائداعظم محمد علی جناح"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_quran",
+        "token": {
+          "en": ["quran", "koran", "holy quran", "qur'an", "holy qur'an", "quranic"],
+          "ur": ["قرآن", "القرآن", "قرآن مجید", "قرآن پاک", "قرآن کریم", "قرآنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_r(double-handed-letter)",
+        "token": {
+          "en": ["r(double-handed-letter)"],
+          "ur": ["r(double-handed-letter)", "آر(r-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_r(single-handed-letter)",
+        "token": {
+          "en": ["r(single-handed-letter)", "ر"],
+          "ur": ["r(single-handed-letter)", "آر(r-single-handed-letter)", "ر"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_train(vehicle)", "pk-hfad-1_جگہ"],
+        "label": "pk-hfad-1_railway-station",
+        "token": {
+          "en": ["railway station", "train station"],
+          "ur": ["ریلوے اسٹیشن", "ریلوے سٹیشن", "ریلوےاسٹیشن", "ریلوےسٹیشن", "ٹرین اسٹیشن", "ٹرین سٹیشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_relax",
+        "token": {
+          "en": ["relax", "relaxed", "relaxing", "rest(relax)", "rested", "resting"],
+          "ur": ["آرام", "آرام دہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_restaurant",
+        "token": {
+          "en": ["restaurant"],
+          "ur": ["ریسٹورینٹ", "ریسٹورانٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_result",
+        "token": {
+          "en": ["result"],
+          "ur": ["رزلٹ", "نتیجہ", "نتیجے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_s(double-handed-letter)",
+        "token": {
+          "en": ["s(double-handed-letter)", "september"],
+          "ur": ["s(double-handed-letter)", "ایس(s-double-handed-letter)", "ستمبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_s(single-handed-letter)",
+        "token": {
+          "en": ["s(single-handed-letter)", "س"],
+          "ur": ["s(single-handed-letter)", "ایس(s-single-handed-letter)", "س"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_saturday",
+        "token": {
+          "en": ["saturday"],
+          "ur": ["ہفتہ(دن)", "ہفتے(دن)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_saudi-arabia",
+        "token": {
+          "en": ["saudi arabia", "saudi arabian", "saudi"],
+          "ur": ["سعودی عرب", "سعودی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_scale(ruler)",
+        "token": {
+          "en": ["scale(ruler)", "ruler(scale)", "meter rod"],
+          "ur": ["سکیل(فٹا)", "اسکیل(فٹا)", "پیمانہ(فٹا)", "پیمانے(فٹا)", "میٹر راڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_school",
+        "token": {
+          "en": ["school"],
+          "ur": ["اسکول", "سکول"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_school-canteen",
+        "token": {
+          "en": ["school canteen", "school cafe", "school cafeteria"],
+          "ur": ["اسکول کینٹین", "سکول کینٹین", "اسکول کیفےٹیریا", "سکول کیفےٹیریا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_science",
+        "token": {
+          "en": ["science", "scientific"],
+          "ur": ["سائنس", "سائنسی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_second(unit-of-time)",
+        "token": {
+          "en": ["second(unit-of-time)", "seconds(unit-of-time)"],
+          "ur": ["سیکنڈ", "سیکنڈوں", "لمحہ", "لمحے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_sharpener",
+        "token": {
+          "en": ["sharpener"],
+          "ur": ["شارپنر", "شاپنر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_shirt",
+        "token": {
+          "en": ["shirt"],
+          "ur": ["شرٹ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_نیلا", "pk-hfad-1_سایہ"],
+        "label": "pk-hfad-1_sky",
+        "token": {
+          "en": ["sky"],
+          "ur": ["آسمان", "آسماں", "آسمانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_soup",
+        "token": {
+          "en": ["soup"],
+          "ur": ["سوپ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_sports",
+        "token": {
+          "en": ["sports"],
+          "ur": ["اسپورٹس", "سپورٹس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_stadium",
+        "token": {
+          "en": ["stadium"],
+          "ur": ["اسٹیڈیم", "سٹیڈیم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_staffroom",
+        "token": {
+          "en": ["staffroom", "staff room"],
+          "ur": ["سٹاف روم", "اسٹاف روم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_stapler",
+        "token": {
+          "en": ["stapler"],
+          "ur": ["اسٹیپلر", "سٹیپلر", "سٹپلر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_storm",
+        "token": {
+          "en": ["storm", "stormy", "wind storm"],
+          "ur": ["آندھی", "طوفان", "طوفانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_strawberry",
+        "token": {
+          "en": ["strawberry"],
+          "ur": ["اسٹرابیری", "سٹرابیری", "اسٹرابری", "سٹرابری", "اسٹابری", "سٹابری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_sweets",
+        "token": {
+          "en": ["sweets"],
+          "ur": ["مٹھائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_t(double-handed-letter)",
+        "token": {
+          "en": ["t(double-handed-letter)", "tuesday"],
+          "ur": ["t(double-handed-letter)", "ٹی(t-double-handed-letter)", "منگل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_t(single-handed-letter)",
+        "token": {
+          "en": ["t(single-handed-letter)", "ٹ"],
+          "ur": ["t(single-handed-letter)", "ٹی(t-single-handed-letter)", "ٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_tax",
+        "token": {
+          "en": ["tax", "taxes", "taxation"],
+          "ur": ["ٹیکس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_tea",
+        "token": {
+          "en": ["tea"],
+          "ur": ["چائے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وقت", "pk-hfad-1_program"],
+        "label": "pk-hfad-1_timetable",
+        "token": {
+          "en": ["timetable", "schedule"],
+          "ur": ["شیڈول", "ٹائم ٹیبل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_today",
+        "token": {
+          "en": ["today"],
+          "ur": ["آج"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_toffee",
+        "token": {
+          "en": ["toffee", "candy", "confectionery"],
+          "ur": ["ٹافی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_tools",
+        "token": {
+          "en": ["tools", "instruments"],
+          "ur": ["آلات", "اوزار", "اوزاروں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_tractor",
+        "token": {
+          "en": ["tractor"],
+          "ur": ["ٹریکٹر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_train(vehicle)",
+        "token": {
+          "en": ["train(vehicle)"],
+          "ur": ["ٹرین", "ریل گاری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_turkey(country)",
+        "token": {
+          "en": ["turkey(country)"],
+          "ur": ["ترکی", "تُرکی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_tv",
+        "token": {
+          "en": ["television", "tv"],
+          "ur": ["ٹی وی", "ٹیلی ویژن", "ٹیلیویژن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_u(double-handed-letter)",
+        "token": {
+          "en": ["u(double-handed-letter)"],
+          "ur": ["u(double-handed-letter)", "یو(u-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_u(single-handed-letter)",
+        "token": {
+          "en": ["u(single-handed-letter)"],
+          "ur": ["u(single-handed-letter)", "یو(u-single-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_uniform(costume)",
+        "token": {
+          "en": ["uniform(costume)"],
+          "ur": ["یونیفارم", "وردی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_university",
+        "token": {
+          "en": ["university"],
+          "ur": ["یونیورسٹی", "جامع درس گاہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_v(double-handed-letter)",
+        "token": {
+          "en": ["v(double-handed-letter)"],
+          "ur": ["v(double-handed-letter)", "وی(v-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_v(single-handed-letter)",
+        "token": {
+          "en": ["v(single-handed-letter)", "2", "two"],
+          "hi": ["v(single-handed-letter)", "2", "दो"],
+          "ur": ["v(single-handed-letter)", "وی(v-single-handed-letter)", "2", "۲", "دو(2)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_van",
+        "token": {
+          "en": ["van"],
+          "ur": ["وین"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_verse(quran)",
+        "token": {
+          "en": ["verse(quran)"],
+          "ur": ["آیت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_village",
+        "token": {
+          "en": ["village", "rural"],
+          "ur": ["گاؤں", "دیہات", "دیہاتی", "دیہی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_volcano",
+        "token": {
+          "en": ["volcano", "volcanic"],
+          "ur": ["آتش فشاں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_w(double-handed-letter)",
+        "token": {
+          "en": ["w(double-handed-letter)", "wednesday"],
+          "ur": ["w(double-handed-letter)", "ڈبلیو(w-double-handed-letter)", "بدھ(دن)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_w(single-handed-letter)",
+        "token": {
+          "en": ["w(single-handed-letter)", "3", "three"],
+          "hi": ["w(single-handed-letter)", "3", "तीन"],
+          "ur": ["w(single-handed-letter)", "ڈبلیو(w-single-handed-letter)", "3", "۳", "تین"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_washroom",
+        "token": {
+          "en": ["washroom", "bathroom", "toilet"],
+          "ur": ["واش روم", "غسل خانہ", "باتھ روم", "بیت الخلاء", "ٹوائلٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_week",
+        "token": {
+          "en": ["week"],
+          "ur": ["ہفتہ(سات-دن)", "ہفتے(سات-دن)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_x(double-handed-letter)",
+        "token": {
+          "en": ["x(double-handed-letter)"],
+          "ur": ["x(double-handed-letter)", "ایکس(x-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_x(single-handed-letter)",
+        "token": {
+          "en": ["x(single-handed-letter)", "د"],
+          "ur": ["x(single-handed-letter)", "ایکس(x-single-handed-letter)", "د"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_y(double-handed-letter)",
+        "token": {
+          "en": ["y(double-handed-letter)"],
+          "ur": ["y(double-handed-letter)", "وائی(y-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_y(single-handed-letter)",
+        "token": {
+          "en": ["y(single-handed-letter)", "ے"],
+          "ur": ["y(single-handed-letter)", "وائی(y-single-handed-letter)", "ے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_z(double-handed-letter)",
+        "token": {
+          "en": ["z(double-handed-letter)"],
+          "ur": ["z(double-handed-letter)", "زیڈ(z-double-handed-letter)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_z(single-handed-letter)",
+        "token": {
+          "en": ["z(single-handed-letter)", "ز"],
+          "ur": ["z(single-handed-letter)", "زیڈ(z-single-handed-letter)", "ز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ؑ",
+        "token": {
+          "en": ["alayhe assallam"],
+          "ur": ["ؑ", "علیہ السلام", "علیہ سلام"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اب",
+        "token": {
+          "en": ["now(اب)"],
+          "ur": ["اب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ابھی",
+        "token": {
+          "en": ["right now(ابھی)"],
+          "ur": ["ابھی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اتوار",
+        "token": {
+          "en": ["sunday"],
+          "ur": ["اتوار", "اِتوار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اجازت",
+        "token": {
+          "en": ["approval", "approve", "consent", "permission"],
+          "ur": ["اجازت", "اِجازت", "رضامندی", "منظوری", "منظور"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اخبار",
+        "token": {
+          "en": ["newspaper"],
+          "ur": ["اخبار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اداس",
+        "token": {
+          "en": [
+            "unhappy",
+            "sad",
+            "saddened",
+            "saddening",
+            "depression",
+            "depressed",
+            "depressing",
+            "sadness",
+            "sorrow",
+            "sorrowful"
+          ],
+          "ur": [
+            "اداس",
+            "اُداس",
+            "اداسی",
+            "اُداسی",
+            "ناخوش",
+            "ناخوشی",
+            "افسوس",
+            "افسردہ",
+            "افسوسناک",
+            "دکھ",
+            "دُکھ",
+            "دکھی",
+            "دُکھی"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ادرک",
+        "token": {
+          "en": ["ginger"],
+          "ur": ["ادرک", "جنجر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ادھار",
+        "token": {
+          "en": ["loan", "debt", "borrow"],
+          "ur": ["ادھار", "قرض", "قرضہ", "قرضے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اردو",
+        "token": {
+          "en": ["urdu"],
+          "ur": ["اردو", "اُردو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_استاد",
+        "token": {
+          "en": ["teacher", "instructor", "professor", "tutor"],
+          "ur": ["استاد", "اُستاد", "استانی", "اُستانی", "ٹیچر", "پروفیسر", "انسٹرکٹر", "معلم", "مُعلم", "معلمہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_استعمال",
+        "token": {
+          "en": ["use", "usage", "utilize"],
+          "ur": ["استعمال", "اِستعمال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_استقبال",
+        "token": {
+          "en": ["welcome(reception)"],
+          "ur": ["استقبال", "اِستقبال", "استقبالیہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اسلامیات",
+        "token": {
+          "en": ["islamiat", "islamiyat"],
+          "ur": ["اسلامیات"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_a(double-handed-letter)", "pk-hfad-1_بازار"],
+        "label": "pk-hfad-1_اشتہار",
+        "token": {
+          "en": ["advertisement", "advertising", "advertise"],
+          "ur": ["اشتہار", "تشہیر", "ایڈورٹائزمنٹ", "ایڈورٹائزنگ", "اشتہار بازی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اصول",
+        "token": {
+          "en": ["principle", "rule(principle)"],
+          "ur": ["اصول", "اُصول"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اطاعت",
+        "token": {
+          "en": ["obedience", "obedient", "comply", "obey"],
+          "ur": ["اطاعت", "فرمانبرداری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_افواہ",
+        "token": {
+          "en": ["rumor", "rumour"],
+          "ur": ["افواہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_الحمرا",
+        "token": {
+          "en": ["alhamra"],
+          "ur": ["الحمرا", "الحمراء"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اللہ",
+        "token": {
+          "en": ["allah", "god"],
+          "ur": ["اللہ", "اللہ تعالی", "خدا", "خُدا", "الہی", "الٰہی", "اِلٰہی", "رب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_الماری",
+        "token": {
+          "en": ["closet", "cupboard"],
+          "ur": ["الماری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_امام",
+        "token": {
+          "en": ["imam"],
+          "ur": ["امام"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_امانت",
+        "token": {
+          "en": ["guardianship", "entrust", "entrusted"],
+          "ur": ["امانت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_امتحان",
+        "token": {
+          "en": ["examination", "exam", "test"],
+          "ur": ["امتحان", "اِمتحان", "آزمائش", "ٹیسٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_امرود",
+        "token": {
+          "en": ["guava"],
+          "ur": ["امرود"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ان-پڑھ",
+        "token": {
+          "en": ["illiteracy", "illiterate", "uneducated"],
+          "ur": ["ان پڑھ", "اَن پڑھ", "ناخواندہ", "ناخواندگی", "انپڑھ", "اَنپڑھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انار",
+        "token": {
+          "en": ["pomegranate"],
+          "ur": ["انار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انارکلی(جگہ)",
+        "token": {
+          "en": ["anarkali"],
+          "ur": ["انارکلی(جگہ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انتظار",
+        "token": {
+          "en": ["wait", "waiting", "anticipate", "anticipation"],
+          "ur": ["انتظار", "اِنتظار", "منتظر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انناس",
+        "token": {
+          "en": ["pineapple"],
+          "ur": ["انناس", "پائن ایپل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انڈا",
+        "token": {
+          "en": ["egg"],
+          "ur": ["انڈا", "انڈے", "انڈہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_انگور",
+        "token": {
+          "en": ["grape", "grapes"],
+          "ur": ["انگور"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اور",
+        "token": {
+          "en": ["and"],
+          "ur": ["اور", "و(اور)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اونٹ",
+        "token": {
+          "en": ["camel"],
+          "ur": ["اونٹ", "اُونٹ", "اونٹنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آ(حرف)",
+        "token": {
+          "en": ["آ"],
+          "ur": ["آ(حرف)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آؤ",
+        "token": {
+          "en": ["come(آؤ)"],
+          "ur": ["آؤ", "آو", "آئو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آؤں",
+        "token": {
+          "en": ["come(آؤں)"],
+          "ur": ["آؤں", "آوں", "آئوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آئی(came)",
+        "token": {
+          "en": ["came(آئی)"],
+          "ur": ["آئی(آنا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آئیں",
+        "token": {
+          "en": ["come(آئیں)"],
+          "ur": ["آئیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آئے",
+        "token": {
+          "en": ["came(آئے)"],
+          "ur": ["آئے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آپ",
+        "token": {
+          "en": ["you(formal-آپ)"],
+          "ur": ["آپ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_آیا(came)",
+        "token": {
+          "en": ["came(آیا)"],
+          "ur": ["آیا(آنا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اپنا(ذاتی)",
+        "token": {
+          "en": ["own(adjective-اپنا)"],
+          "ur": ["اپنا(ذاتی)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اپنی",
+        "token": {
+          "en": ["own(adjective-اپنی)"],
+          "ur": ["اپنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اپنے",
+        "token": {
+          "en": ["own(adjective-اپنے)"],
+          "ur": ["اپنے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اچانک",
+        "token": {
+          "en": ["sudden", "suddenly"],
+          "ur": ["اچانک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اچھا",
+        "token": {
+          "en": ["good", "great"],
+          "ur": ["اچھا", "اچھی", "اچھے", "ٹھیک", "شاندار", "کمال", "زبردست", "عمدہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_اگلا",
+        "token": {
+          "en": ["next", "front", "forward", "ahead"],
+          "ur": ["اگلا", "اگلی", "اگلے", "آگے", "سامنے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ایمان",
+        "token": {
+          "en": ["faith", "belief"],
+          "ur": ["ایمان", "اِیمان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بات",
+        "token": {
+          "en": ["conversation", "talk", "chat", "gossip"],
+          "ur": ["بات", "بات چیت", "باتیں", "گفتگو", "گپ شپ", "بول چال", "کلام", "کلامی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بادشاہی-مسجد",
+        "token": {
+          "en": ["badshahi mosque", "badshahi masjid"],
+          "ur": ["بادشاہی مسجد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بارش",
+        "token": {
+          "en": ["rain", "rained", "rainy", "raining", "rainfall"],
+          "ur": ["بارش", "برسات", "برساتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بازار",
+        "token": {
+          "en": ["market"],
+          "ur": ["بازار", "مارکیٹ", "منڈی", "بازاری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_باغ",
+        "token": {
+          "en": ["garden"],
+          "ur": ["باغ", "گارڈن", "باغیچہ", "باغیچے", "گلشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بانی",
+        "token": {
+          "en": ["founder", "creator"],
+          "ur": ["بانی", "خالق", "موجد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_باپ",
+        "token": {
+          "en": ["papa", "father", "dad", "daddy"],
+          "ur": ["باپ", "والد", "ابا", "ابو", "پاپا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بحری-جہاز",
+        "token": {
+          "en": ["ship(boat)"],
+          "ur": ["بحری جہاز", "سمندری جہاز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بدمعاش",
+        "token": {
+          "en": ["gangster", "rascal", "bully", "scoundrel"],
+          "ur": ["بدمعاش", "بدمعاشی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_براعظم",
+        "token": {
+          "en": ["continent", "continental"],
+          "ur": ["براعظم", "براعظمی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بطخ",
+        "token": {
+          "en": ["duck"],
+          "ur": ["بطخ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بغاوت",
+        "token": {
+          "en": ["rebellion", "rebelliousness", "rebel", "revolt", "mutiny"],
+          "ur": ["بغاوت", "سرکشی", "باغی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بلوچستان",
+        "token": {
+          "en": ["balochistan"],
+          "ur": ["بلوچستان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بلی",
+        "token": {
+          "en": ["cat"],
+          "ur": ["بلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بنانا(make)",
+        "token": {
+          "en": [
+            "make",
+            "made",
+            "create",
+            "created",
+            "become",
+            "built",
+            "build",
+            "manufacture",
+            "manufactured",
+            "construct",
+            "constructed"
+          ],
+          "ur": [
+            "بن(بَن)",
+            "بَن",
+            "بنے(بَنے)",
+            "بَنے",
+            "بنا(بَنا)",
+            "بَنا",
+            "بننا(بَننا)",
+            "بَننا",
+            "بناؤ(بَناؤ)",
+            "بَناؤ",
+            "بناؤں(بَناؤں)",
+            "بَناؤں",
+            "بنائی(بَنائی)",
+            "بَنائی",
+            "بنائیں(بَنائیں)",
+            "بَنائیں",
+            "بنائے(بَنائے)",
+            "بَنائے",
+            "بناتا(بَناتا)",
+            "بَناتا",
+            "بنتا(بَنتا)",
+            "بَنتا",
+            "بناتی(بَناتی)",
+            "بَناتی",
+            "بنتی(بَنتی)",
+            "بَنتی",
+            "بناتے(بَناتے)",
+            "بَناتے",
+            "بنتے(بَنتے)",
+            "بَنتے",
+            "بنانا(تعمیر)",
+            "(تعمیر)بَنانا",
+            "بنانے(بَنانے)",
+            "بَنانے",
+            "بننے(بَننے)",
+            "بَننے",
+            "بنایا(بَنایا)",
+            "بَنایا",
+            "تعمیر",
+            "تخلیق"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بند(closed)",
+        "token": {
+          "en": ["close(shut)", "closed", "shut"],
+          "ur": ["بند(منقطع)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بندر",
+        "token": {
+          "en": ["monkey"],
+          "ur": ["بندر", "بندریا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بنیاد",
+        "token": {
+          "en": ["foundation", "basis"],
+          "ur": ["بنیاد", "بِنا", "بنیادی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بوڑھا",
+        "token": {
+          "en": ["old man", "elderly man"],
+          "ur": ["بوڑھا", "بوڑھا آدمی", "بوڑھے آدمی", "بوڑھا مرد", "بزرگ آدمی", "بزرگ مرد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بوڑھی",
+        "token": {
+          "en": ["old woman", "elderly woman"],
+          "ur": ["بوڑھی", "بوڑھی عورت", "بزرگ عورت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بکواس",
+        "token": {
+          "en": ["nonsense", "senseless", "absurd"],
+          "ur": ["بکواس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بھابھی",
+        "token": {
+          "en": ["brother's wife", "sister-in-law(brother's-wife)"],
+          "ur": ["بھابھی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_بہن", "pk-hfad-1_بیٹا"],
+        "label": "pk-hfad-1_بھانجا",
+        "token": {
+          "en": ["sister's son", "nephew(sister's-son)"],
+          "ur": ["بھانجا", "بھانجے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_بہن", "pk-hfad-1_بیٹی"],
+        "label": "pk-hfad-1_بھانجی",
+        "token": {
+          "en": ["sister's daughter", "niece(sister's-daughter)"],
+          "ur": ["بھانجی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_brother", "pk-hfad-1_بیٹا"],
+        "label": "pk-hfad-1_بھتیجا",
+        "token": {
+          "en": ["brother's son", "nephew(brother's-son)"],
+          "ur": ["بھتیجا", "بھتیجے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_brother", "pk-hfad-1_بیٹی"],
+        "label": "pk-hfad-1_بھتیجی",
+        "token": {
+          "en": ["brother's daughter", "niece(brother's-daughter)"],
+          "ur": ["بھتیجی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بھنڈی",
+        "token": {
+          "en": ["okra", "lady finger"],
+          "ur": ["بھنڈی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بھیانک",
+        "token": {
+          "en": ["fearsome", "scary", "terrifying", "frightening", "horrifying"],
+          "ur": [
+            "بھیانک",
+            "ڈراؤنا",
+            "ڈراونا",
+            "ڈراونی",
+            "ڈراونے",
+            "ڈراؤنی",
+            "ڈراؤنے",
+            "خوفناک",
+            "خوف ناک",
+            "دہشتناک",
+            "دہشت ناک"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بہار",
+        "token": {
+          "en": ["spring(season)"],
+          "ur": ["بہار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بہانہ",
+        "token": {
+          "en": ["excuse(justification)"],
+          "ur": ["بہانہ", "بہانے(بہانہ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بہت",
+        "token": {
+          "en": ["very", "many", "a lot"],
+          "ur": ["بہت", "نہایت", "انتہائی", "شدید"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بہن",
+        "token": {
+          "en": ["sister"],
+          "ur": ["بہن", "ہمشیرہ", "آپا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بیمار",
+        "token": {
+          "en": ["ill", "sick"],
+          "ur": ["بیمار", "بیماری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بینگن",
+        "token": {
+          "en": ["eggplant", "brinjal", "aubergine"],
+          "ur": ["بینگن"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_عورت", "pk-hfad-1_شادی"],
+        "label": "pk-hfad-1_بیوی",
+        "token": {
+          "en": ["wife"],
+          "ur": ["بیوی", "زوجہ", "اہلیہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بیٹا",
+        "token": {
+          "en": ["son"],
+          "ur": ["بیٹا", "بیٹے", "فرزند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بیٹی",
+        "token": {
+          "en": ["daughter"],
+          "ur": ["بیٹی", "دختر", "بنت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بے-حال",
+        "token": {
+          "en": ["unwell"],
+          "ur": ["بے حال", "بےحال", "بدحال", "خستہ حال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بے-وقوف",
+        "token": {
+          "en": ["fool", "foolish", "stupid", "idiot", "idiotic"],
+          "ur": ["بےوقوف", "بے وقوف", "بیوقوف", "احمق", "پاگل", "کم عقل", "جاہل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_بے-چین",
+        "token": {
+          "en": ["anxious", "restless", "restlessness", "anxiety"],
+          "ur": ["بےچین", "بے چین(سکون)", "بےچینی", "بے چینی(سکونی)", "بےسکونی", "بے سکونی", "بےسکون", "بے سکون"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ت",
+        "token": {
+          "en": ["ت"],
+          "ur": ["ت"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_مہینہ", "pk-hfad-1_حساب"],
+        "label": "pk-hfad-1_تاریخ",
+        "token": {
+          "en": ["date(calendar)"],
+          "ur": ["تاریخ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تبدیل",
+        "token": {
+          "en": [
+            "transform",
+            "transformed",
+            "transforming",
+            "change",
+            "convert",
+            "converting",
+            "converted",
+            "replace",
+            "replaceing",
+            "changing",
+            "changed",
+            "conversion",
+            "replacement"
+          ],
+          "ur": [
+            "تبدیل",
+            "تبدیلی",
+            "بدل",
+            "بدلا",
+            "بدلتا",
+            "بدلتی",
+            "بدلتے",
+            "بدلنا",
+            "بدلنے",
+            "بدلو",
+            "بدلوں",
+            "بدلی",
+            "بدلیں",
+            "بدلے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تبلیغ",
+        "token": {
+          "en": ["preach", "preaching", "preachment"],
+          "ur": ["تبلیغ", "تبلیغی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تربوز",
+        "token": {
+          "en": ["watermelon"],
+          "ur": ["تربوز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تصویر",
+        "token": {
+          "en": ["photo", "photograph", "picture", "image"],
+          "ur": ["تصویر", "فوٹو", "فوٹوگراف", "امیج"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تلاش",
+        "token": {
+          "en": ["search", "searched", "searching", "investigate", "scout"],
+          "ur": ["تلاش", "تلاشی", "کھوج", "چھان بین", "چھان بینی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تم",
+        "token": {
+          "en": ["you(تم)"],
+          "ur": ["تم", "تجھ", "تُم", "تو(تم)", "تُو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تماشا",
+        "token": {
+          "en": ["spectacle"],
+          "ur": ["تماشا", "تماشہ", "تماشے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تمہارا",
+        "token": {
+          "en": ["your(تمہارا)", "yours(تمہارا)"],
+          "ur": ["تمہارا", "تیرا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تمہاری",
+        "token": {
+          "en": ["your(تمہاری)", "yours(تمہاری)"],
+          "ur": ["تمہاری", "تیری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تمہارے",
+        "token": {
+          "en": ["your(تمہارے)", "yours(تمہارے)"],
+          "ur": ["تمہارے", "تیرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تمہیں",
+        "token": {
+          "en": ["you(تمہیں)"],
+          "ur": ["تمہیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_توحید",
+        "token": {
+          "en": ["monotheism", "monotheistic"],
+          "ur": ["توحید"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تک",
+        "token": {
+          "en": ["till(limit)", "up to", "until"],
+          "ur": ["تک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تکلیف",
+        "token": {
+          "en": ["ache", "pain", "suffer", "suffering"],
+          "ur": ["تکلیف", "درد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تھا",
+        "token": {
+          "en": ["was(masculine-تھا)"],
+          "ur": ["تھا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تھی",
+        "token": {
+          "en": ["was(feminine-تھی)"],
+          "ur": ["تھی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تھے",
+        "token": {
+          "en": ["were(تھے)"],
+          "ur": ["تھے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_تیز",
+        "token": {
+          "en": ["fast(quick)", "quick", "quickly", "rapid(quick)", "speedy", "rapidly", "swiftly"],
+          "ur": ["تیز", "تیزی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ثواب",
+        "token": {
+          "en": ["reward(spiritual)"],
+          "ur": ["ثواب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ج",
+        "token": {
+          "en": ["ج"],
+          "ur": ["ج"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جاسوس",
+        "token": {
+          "en": ["spy", "spying"],
+          "ur": ["جاسوس", "جاسوسی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جامن",
+        "token": {
+          "en": ["jamun", "jambul", "java plum"],
+          "ur": ["جامن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جاؤ",
+        "token": {
+          "en": ["go(جاؤ)"],
+          "ur": ["جاؤ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جاؤں",
+        "token": {
+          "en": ["go(جاؤں)"],
+          "ur": ["جاؤں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جائیں",
+        "token": {
+          "en": ["go(جائیں)"],
+          "ur": ["جائیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جائے",
+        "token": {
+          "en": ["go(جائے)"],
+          "ur": ["جائے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جاگنا",
+        "token": {
+          "en": ["wake", "wake up", "waking up", "awake", "awaken", "awakened"],
+          "ur": [
+            "جاگنا",
+            "جاگ(جاگنا)",
+            "جاگا",
+            "جاگتا",
+            "جاگتی",
+            "جاگتے",
+            "جاگنے",
+            "جاگو",
+            "جاگوں",
+            "جاگی",
+            "جاگیں",
+            "جاگے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جرمانہ",
+        "token": {
+          "en": ["penalty", "fine(penalty)", "fined(penalty)"],
+          "ur": ["جرمانہ", "جُرمانہ", "جرمانے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جشن",
+        "token": {
+          "en": ["celebration", "celebrate"],
+          "ur": ["جشن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جلدی",
+        "token": {
+          "en": ["hurry", "early", "haste"],
+          "ur": ["جلدی", "فوری", "فورا", "فوراً"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جلوس",
+        "token": {
+          "en": ["procession", "parade"],
+          "ur": ["جلوس", "پریڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جمع",
+        "token": {
+          "en": ["plural"],
+          "ur": ["جمع"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جمعرات",
+        "token": {
+          "en": ["thursday"],
+          "ur": ["جمعرات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جمعہ",
+        "token": {
+          "en": ["friday"],
+          "ur": ["جمعہ", "جمعے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جنت",
+        "token": {
+          "en": ["heaven", "paradise"],
+          "ur": ["جنت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جنگل",
+        "token": {
+          "en": ["jungle", "forest"],
+          "ur": ["جنگل", "جنگلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جنگی-جہاز",
+        "token": {
+          "en": ["fighter jet", "fighter plane(airplane)", "military aircraft"],
+          "ur": ["جنگی جہاز", "جنگی طیارہ", "جنگی طیارے", "فائٹر جیٹ", "فوجی طیارہ", "فوجی طیارے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جوتا",
+        "token": {
+          "en": ["slippers", "sandals", "shoes", "shoe", "boots"],
+          "ur": ["جوتا", "جوتی", "جوتے", "چپل", "سینڈل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جگہ",
+        "token": {
+          "en": ["place", "location", "position", "area", "locality"],
+          "ur": ["جگہ", "مقام", "علاقہ", "علاقے", "گاہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جھوٹ",
+        "token": {
+          "en": ["lie(untruth)", "lying(untruth)", "liar", "untruth", "falsehood"],
+          "ur": ["جھوٹ", "جھوٹا", "جھوٹی", "جھوٹے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جہاد",
+        "token": {
+          "en": ["jihad"],
+          "ur": ["جہاد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جہلم",
+        "token": {
+          "en": ["jhelum"],
+          "ur": ["جہلم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_جہنم",
+        "token": {
+          "en": ["hell"],
+          "ur": ["جہنم", "دوزخ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حج",
+        "token": {
+          "en": ["hajj", "pilgrimage"],
+          "ur": ["حج"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حدیث",
+        "token": {
+          "en": ["hadith"],
+          "ur": ["حدیث"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حساب",
+        "token": {
+          "en": ["accounting", "math", "maths", "mathematics"],
+          "ur": ["حساب", "ریاضی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-ابوبکر",
+        "token": {
+          "en": ["hazrat abu bakr", "hazrat abu bakr siddique", "hazrat abubakr", "abu bakr siddique"],
+          "ur": ["حضرت ابوبکر", "حضرت ابوبکر صدیق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-حوا",
+        "token": {
+          "en": ["eve(first-woman)", "hazrat hawa"],
+          "ur": ["حضرت حوا", "حوا(پیغمبر)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-عثمان",
+        "token": {
+          "en": ["hazrat osman", "hazrat uthman", "hazrat usman", "hazrat usman ghani"],
+          "ur": ["حضرت عثمان", "حضرت عثمان غنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-علی",
+        "token": {
+          "en": ["hazrat ali", "hazrat ali ibn abi talib", "imam ali"],
+          "ur": ["حضرت علی", "حضرت علی ابن ابی طالب", "علی ابن ابی طالب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-عمر",
+        "token": {
+          "en": [
+            "hazrat omar",
+            "hazrat omar bin khattab",
+            "hazrat omer farooq",
+            "hazrat umer",
+            "hazrat umer bin khattab",
+            "hazrat umer farooq"
+          ],
+          "ur": ["حضرت عمر", "حضرت عمر بن خطاب", "عمر بن خطاب", "حضرت عمر فاروق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حضرت-محمد",
+        "token": {
+          "en": ["hazrat mohammad", "hazrat muhammad"],
+          "ur": [
+            "حضرت محمد",
+            "حضرت محمّد",
+            "حضرت محمد صلی اللہ علیہ وآلہ وسلم",
+            "محمد صلی اللہ علیہ وآلہ وسلم",
+            "محمد مصطفی صلی اللہ علیہ وآلہ وسلم",
+            "رسول صلی اللہ علیہ وآلہ وسلم",
+            "نبی کریم صلی اللہ علیہ وآلہ وسلم",
+            "نبی اکرم صلی اللہ علیہ وآلہ وسلم",
+            "حضرت محمد صلی اللہ علیہ وسلم",
+            "محمد صلی اللہ علیہ وسلم",
+            "محمد مصطفی صلی اللہ علیہ وسلم",
+            "رسول صلی اللہ علیہ وسلم",
+            "نبی کریم صلی اللہ علیہ وسلم",
+            "نبی اکرم صلی اللہ علیہ وسلم"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_حق",
+        "token": {
+          "en": ["right(entitlement)"],
+          "ur": ["حق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خ",
+        "token": {
+          "en": ["خ"],
+          "ur": ["خ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خالو",
+        "token": {
+          "en": ["uncle(mother's-sister's-husband-خالو)"],
+          "ur": ["خالو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خالہ",
+        "token": {
+          "en": ["aunt(mother's-sister-خالہ)", "aunty(mother's-sister-خالہ)"],
+          "ur": ["خالہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خاندان",
+        "token": {
+          "en": ["family"],
+          "ur": ["خاندان", "خاندانی", "فیملی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خراب",
+        "token": {
+          "en": ["spoiled", "ruined", "defective", "defect"],
+          "ur": ["خراب", "خرابی", "برباد", "بربادی", "تباہ", "تباہی", "تباہ شدہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خربوزہ",
+        "token": {
+          "en": ["melon"],
+          "ur": ["خربوزہ", "خربوزے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خرگوش",
+        "token": {
+          "en": ["bunny", "rabbit", "hare"],
+          "ur": ["خرگوش"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خزاں",
+        "token": {
+          "en": ["autumn"],
+          "ur": ["خزاں", "پت جھڑ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خواب",
+        "token": {
+          "en": ["dream"],
+          "ur": ["خواب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خواہش",
+        "token": {
+          "en": ["desire", "wish"],
+          "ur": ["خواہش", "آرزو", "چاہتا", "چاہتی", "چاہتے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خوبانی",
+        "token": {
+          "en": ["apricot"],
+          "ur": ["خوبانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خوبصورت",
+        "token": {
+          "en": ["beautiful", "beauty", "handsome", "gorgeous"],
+          "ur": ["خوبصورت", "خوبصورتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خودغرض",
+        "token": {
+          "en": ["selfishness", "selfish"],
+          "ur": ["خودغرض", "خود غرض", "خودغرضی", "خود غرضی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خوش",
+        "token": {
+          "en": ["happiness", "happy", "joy"],
+          "ur": ["خوش", "خوشی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_خوش", "pk-hfad-1_بات"],
+        "label": "pk-hfad-1_خوش-کلامی",
+        "token": {
+          "en": ["happy talk", "happytalk", "banter"],
+          "ur": ["خوش کلامی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خوشگوار",
+        "token": {
+          "en": ["pleasant", "pleasing", "delightful"],
+          "ur": ["خوشگوار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_خیبر-پختونخوا",
+        "token": {
+          "en": ["khyber pakhtunkhwa"],
+          "ur": ["خیبر پختونخوا", "خیبرپختونخوا", "خیبر پختونخواہ", "خیبرپختونخواہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دادا",
+        "token": {
+          "en": ["grandfather(paternal)", "paternal grandfather"],
+          "ur": ["دادا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دادی",
+        "token": {
+          "en": ["grandmother(paternal)", "paternal grandmother"],
+          "ur": ["دادی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دال",
+        "token": {
+          "en": ["lentil", "lentils", "pulses(lentils)"],
+          "ur": ["دال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_درخت",
+        "token": {
+          "en": ["tree"],
+          "ur": ["درخت", "پیڑ", "شجر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_درخواست",
+        "token": {
+          "en": ["application(request)"],
+          "ur": ["درخواست"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_درمیان",
+        "token": {
+          "en": ["middle", "center", "centre", "between"],
+          "ur": ["درمیان", "درمیانی", "درمیانہ", "بیچ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دریا",
+        "token": {
+          "en": ["river"],
+          "ur": ["دریا", "دریائے", "دریائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دشمنی",
+        "token": {
+          "en": ["enemy", "hostility", "enmity", "animosity"],
+          "ur": ["دشمنی", "دُشمنی", "دشمن", "دُشمن", "عداوت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دعوت",
+        "token": {
+          "en": ["feast"],
+          "ur": ["دعوت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دلچسپی",
+        "token": {
+          "en": ["interesting", "interested", "interest(fondness)", "fondness"],
+          "ur": ["دلچسپی", "دلچسپ", "شوق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دن",
+        "token": {
+          "en": ["day"],
+          "ur": ["دن", "دِن", "روز", "یوم", "یومِ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دنیا",
+        "token": {
+          "en": ["world", "earth"],
+          "ur": ["دنیا", "دُنیا", "جہان", "عالمی", "کرہ ارض"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دوبارہ",
+        "token": {
+          "en": ["again"],
+          "ur": ["دوبارہ", "پھر سے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دودھ",
+        "token": {
+          "en": ["milk"],
+          "ur": ["دودھ", "دُودھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دور(far)",
+        "token": {
+          "en": ["far", "distant", "away", "far away"],
+          "ur": ["دور(دُور)", "دور دراز", "دُور", "دُور دَراز", "بعید"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دوست",
+        "token": {
+          "en": ["friend"],
+          "ur": ["دوست", "دوستی", "سہیلی", "فرینڈ", "یار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دولت-مند",
+        "token": {
+          "en": ["wealth", "wealthy", "rich"],
+          "ur": ["دولت", "امیر(مالدار)", "مالدار", "مال دار", "دولت مند", "دولتمند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دوپٹہ",
+        "token": {
+          "en": ["scarf", "dupatta"],
+          "ur": ["دوپٹہ", "اسکارف", "سکارف"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_سورج", "pk-hfad-1_سورج"],
+        "label": "pk-hfad-1_دوپہر",
+        "token": {
+          "en": ["noon", "afternoon"],
+          "ur": ["دوپہر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دکان",
+        "token": {
+          "en": ["shop"],
+          "ur": ["دکان", "دُکان", "دوکان", "شاپ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دھنیا",
+        "token": {
+          "en": ["coriander", "parsley"],
+          "ur": ["دھنیا", "دھنیے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دہی",
+        "token": {
+          "en": ["yogurt"],
+          "ur": ["دہی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دہی-بھلے",
+        "token": {
+          "en": ["dahi bhally", "dahi bhale"],
+          "ur": ["دہی بھلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دینا",
+        "token": {
+          "en": ["give", "given", "gave"],
+          "ur": [
+            "دو(دینا)",
+            "دوں",
+            "دی",
+            "دیا(عطا)",
+            "دیتا",
+            "دیتی",
+            "دیتے",
+            "دینا",
+            "دینے",
+            "دیں",
+            "دیے(عطا)",
+            "دیئے(عطا)",
+            "دے",
+            "عطا"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھا",
+        "token": {
+          "en": ["seen(دیکھا)", "saw(looked-دیکھا)", "looked(دیکھا)", "watch(looked-دیکھا)", "watched(دیکھا)"],
+          "ur": ["دیکھا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھو",
+        "token": {
+          "en": ["see(دیکھو)", "look(دیکھو)", "watch(look-دیکھو)"],
+          "ur": ["دیکھو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھوں",
+        "token": {
+          "en": ["see(دیکھوں)", "look(دیکھوں)", "watch(look-دیکھوں)"],
+          "ur": ["دیکھوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھی",
+        "token": {
+          "en": ["seen(دیکھی)", "saw(looked-دیکھی)", "looked(دیکھی)", "watch(look-دیکھی)", "watched(دیکھی)"],
+          "ur": ["دیکھی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھیں",
+        "token": {
+          "en": ["see(دیکھیں)", "look(دیکھیں)", "watch(look-دیکھیں)"],
+          "ur": ["دیکھیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_دیکھے",
+        "token": {
+          "en": [
+            "see(دیکھے)",
+            "saw(looked-دیکھے)",
+            "look(دیکھے)",
+            "looked(دیکھے)",
+            "watch(look-دیکھے)",
+            "watched(دیکھے)"
+          ],
+          "ur": ["دیکھے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ذ",
+        "token": {
+          "en": ["ذ"],
+          "ur": ["ذ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ذلت",
+        "token": {
+          "en": [
+            "defamation",
+            "dishonoured",
+            "humiliation",
+            "humiliated",
+            "insult",
+            "disgrace",
+            "insulted",
+            "defamed",
+            "disgraced"
+          ],
+          "ur": [
+            "ذلت",
+            "ذِلت",
+            "رسوائی",
+            "رُسوائی",
+            "بدنامی",
+            "توہین",
+            "تذلیل",
+            "بے حرمتی",
+            "ذلیل",
+            "رسوا",
+            "بدنام",
+            "زلالت"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ذمہ-دار",
+        "token": {
+          "en": ["responsible", "responsibility", "responsibly"],
+          "ur": ["ذمہ دار", "ذمہ داری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رات",
+        "token": {
+          "en": ["night"],
+          "ur": ["رات", "شب"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_r(double-handed-letter)", "pk-hfad-1_r(double-handed-letter)"],
+        "label": "pk-hfad-1_راولپنڈی",
+        "token": {
+          "en": ["rawalpindi"],
+          "ur": ["راولپنڈی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رحم",
+        "token": {
+          "en": ["mercy"],
+          "ur": ["رحم", "رحمت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رسول",
+        "token": {
+          "en": ["apostle"],
+          "ur": ["رسول", "رسالت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رش",
+        "token": {
+          "en": ["crowd", "crowded", "horde", "swarm"],
+          "ur": ["رش", "ہجوم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رشتہ-دار",
+        "token": {
+          "en": ["relative(family)"],
+          "ur": ["رشتہ دار", "ناتے دار", "رشتے دار", "رشتےدار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رشوت",
+        "token": {
+          "en": ["bribery", "bribe"],
+          "ur": ["رشوت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رنگ",
+        "token": {
+          "en": ["color", "colour", "complexion"],
+          "ur": ["رنگ", "رنگت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_روزہ(fasting)",
+        "token": {
+          "en": ["fasting"],
+          "ur": ["روزہ(رمضان)", "روزے(رمضان)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_روٹی",
+        "token": {
+          "en": ["roti", "chapati", "flatbread(roti)"],
+          "ur": ["روٹی", "چپاتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رکشہ",
+        "token": {
+          "en": ["rickshaw", "chingchi"],
+          "ur": ["رکشہ", "رکشا", "رکشے", "چنگ چی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رہا(-ing-auxiliary-verb)",
+        "token": {
+          "en": ["ing(رہا)"],
+          "ur": ["رہا(امدادی-فعل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رہو(-ing-auxiliary-verb)",
+        "token": {
+          "en": ["ing(رہو)"],
+          "ur": ["رہو(امدادی-فعل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رہی(-ing-auxiliary-verb)",
+        "token": {
+          "en": ["ing(رہی)"],
+          "ur": ["رہی(امدادی-فعل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رہیں(-ing-auxiliary-verb)",
+        "token": {
+          "en": ["ing(رہیں)"],
+          "ur": ["رہیں(امدادی-فعل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_رہے(-ing-auxiliary-verb)",
+        "token": {
+          "en": ["ing(رہے)"],
+          "ur": ["رہے(امدادی-فعل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_زرافہ",
+        "token": {
+          "en": ["giraffe"],
+          "ur": ["زرافہ", "زرافے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_زکوۃ",
+        "token": {
+          "en": ["zakat"],
+          "ur": ["زکوۃ", "زکوٰۃ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ساتھ",
+        "token": {
+          "en": ["with", "together", "along"],
+          "ur": ["ساتھ", "اکٹھا", "اِکٹھا", "اکٹھے", "اِکٹھے", "اکٹھی", "اِکٹھی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سال",
+        "token": {
+          "en": ["year", "yearly", "annual", "annually", "annum"],
+          "ur": ["سال", "سالانہ", "برس(سال)", "سن(سال)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سالگرہ",
+        "token": {
+          "en": ["birthday", "anniversary"],
+          "ur": ["سالگرہ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_s(double-handed-letter)", "pk-hfad-1_h(double-handed-letter)"],
+        "label": "pk-hfad-1_ساہیوال",
+        "token": {
+          "en": ["sahiwal"],
+          "ur": ["ساہیوال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سایہ",
+        "token": {
+          "en": ["shadow", "shade(shadow)"],
+          "ur": ["سایہ", "سائے", "چھاؤں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سب",
+        "token": {
+          "en": ["all", "every", "entire"],
+          "ur": ["سب", "تمام", "ہر", "سارا(تمام)", "سارے", "ساری"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_potato", "pk-hfad-1_مختلف"],
+        "label": "pk-hfad-1_سبزیاں",
+        "token": {
+          "en": ["vegetables"],
+          "ur": ["سبزی", "سبزیاں", "سبزیوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ستارے",
+        "token": {
+          "en": ["stars"],
+          "ur": ["ستارے", "تارے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سجاوٹ",
+        "token": {
+          "en": ["decorated", "decoration", "decorate"],
+          "ur": ["سجاوٹ", "سجا", "سجایا", "سجائے", "ڈیکوریشن", "آرائش", "آراستہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سربراہ",
+        "token": {
+          "en": ["cheif"],
+          "ur": ["سربراہ", "سردار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سردی",
+        "token": {
+          "en": ["cold", "cool", "chill", "chilled", "chilly", "winter"],
+          "ur": ["سردی", "سرد", "سرما", "ٹھنڈ", "ٹھنڈا", "ٹھنڈے", "ٹھنڈی", "ٹھنڈک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سرگودھا",
+        "token": {
+          "en": ["sargodha"],
+          "ur": ["سرگودھا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سزا",
+        "token": {
+          "en": ["punish", "punishment"],
+          "ur": ["سزا", "سزائے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سست",
+        "token": {
+          "en": ["lazy", "laziness", "lazily"],
+          "ur": ["سست", "سُست", "سستی(کاہلی)", "سُستی", "کاہل", "کاہلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سفید",
+        "token": {
+          "en": ["white", "pale"],
+          "ur": ["سفید", "گورا", "گوری", "گورے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_اللہ", "pk-hfad-1_سایہ"],
+        "label": "pk-hfad-1_سلامت",
+        "token": {
+          "en": ["safe", "safety", "protected", "protection", "secure", "security"],
+          "ur": ["سلامت", "سلامتی", "محفوظ", "حفاظت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سمندر",
+        "token": {
+          "en": ["sea", "ocean", "marine"],
+          "ur": ["سمندر", "سمندری", "بحری", "بحر(سمندر)", "بحرِ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سموسہ",
+        "token": {
+          "en": ["samosa"],
+          "ur": ["سموسہ", "سموسے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سندھ",
+        "token": {
+          "en": ["sindh"],
+          "ur": ["سندھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سنسان",
+        "token": {
+          "en": ["deserted", "uninhabited", "desolate", "abandoned"],
+          "ur": ["سنسان", "ویران", "غیر آباد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سورج",
+        "token": {
+          "en": ["sun", "solar"],
+          "ur": ["سورج", "شمسی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سپاہی",
+        "token": {
+          "en": ["police man", "police woman", "police officer", "policeman", "sepoy"],
+          "ur": ["سپاہی", "پولیس اہلکار", "پولیس افسر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سچ",
+        "token": {
+          "en": ["true", "truth", "honest", "honestly", "honesty", "truthful", "truthfully"],
+          "ur": ["سچ", "سچا", "سچی", "سچے", "سچائی", "صداقت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سڑک",
+        "token": {
+          "en": ["road"],
+          "ur": ["سڑک", "روڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سکون",
+        "token": {
+          "en": ["calm", "calmness", "peace of mind", "tranquility"],
+          "ur": ["سکون", "سکوں", "پرسکون", "پُرسکون", "چین(سکون)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سیالکوٹ",
+        "token": {
+          "en": ["sialkot"],
+          "ur": ["سیالکوٹ", "سیالکوٹی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سیب",
+        "token": {
+          "en": ["apple"],
+          "ur": ["سیب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سیر(چہل-قدمی)",
+        "token": {
+          "en": ["stroll", "outing"],
+          "ur": ["سیر(چہل-قدمی)", "چہل قدمی", "ٹہلنے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_سے",
+        "token": {
+          "en": ["from"],
+          "ur": ["سے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ش",
+        "token": {
+          "en": ["ش"],
+          "ur": ["ش"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شادی",
+        "token": {
+          "en": ["wedding", "marriage"],
+          "ur": ["شادی", "بیاہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شاعر",
+        "token": {
+          "en": ["poet", "poetess", "poetry"],
+          "ur": ["شاعر", "شاعرہ", "شاعری", "شعر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شام(evening)",
+        "token": {
+          "en": ["evening"],
+          "ur": ["شام(وقت)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شامل",
+        "token": {
+          "en": ["include", "including", "inclusive", "included", "contains", "containing", "contained", "consist"],
+          "ur": ["شامل", "ملوث", "شمولیت", "شرکت", "شریک", "سمیت", "مشتمل", "بشمول"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شاید",
+        "token": {
+          "en": ["perhaps", "maybe"],
+          "ur": ["شاید"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شربت",
+        "token": {
+          "en": ["beverage"],
+          "ur": ["شربت", "مشروب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شرم",
+        "token": {
+          "en": ["shame", "shy", "shyness"],
+          "ur": ["شرم", "شرمیلا", "شرمیلی", "شرمیلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شرمندگی",
+        "token": {
+          "en": ["embarrassed", "embarrassing", "embarrassment", "ashamed"],
+          "ur": ["شرمندگی", "شرمناک", "شرمندہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شروع",
+        "token": {
+          "en": ["start", "started", "starting", "beginning", "begin", "begins", "begun", "began", "initiate"],
+          "ur": ["شروع", "شروعات", "آغاز", "ابتدا", "اِبتدا", "افتتاح"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شریف(honorable)",
+        "token": {
+          "en": ["decent", "gentleman", "honourable", "well mannered"],
+          "ur": ["شریف(مہذب)", "شرافت", "مہذب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شناختی-کارڈ",
+        "token": {
+          "en": ["identity card", "identification card", "id card", "cnic"],
+          "ur": ["شناختی کارڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شور",
+        "token": {
+          "en": ["noise", "noisy"],
+          "ur": ["شور", "شور شرابہ", "شورشرابہ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_مرد", "pk-hfad-1_شادی"],
+        "label": "pk-hfad-1_شوہر",
+        "token": {
+          "en": ["husband"],
+          "ur": ["شوہر", "میاں(شوہر)", "خاوند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شکایت",
+        "token": {
+          "en": ["complaint", "complain", "complaining"],
+          "ur": ["شکایت", "شکوہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شہر",
+        "token": {
+          "en": ["city"],
+          "ur": ["شہر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شیخوپورہ",
+        "token": {
+          "en": ["sheikhupura"],
+          "ur": ["شیخوپورہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شیر",
+        "token": {
+          "en": ["lion", "lioness"],
+          "ur": ["شیر", "شیرنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_شیطان",
+        "token": {
+          "en": ["satan", "devil", "iblis"],
+          "ur": ["شیطان", "ابلیس", "اِبلیس"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ص",
+        "token": {
+          "en": ["ص"],
+          "ur": ["ص"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_صبح",
+        "token": {
+          "en": ["morning"],
+          "ur": ["صبح", "صبح سویرے", "سویرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_صلح",
+        "token": {
+          "en": ["reconcile", "reconciled", "reconciliation"],
+          "ur": ["صلح"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_صوبہ",
+        "token": {
+          "en": ["province", "provincial"],
+          "ur": ["صوبہ", "صوبے", "صوبائی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ض",
+        "token": {
+          "en": ["ض"],
+          "ur": ["ض"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ضد",
+        "token": {
+          "en": ["stubbornness", "stubborn", "obstinacy"],
+          "ur": ["ضد", "ضِد", "ضدی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ضروری",
+        "token": {
+          "en": ["necessary", "essential", "important"],
+          "ur": ["ضروری", "ضرور", "ضرورت", "لازم", "لازمی", "اہم", "اہمیت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ط",
+        "token": {
+          "en": ["ط"],
+          "ur": ["ط"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_طالب-علم",
+        "token": {
+          "en": ["student", "apprentice"],
+          "ur": [
+            "طالب علم",
+            "طالبعلم",
+            "طالبِعلم",
+            "طالبہ",
+            "طلباء",
+            "طالبات",
+            "طالب علموں",
+            "طالبعلموں",
+            "طالبِعلموں",
+            "شاگرد",
+            "شاگردہ",
+            "اسٹوڈنٹ",
+            "سٹوڈنٹ",
+            "سٹوڈنٹس"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_طوطا",
+        "token": {
+          "en": ["parrot"],
+          "ur": ["طوطا", "طوطی", "طوطے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ظ",
+        "token": {
+          "en": ["ظ"],
+          "ur": ["ظ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ظلم",
+        "token": {
+          "en": ["cruelty", "brutal", "cruel", "coercion", "brutality", "merciless"],
+          "ur": ["ظلم", "ظالم", "ظالمانہ", "ظلم و ستم", "ستم", "جبر", "بےرحمی", "بے رحمی", "بے رحم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ظہر",
+        "token": {
+          "en": ["zuhr", "zohr(prayer)"],
+          "ur": ["ظہر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ع",
+        "token": {
+          "en": ["ع"],
+          "ur": ["ع"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عادت",
+        "token": {
+          "en": ["habit", "habitually"],
+          "ur": ["عادت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عزت",
+        "token": {
+          "en": ["respect", "respectful"],
+          "ur": ["عزت", "ادب(عزت)", "احترام"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عشاء",
+        "token": {
+          "en": ["isha"],
+          "ur": ["عشاء"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عصر(نماز)",
+        "token": {
+          "en": ["asr"],
+          "ur": ["عصر(نماز)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عقلمند",
+        "token": {
+          "en": ["wise", "intelligent", "knowledgeable"],
+          "ur": ["عقلمند", "عقل مند", "سمجھدار", "ذہین", "دانشمند", "دانش مند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_علامہ-اقبال",
+        "token": {
+          "en": ["allama iqbal", "allama mohammad iqbal", "allama muhammad iqbal"],
+          "ur": ["علامہ اقبال", "علامہ محمد اقبال", "ڈاکٹر علامہ اقبال", "ڈاکٹر علامہ محمد اقبال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عمر(age)",
+        "token": {
+          "en": ["age"],
+          "ur": ["عمر(مُدت)", "مدت", "مُدت", "دورانیہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عمل",
+        "token": {
+          "en": ["act upon", "process"],
+          "ur": ["عمل", "کارروائی", "طریقہ کار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_عورت",
+        "token": {
+          "en": ["woman", "female", "lady"],
+          "ur": ["عورت", "خاتون", "مادہ(عورت)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غ",
+        "token": {
+          "en": ["غ"],
+          "ur": ["غ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غرور",
+        "token": {
+          "en": ["arrogance", "arrogant"],
+          "ur": ["غرور", "مغرور", "متکبر", "تکبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غریب",
+        "token": {
+          "en": ["poverty", "poor(penniless)", "penniless", "impoverished"],
+          "ur": ["غریب", "غربت", "غربا", "غریب غربا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غصہ",
+        "token": {
+          "en": ["anger", "angry(furious)", "furious", "wrath"],
+          "ur": ["غصہ", "غصے", "غضبناک", "غضب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غلط",
+        "token": {
+          "en": ["wrong", "incorrect", "erroneous", "false", "error", "mistake", "mistaken", "inaccurate"],
+          "ur": ["غلط", "غلطی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غمگین",
+        "token": {
+          "en": ["heart broken", "broken heart", "broken hearted", "heartbroken", "heartbreaking", "heart breaking"],
+          "ur": ["غمگین", "دل شکستہ", "شکستہ دل", "غمزدہ", "غم", "دل ٹوٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_غور",
+        "token": {
+          "en": ["concentrate(focus)", "focus", "consider", "consideration", "attention"],
+          "ur": ["غور", "توجہ", "دھیان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فارغ",
+        "token": {
+          "en": ["unoccupied", "discharged", "idle"],
+          "ur": ["فارغ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فجر",
+        "token": {
+          "en": ["fajr", "fajar"],
+          "ur": ["فجر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فخر",
+        "token": {
+          "en": ["pride", "proud"],
+          "ur": ["فخر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فرشتہ",
+        "token": {
+          "en": ["angel"],
+          "ur": ["فرشتہ", "فرشتے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فضول",
+        "token": {
+          "en": ["unnecessary", "wasteful", "futile", "pointless", "useless"],
+          "ur": ["فضول", "فالتو", "بیکار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فضول-خرچ",
+        "token": {
+          "en": ["extravagant", "wasteful spending", "waste of money", "unnecessary expense"],
+          "ur": ["فضول خرچ", "فضول خرچی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فقیر",
+        "token": {
+          "en": ["beggar", "mendicant"],
+          "ur": ["فقیر", "بھکاری", "بھیک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فوجی",
+        "token": {
+          "en": ["solider"],
+          "ur": ["فوجی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فکر",
+        "token": {
+          "en": ["worry", "worried"],
+          "ur": ["فکر", "فکر مند", "فکرمند"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_فیصل-مسجد",
+        "token": {
+          "en": ["faisal mosque", "faisal masjid"],
+          "ur": ["فیصل مسجد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قانون",
+        "token": {
+          "en": ["law", "legal"],
+          "ur": ["قانون", "قانونی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قبر",
+        "token": {
+          "en": ["grave(burial)"],
+          "ur": ["قبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قبرستان",
+        "token": {
+          "en": ["graveyard", "cemetery"],
+          "ur": ["قبرستان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قسمت",
+        "token": {
+          "en": ["fate", "luck"],
+          "ur": ["قسمت", "تقدیر", "مقدر", "نصیب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قلعہ",
+        "token": {
+          "en": ["castle", "fort", "fortress"],
+          "ur": ["قلعہ", "قلعے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قمیض",
+        "token": {
+          "en": ["kameez"],
+          "ur": ["قمیض"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_قوس-قزح",
+        "token": {
+          "en": ["rainbow"],
+          "ur": ["قوس قزح", "دھنک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لال",
+        "token": {
+          "en": ["red"],
+          "ur": ["لال", "سرخ", "سُرخ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لال-مرچ",
+        "token": {
+          "en": ["red chilli"],
+          "ur": ["لال مرچ", "سرخ مرچ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لالچی",
+        "token": {
+          "en": ["greed", "greedy"],
+          "ur": ["لالچی", "لالچ", "حرص"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لاہور",
+        "token": {
+          "en": ["lahore"],
+          "ur": ["لاہور"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لطیفہ",
+        "token": {
+          "en": ["joke"],
+          "ur": ["لطیفہ", "لطیفے", "مذاق"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لفظ",
+        "token": {
+          "en": ["word", "words"],
+          "ur": ["لفظ", "الفاظ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لوگ",
+        "token": {
+          "en": ["people"],
+          "ur": ["لوگ", "لوگوں", "افراد", "عوام", "عوامی", "شہریوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لوہا",
+        "token": {
+          "en": ["iron(metal)"],
+          "ur": ["لوہا", "لوہے", "فولاد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لڑکا",
+        "token": {
+          "en": ["boy"],
+          "ur": ["لڑکا", "لڑکے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لڑکی",
+        "token": {
+          "en": ["girl"],
+          "ur": ["لڑکی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لہسن",
+        "token": {
+          "en": ["garlic"],
+          "ur": ["لہسن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لیموں",
+        "token": {
+          "en": ["lemon"],
+          "ur": ["لیموں", "لیمن", "نیبو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_لیے(for)",
+        "token": {
+          "en": ["for(لئے)"],
+          "ur": ["لیے(حرف-اضافت)", "لئے(حرف-اضافت)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مالٹا",
+        "token": {
+          "en": ["orange(fruit)"],
+          "ur": ["مالٹا", "مالٹے", "کینو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مالک",
+        "token": {
+          "en": ["owner", "boss"],
+          "ur": ["مالک", "مالکن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ماموں",
+        "token": {
+          "en": ["uncle(mother's-brother-ماموں)"],
+          "ur": ["ماموں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مانگنا",
+        "token": {
+          "en": ["beg"],
+          "ur": [
+            "مانگ(مانگنا)",
+            "مانگا",
+            "مانگتا",
+            "مانگتی",
+            "مانگتے",
+            "مانگنا",
+            "مانگنے",
+            "مانگو",
+            "مانگوں",
+            "مانگی",
+            "مانگیں",
+            "مانگے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ماں",
+        "token": {
+          "en": ["mother", "mom", "mama", "mommy"],
+          "ur": ["ماں", "امی", "ماما", "والدہ", "اماں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_متضاد",
+        "token": {
+          "en": ["antonym"],
+          "ur": ["متضاد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مجموعہ",
+        "token": {
+          "en": ["collection"],
+          "ur": ["مجموعہ", "مجموعے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مجھے",
+        "token": {
+          "en": ["me"],
+          "ur": ["مجھے", "مجھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_محنت",
+        "token": {
+          "en": ["hard work", "hard worker", "hardwork", "hardworking"],
+          "ur": ["محنت", "محنتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مختلف",
+        "token": {
+          "en": ["various"],
+          "ur": ["مختلف", "مختلف اقسام", "مختلف قسم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مدد",
+        "token": {
+          "en": ["help", "aid", "assistance"],
+          "ur": ["مدد", "امداد", "امدادِ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مذکر",
+        "token": {
+          "en": ["masculine"],
+          "ur": ["مذکر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مرد",
+        "token": {
+          "en": ["man(noun)", "male", "manly"],
+          "ur": ["مرد", "مردانہ", "آدمی", "نر", "بندہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مرغی",
+        "token": {
+          "en": ["chicken", "hen", "cock", "rooster"],
+          "ur": ["مرغی", "مرغا", "مرغ", "مرغے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مری(جگہ)",
+        "token": {
+          "en": ["murree"],
+          "ur": ["مری(جگہ)"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_بیمار", "pk-hfad-1_خراب"],
+        "label": "pk-hfad-1_مریض",
+        "token": {
+          "en": ["patient(sick)"],
+          "ur": ["مریض"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مزار",
+        "token": {
+          "en": ["tomb", "shrine"],
+          "ur": ["مزار", "مقبرہ", "مقبرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مزدور",
+        "token": {
+          "en": ["laborer", "labourer"],
+          "ur": ["مزدور", "مزدوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مزہ",
+        "token": {
+          "en": ["fun", "entertaining", "entertainment"],
+          "ur": ["مزہ", "مزے", "مزے دار", "مزیدار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مسجد",
+        "token": {
+          "en": ["mosque", "masjid"],
+          "ur": ["مسجد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مسلمان",
+        "token": {
+          "en": ["muslim", "muslims"],
+          "ur": ["مسلمان", "مسلم", "مسلمانو", "مسلمانوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مشورہ",
+        "token": {
+          "en": ["suggestion", "advice"],
+          "ur": ["مشورہ", "مشورے", "تجویز", "نصیحت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مشکل",
+        "token": {
+          "en": ["difficult", "difficulty", "hardship"],
+          "ur": ["مشکل", "دشواری", "دشوار", "کٹھن"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_نام", "pk-hfad-1_دنیا"],
+        "label": "pk-hfad-1_مشہور",
+        "token": {
+          "en": ["famous", "fame", "popular"],
+          "ur": ["مشہور", "شہرت", "نامور", "مقبول"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مصروف",
+        "token": {
+          "en": ["busy", "preoccupied"],
+          "ur": ["مصروف", "مصروفیت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مصیبت",
+        "token": {
+          "en": ["trouble", "problem"],
+          "ur": ["مصیبت", "مسئلہ", "مسئلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مطالعہ-پاکستان",
+        "token": {
+          "en": ["pak study", "pak studies", "pakistan studies"],
+          "ur": ["مطالعہ پاکستان", "پاکستان اسٹڈیز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_معاشرہ",
+        "token": {
+          "en": ["society", "social"],
+          "ur": ["معاشرہ", "سماج", "سماجی", "معاشرے", "معاشرتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_معاف",
+        "token": {
+          "en": ["forgive", "forgiveness", "pardon", "amnesty", "apology", "apologize"],
+          "ur": ["معاف", "معافی", "معذرت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_معلومات",
+        "token": {
+          "en": ["information", "knowledge"],
+          "ur": ["معلومات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مغرب(نماز)",
+        "token": {
+          "en": ["maghrib"],
+          "ur": ["مغرب(نماز)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مقابلہ",
+        "token": {
+          "en": ["competition", "competitiveness", "rivalry"],
+          "ur": ["مقابلہ", "مقابلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مقصد",
+        "token": {
+          "en": ["purpose", "intention"],
+          "ur": ["مقصد", "نیت", "ارادہ", "اِرادہ", "غرض"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ملتان",
+        "token": {
+          "en": ["multan"],
+          "ur": ["ملتان", "ملتانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ملک(country)",
+        "token": {
+          "en": ["country(homeland)"],
+          "ur": ["ملک(وطن)", "مُلک", "وطن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ممانی",
+        "token": {
+          "en": ["aunt(mother's-brother's-wife-ممانی)", "aunty(mother's-brother's-wife-ممانی)"],
+          "ur": ["ممانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مور",
+        "token": {
+          "en": ["peacock"],
+          "ur": ["مور", "مورنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_موسم",
+        "token": {
+          "en": ["weather", "season(weather)"],
+          "ur": ["موسم", "موسمی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مولی",
+        "token": {
+          "en": ["radish"],
+          "ur": ["مولی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مونث",
+        "token": {
+          "en": ["feminine"],
+          "ur": ["مونث"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مچھلی",
+        "token": {
+          "en": ["fish"],
+          "ur": ["مچھلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مکمل",
+        "token": {
+          "en": ["complete", "completed", "full"],
+          "ur": ["مکمل", "پورا", "پوری(مکمل)", "پورے", "بھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مکھن",
+        "token": {
+          "en": ["butter"],
+          "ur": ["مکھن"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مگرمچھ",
+        "token": {
+          "en": ["crocodile", "alligator"],
+          "ur": ["مگرمچھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مہینہ",
+        "token": {
+          "en": ["month", "monthly"],
+          "ur": ["مہینہ", "مہینے", "ماہانہ", "ماہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میدان",
+        "token": {
+          "en": ["ground(land)", "land(ground)"],
+          "ur": ["میدان", "میدانی", "زمیں", "زمین(میدان)", "زمینی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میرا",
+        "token": {
+          "en": ["mine(masculine-میرا)", "my(masculine-میرا)"],
+          "ur": ["میرا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میری",
+        "token": {
+          "en": ["mine(feminine-میری)", "my(feminine-میری)"],
+          "ur": ["میری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میرے",
+        "token": {
+          "en": ["mine(میرے)", "my(میرے)"],
+          "ur": ["میرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میز",
+        "token": {
+          "en": ["table(furniture)", "desk"],
+          "ur": ["میز", "ٹیبل", "ڈیسک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مینار-پاکستان",
+        "token": {
+          "en": ["minar e pakistan", "minar-e-pakistan"],
+          "ur": ["مینار پاکستان", "مینارِ پاکستان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_مینڈک",
+        "token": {
+          "en": ["frog", "toad"],
+          "ur": ["مینڈک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میں(i)",
+        "token": {
+          "en": ["i(me)"],
+          "ur": ["میں(متکلم)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_میں(in)",
+        "token": {
+          "en": ["in", "inside"],
+          "ur": ["میں(اندر)", "اندر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ناراض",
+        "token": {
+          "en": ["angry(displeased)", "offended", "annoyed"],
+          "ur": ["ناراض", "ناراضی", "ناراضگی", "خفا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نارنجی(رنگ)",
+        "token": {
+          "en": ["orange(color)"],
+          "ur": ["نارنجی(رنگ)", "اورینج(رنگ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ناریل",
+        "token": {
+          "en": ["coconut"],
+          "ur": ["ناریل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نام",
+        "token": {
+          "en": ["name", "named"],
+          "ur": ["نام"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نان",
+        "token": {
+          "en": ["naan", "flatbread(naan)"],
+          "ur": ["نان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نانا",
+        "token": {
+          "en": ["maternal grandfather", "grandfather(maternal)"],
+          "ur": ["نانا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نانی",
+        "token": {
+          "en": ["maternal grandmother", "grandmother(maternal)"],
+          "ur": ["نانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نزدیک",
+        "token": {
+          "en": ["near", "nearby", "close(near)"],
+          "ur": ["نزدیک", "نزدیکی", "قریب", "قریبی", "پاس(نزدیک)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نسل",
+        "token": {
+          "en": ["ethnicity", "ethnic"],
+          "ur": ["نسل", "نسلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نظام",
+        "token": {
+          "en": ["system"],
+          "ur": ["نظام", "نظامِ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نظرانداز",
+        "token": {
+          "en": ["ignore", "ignored", "disregard"],
+          "ur": ["نظر انداز", "نظرانداز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نظم-و-ضبط",
+        "token": {
+          "en": ["discipline"],
+          "ur": ["نظم و ضبط"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نعمت",
+        "token": {
+          "en": ["blessing"],
+          "ur": ["نعمت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نفرت",
+        "token": {
+          "en": ["hate", "hatred", "loathing", "loathe"],
+          "ur": ["نفرت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نقصان",
+        "token": {
+          "en": ["damage", "loss"],
+          "ur": ["نقصان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نقل",
+        "token": {
+          "en": ["duplicate", "plagiarize", "plagiarism", "copy(clone)", "copying"],
+          "ur": ["نقل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نماز",
+        "token": {
+          "en": ["salat", "namaz", "prayer(namaz)"],
+          "ur": ["نماز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نمک",
+        "token": {
+          "en": ["salt", "salty", "salted"],
+          "ur": ["نمک", "نمکین"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نواب",
+        "token": {
+          "en": ["nawab"],
+          "ur": ["نواب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نوکر",
+        "token": {
+          "en": ["servant", "maid"],
+          "ur": ["نوکر", "نوکرانی", "خادم", "خادمہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نہر",
+        "token": {
+          "en": ["canal"],
+          "ur": ["نہر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نہیں",
+        "token": {
+          "en": ["no", "not", "green", "greenish", "leaf"],
+          "ur": ["نہیں", "نہ", "پتا(پودا)", "پتے(پودا)", "پتی(پودا)", "سبز", "ہرا(سبز)", "ہری", "ہرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نیا",
+        "token": {
+          "en": ["new", "latest"],
+          "ur": ["نیا", "نئی", "نئے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نیلا",
+        "token": {
+          "en": ["blue"],
+          "ur": ["نیلا", "نیلی", "نیلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_نے",
+        "token": {
+          "en": ["by(active-voice-نے)"],
+          "ur": ["نے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_واحد",
+        "token": {
+          "en": ["singular"],
+          "ur": ["واحد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ورزش",
+        "token": {
+          "en": ["exercise", "workout"],
+          "ur": ["ورزش"]
+        }
+      },
+      {
+        "components": [
+          "pk-hfad-1_a(double-handed-letter)",
+          "pk-hfad-1_a(double-handed-letter)",
+          "pk-hfad-1_a(double-handed-letter)"
+        ],
+        "label": "pk-hfad-1_وزیراعظم",
+        "token": {
+          "en": ["prime minister"],
+          "ur": ["وزیراعظم", "وزیرِاعظم", "وزیر اعظم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_وعدہ",
+        "token": {
+          "en": ["promise", "promised", "pledge", "pledged"],
+          "ur": ["وعدہ", "وعدے", "عہد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_وقت",
+        "token": {
+          "en": ["time"],
+          "ur": ["وقت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_وکیل",
+        "token": {
+          "en": ["lawyer", "attorney"],
+          "ur": ["وکیل", "وکالت", "ایڈووکیٹ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_وہ",
+        "token": {
+          "en": ["that", "he", "she", "they"],
+          "ur": ["وہ", "وہی", "اُس", "اُسے", "اُسی", "اس(اُس)", "اسی(اُسی)", "اسے(اُسے)", "اُن", "ان(اُن)"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وہ", "pk-hfad-1_جگہ"],
+        "label": "pk-hfad-1_وہاں",
+        "token": {
+          "en": ["there"],
+          "ur": ["وہاں", "وہیں", "ادھر(وہاں)", "اُدھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ٹماٹر",
+        "token": {
+          "en": ["tomato"],
+          "ur": ["ٹماٹر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پالک",
+        "token": {
+          "en": ["spinach"],
+          "ur": ["پالک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پتلون",
+        "token": {
+          "en": ["pants(trousers)", "pajamas"],
+          "ur": ["پتلون", "پاجامہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پر(at)",
+        "token": {
+          "en": ["on(at)", "at"],
+          "ur": ["پر(پہ)", "پہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پرسوں(day-after-tomorrow)",
+        "token": {
+          "en": ["day after tomorrow"],
+          "ur": ["پرسوں(مستقبل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پریشان",
+        "token": {
+          "en": ["upset", "confused"],
+          "ur": ["پریشان", "پریشانی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پسند",
+        "token": {
+          "en": ["like(admire)", "liked", "likes", "liking", "keenness"],
+          "ur": ["پسند", "رغبت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پشاور",
+        "token": {
+          "en": ["peshawar"],
+          "ur": ["پشاور", "پشاوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پنجاب",
+        "token": {
+          "en": ["punjab"],
+          "ur": ["پنجاب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پودے",
+        "token": {
+          "en": ["plants"],
+          "ur": ["پودے", "پودوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پھل",
+        "token": {
+          "en": ["fruit", "fruits"],
+          "ur": ["پھل", "پھلوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پھول(flower)",
+        "token": {
+          "en": ["flower"],
+          "ur": ["پھول(گُل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پھوپھا",
+        "token": {
+          "en": ["uncle(father's-sister's-husband-پھوپھا)"],
+          "ur": ["پھوپھا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پھوپھی",
+        "token": {
+          "en": ["aunt(father's-sister-پھوپھی)", "aunty(father's-sister-پھوپھی)"],
+          "ur": ["پھوپھی", "پھوپھو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پہاڑ",
+        "token": {
+          "en": ["mountain", "mountains", "hills", "hilly", "mountainous"],
+          "ur": ["پہاڑ", "پہاڑی", "پہاڑوں", "کوہ", "کوہِ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پیاز",
+        "token": {
+          "en": ["onion"],
+          "ur": ["پیاز"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پیاس",
+        "token": {
+          "en": ["thirst", "thirsty"],
+          "ur": ["پیاس", "پیاسا", "پیاسی", "پیاسے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پیغمبر",
+        "token": {
+          "en": ["prophet"],
+          "ur": ["پیغمبر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_پیلا",
+        "token": {
+          "en": ["yellow", "yellowish"],
+          "ur": ["پیلا", "پیلی", "پیلے", "زرد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چ",
+        "token": {
+          "en": ["چ"],
+          "ur": ["چ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چالاک",
+        "token": {
+          "en": ["cunning", "clever"],
+          "ur": ["چالاک", "چالاکی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چاند",
+        "token": {
+          "en": ["moon", "lunar"],
+          "ur": ["چاند", "قمری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چاندی",
+        "token": {
+          "en": ["silver"],
+          "ur": ["چاندی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چاول",
+        "token": {
+          "en": ["rice"],
+          "ur": ["چاول", "چاولوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چست",
+        "token": {
+          "en": ["fit", "fitness", "agility(physical)", "agile(physically)"],
+          "ur": ["چست", "چستی", "پھرتیلا", "پھرتیلی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چشمہ(water-spring)",
+        "token": {
+          "en": ["spring(water-basin)"],
+          "ur": ["چشمہ(فوارہ)", "چشمے(فوارہ)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چغلی",
+        "token": {
+          "en": ["backbiting"],
+          "ur": ["چغلی", "غیبت"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چلنا",
+        "token": {
+          "en": ["walk", "walking"],
+          "ur": [
+            "چل(پیدل)",
+            "چلا(پیدل)",
+            "چلتا(پیدل)",
+            "چلتی(پیدل)",
+            "چلتے(پیدل)",
+            "چلنا(پیدل)",
+            "چلنے(پیدل)",
+            "چلو(پیدل)",
+            "چلوں(پیدل)",
+            "چلی(پیدل)",
+            "چلیں(پیدل)",
+            "چلے(پیدل)",
+            "پیدل"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چنا-چاٹ(food)",
+        "token": {
+          "en": ["chana chaat"],
+          "ur": ["چنا چاٹ(غذا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چند",
+        "token": {
+          "en": ["few", "some"],
+          "ur": ["چند", "کچھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چوبرجی",
+        "token": {
+          "en": ["chauburji"],
+          "ur": ["چوبرجی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چور",
+        "token": {
+          "en": ["thief", "theft"],
+          "ur": ["چور", "چوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چونا-پتھر",
+        "token": {
+          "en": ["limestone"],
+          "ur": ["چونا پتھر", "چونے کا پتھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چوکیدار",
+        "token": {
+          "en": ["security guard", "watchman"],
+          "ur": ["چوکیدار", "سیکورٹی گارڈ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چوہا",
+        "token": {
+          "en": ["rat", "mouse"],
+          "ur": ["چوہا", "چوہیا", "چوہے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چوہدری",
+        "token": {
+          "en": ["chaudhary"],
+          "ur": ["چوہدری", "چودھری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چچا",
+        "token": {
+          "en": ["uncle(father's-younger-brother-چچا)"],
+          "ur": ["چچا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چچی",
+        "token": {
+          "en": ["aunt(father's-younger-brother's-wife-چچی)", "aunty(father's-younger-brother's-wife-چچی)"],
+          "ur": ["چچی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چڑیا",
+        "token": {
+          "en": ["sparrow"],
+          "ur": ["چڑیا"]
+        }
+      },
+      {
+        "components": [
+          "pk-hfad-1_شیر",
+          "pk-hfad-1_z(double-handed-letter)",
+          "pk-hfad-1_o(single-handed-letter)",
+          "pk-hfad-1_o(single-handed-letter)"
+        ],
+        "label": "pk-hfad-1_چڑیا-گھر",
+        "token": {
+          "en": ["zoo"],
+          "ur": ["چڑیا گھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چکا(has)",
+        "token": {
+          "en": ["has(masculine-چکا)", "had(masculine-چکا)"],
+          "ur": ["چکا(چُکا)", "چُکا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چکنی-مٹی",
+        "token": {
+          "en": ["clay"],
+          "ur": ["چکنی مٹی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چکوال",
+        "token": {
+          "en": ["chakwal"],
+          "ur": ["چکوال"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چکی(has)",
+        "token": {
+          "en": ["has(feminine-چکی)", "had(feminine-چکی)"],
+          "ur": ["چکی(چُکی)", "چُکی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چکے(have)",
+        "token": {
+          "en": ["have(چکے)", "had(چکے)"],
+          "ur": ["چکے(چُکے)", "چُکے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چھٹی(holiday)",
+        "token": {
+          "en": ["holiday", "off time", "time off", "day off"],
+          "ur": ["چھٹی(تعطیل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چھیننا",
+        "token": {
+          "en": ["snatch", "snatched"],
+          "ur": [
+            "چھین",
+            "چھینا",
+            "چھینتا",
+            "چھینتی",
+            "چھینتے",
+            "چھیننا",
+            "چھیننے",
+            "چھینو",
+            "چھینوں",
+            "چھینی",
+            "چھینیں",
+            "چھینے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_چینی(sugar)",
+        "token": {
+          "en": ["sugar"],
+          "ur": ["چینی(میٹھا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ڈاکو",
+        "token": {
+          "en": ["dacoit", "robber", "robbery", "bandit"],
+          "ur": ["ڈاکو", "ڈکیت", "ڈکیتی", "ڈاکہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ڈبل-روٹی",
+        "token": {
+          "en": ["bread"],
+          "ur": ["ڈبل روٹی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ڈھونڈنا",
+        "token": {
+          "en": ["find", "found(find)", "finding(verb)"],
+          "ur": [
+            "ڈھونڈ",
+            "ڈھونڈا",
+            "ڈھونڈتا",
+            "ڈھونڈتی",
+            "ڈھونڈتے",
+            "ڈھونڈنا",
+            "ڈھونڈنے",
+            "ڈھونڈو",
+            "ڈھونڈوں",
+            "ڈھونڈی",
+            "ڈھونڈیں",
+            "ڈھونڈے"
+          ]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ڑ",
+        "token": {
+          "en": ["ڑ"],
+          "ur": ["ڑ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ژ",
+        "token": {
+          "en": ["ژ"],
+          "ur": ["ژ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ژالہ-باری",
+        "token": {
+          "en": ["hailstorm"],
+          "ur": ["ژالہ باری", "اولہ باری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کا",
+        "token": {
+          "en": ["of(masculine-کا)"],
+          "ur": ["کا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کافر",
+        "token": {
+          "en": ["infidel"],
+          "ur": ["کافر", "کفر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کالا",
+        "token": {
+          "en": ["black"],
+          "ur": ["کالا", "کالے", "کالی", "سیاہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کام",
+        "token": {
+          "en": ["work", "task"],
+          "ur": ["کام"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_کام", "pk-hfad-1_چور"],
+        "label": "pk-hfad-1_کام-چور",
+        "token": {
+          "en": ["workshy", "work-shy", "work dodger"],
+          "ur": ["کام چور", "کام چوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کامیابی",
+        "token": {
+          "en": ["achievement", "conquest", "success", "succeed", "succeeded", "successful", "victory"],
+          "ur": ["کامیابی", "کامیاب", "فتح"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_عمر(age)", "pk-hfad-1_کیا(what)"],
+        "label": "pk-hfad-1_کب",
+        "token": {
+          "en": ["when"],
+          "ur": ["کب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کباب",
+        "token": {
+          "en": ["kebab"],
+          "ur": ["کباب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کبوتر",
+        "token": {
+          "en": ["pigeon"],
+          "ur": ["کبوتر", "کبوتری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کتا",
+        "token": {
+          "en": ["dog", "bitch"],
+          "ur": ["کتا", "کُتّا", "کتی", "کتے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کتاب",
+        "token": {
+          "en": ["book", "textbook"],
+          "ur": ["کتاب"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرتا(does)",
+        "token": {
+          "en": ["does(masculine-کرتا)", "do(masculine-کرتا)"],
+          "ur": ["کرتا(فعل-مضارع)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرتی(does)",
+        "token": {
+          "en": ["does(feminine-کرتی)", "do(feminine-کرتی)"],
+          "ur": ["کرتی(فعل-مضارع)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرتے(do)",
+        "token": {
+          "en": ["do(کرتے)"],
+          "ur": ["کرتے(فعل-مضارع)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرسی",
+        "token": {
+          "en": ["chair"],
+          "ur": ["کرسی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرو",
+        "token": {
+          "en": ["do(کرو)"],
+          "ur": ["کرو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کروں",
+        "token": {
+          "en": ["do(کروں)"],
+          "ur": ["کروں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کریں",
+        "token": {
+          "en": ["do(کریں)"],
+          "ur": ["کریں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کرے",
+        "token": {
+          "en": ["do(کرے)"],
+          "ur": ["کرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کس(whom)",
+        "token": {
+          "en": ["whom", "whose"],
+          "ur": ["کس(سوال)", "کسی(سوال)", "کسے(سوال)", "کِس", "کِسی", "کِسے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کسان",
+        "token": {
+          "en": ["farmer"],
+          "ur": ["کسان", "کاشتکار"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کل(tomorrow)",
+        "token": {
+          "en": ["tomorrow"],
+          "ur": ["کل(آئندہ-دن)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کلمہ",
+        "token": {
+          "en": ["kalmah"],
+          "ur": ["کلمہ", "کلمۂ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کلمہ-چوک",
+        "token": {
+          "en": ["kalma chowk"],
+          "ur": ["کلمہ چوک"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کمزور",
+        "token": {
+          "en": ["weak", "weaker", "weakness"],
+          "ur": ["کمزور", "کمزوری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کنجوس",
+        "token": {
+          "en": ["miser", "pinchpenny", "stingy"],
+          "ur": ["کنجوس", "کنجوسی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_k(single-handed-letter)", "pk-hfad-1_o(single-handed-letter)"],
+        "label": "pk-hfad-1_کو",
+        "token": {
+          "en": ["to"],
+          "ur": ["کو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کوا",
+        "token": {
+          "en": ["crow", "raven"],
+          "ur": ["کوا", "کوے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کوشش",
+        "token": {
+          "en": ["try", "effort", "endeavor"],
+          "ur": ["کوشش", "جدوجہد"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کون",
+        "token": {
+          "en": ["who"],
+          "ur": ["کون"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_saudi-arabia", "pk-hfad-1_k(double-handed-letter)"],
+        "label": "pk-hfad-1_کویت",
+        "token": {
+          "en": ["kuwait"],
+          "ur": ["کویت", "کویتی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کچھوا",
+        "token": {
+          "en": ["tortoise", "turtle"],
+          "ur": ["کچھوا", "کچھوے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کھیرا",
+        "token": {
+          "en": ["cucumber"],
+          "ur": ["کھیرا", "کھیرے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کھیل",
+        "token": {
+          "en": ["play(sports)", "plays(sports)", "played(sports)", "playing(sports)"],
+          "ur": ["کھیل"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کہانی",
+        "token": {
+          "en": ["story", "tale"],
+          "ur": ["کہانی", "داستان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کی(of)",
+        "token": {
+          "en": ["of(feminine-کی)"],
+          "ur": ["کی(حرف-اضافت)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کیا(what)",
+        "token": {
+          "en": ["what"],
+          "ur": ["کیا(سوال)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کیسا",
+        "token": {
+          "en": ["how(masculine-کیسا)"],
+          "ur": ["کیسا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کیسی",
+        "token": {
+          "en": ["how(feminine-کیسی)"],
+          "ur": ["کیسی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کیسے",
+        "token": {
+          "en": ["how(کیسے)"],
+          "ur": ["کیسے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کیلا",
+        "token": {
+          "en": ["banana", "bananas"],
+          "ur": ["کیلا", "کیلے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_کے(of)",
+        "token": {
+          "en": ["of(کے)"],
+          "ur": ["کے(حرف-اضافت)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گا(will)",
+        "token": {
+          "en": ["will(masculine-گا)", "shall(masculine-گا)"],
+          "ur": ["گا(مستقبل)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گاجر",
+        "token": {
+          "en": ["carrot"],
+          "ur": ["گاجر"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گجرات",
+        "token": {
+          "en": ["gujarat"],
+          "ur": ["گجرات"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گدھا",
+        "token": {
+          "en": ["donkey"],
+          "ur": ["گدھا", "گدھی", "گدھے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_گدھا", "pk-hfad-1_گھوڑا"],
+        "label": "pk-hfad-1_گدھا-گاڑی",
+        "token": {
+          "en": ["donkey cart", "donkey carriage", "donkey chariot"],
+          "ur": ["گدھا گاڑی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گرم",
+        "token": {
+          "en": ["hot", "warm"],
+          "ur": ["گرم"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گرمی",
+        "token": {
+          "en": ["heat(noun)", "warmth", "summer"],
+          "ur": ["گرمی", "تپش"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گلابی",
+        "token": {
+          "en": ["pink"],
+          "ur": ["گلابی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گلیاں",
+        "token": {
+          "en": ["streets", "street"],
+          "ur": ["گلیاں", "گلی", "گلیوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گنا(sugarcane)",
+        "token": {
+          "en": ["sugarcane", "sugar cane"],
+          "ur": ["گنا(پودا)", "گنے(پودا)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گناہ",
+        "token": {
+          "en": ["sin"],
+          "ur": ["گناہ", "گُناہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گوبھی",
+        "token": {
+          "en": ["cauliflower"],
+          "ur": ["گوبھی", "پھول گوبھی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گوجرانوالہ",
+        "token": {
+          "en": ["gujranwala"],
+          "ur": ["گوجرانوالہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گئی",
+        "token": {
+          "en": ["went(feminine-گئی)", "gone(feminine-گئی)"],
+          "ur": ["گئی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گئے",
+        "token": {
+          "en": ["went(گئے)", "gone(گئے)"],
+          "ur": ["گئے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گھر",
+        "token": {
+          "en": ["house", "home", "residence"],
+          "ur": ["گھر", "رہائش گاہ", "مکان"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گھنٹی",
+        "token": {
+          "en": ["bell"],
+          "ur": ["گھنٹی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گھوڑا",
+        "token": {
+          "en": ["horse"],
+          "ur": ["گھوڑا", "گھوڑی", "گھوڑے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گی",
+        "token": {
+          "en": ["will(feminine-گی)"],
+          "ur": ["گی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گیا",
+        "token": {
+          "en": ["went(masculine-گیا)", "gone(masculine-گیا)"],
+          "ur": ["گیا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_گے",
+        "token": {
+          "en": ["will(گے)"],
+          "ur": ["گے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ں",
+        "token": {
+          "en": ["ں"],
+          "ur": ["ں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ھ",
+        "token": {
+          "en": ["ھ"],
+          "ur": ["ھ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہ",
+        "token": {
+          "en": ["ہ"],
+          "ur": ["ہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہاتھی",
+        "token": {
+          "en": ["elephant"],
+          "ur": ["ہاتھی", "ہتھنی"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہری-مرچ",
+        "token": {
+          "en": ["green chilli"],
+          "ur": ["ہری مرچ", "سبز مرچ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہم(we)",
+        "token": {
+          "en": ["we"],
+          "ur": ["ہم(متکلم)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہمارا",
+        "token": {
+          "en": ["our(masculine-ہمارا)"],
+          "ur": ["ہمارا"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہماری",
+        "token": {
+          "en": ["our(feminine-ہماری)"],
+          "ur": ["ہماری"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہمارے",
+        "token": {
+          "en": ["our(ہمارے)"],
+          "ur": ["ہمارے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہمیشہ",
+        "token": {
+          "en": ["always", "forever"],
+          "ur": ["ہمیشہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہمیں",
+        "token": {
+          "en": ["us"],
+          "ur": ["ہمیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہندو",
+        "token": {
+          "en": ["hindu"],
+          "hi": ["हिंदू"],
+          "ur": ["ہندو"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہوا(air)",
+        "token": {
+          "en": ["air"],
+          "ur": ["ہوا(فضا)", "ہوائی(فضائی)"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہوں",
+        "token": {
+          "en": ["am"],
+          "ur": ["ہوں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہیں",
+        "token": {
+          "en": ["are"],
+          "ur": ["ہیں"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہے",
+        "token": {
+          "en": ["is"],
+          "ur": ["ہے"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_یقینا",
+        "token": {
+          "en": ["indeed", "surely", "definitely"],
+          "ur": ["یقینا", "یقیناً", "بے شک", "بِلاشُبہ", "بلاشُبہ", "بلاشبہ"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_یہ",
+        "token": {
+          "en": ["it", "this"],
+          "ur": [
+            "یہ",
+            "یہی",
+            "اِس",
+            "اِسی",
+            "اِسے",
+            "اس(اِس)",
+            "اسی(اِسی)",
+            "اسے(اِسے)",
+            "اِن",
+            "ان(اِن)",
+            "اِنہی",
+            "اِنہیں",
+            "اِنہوں"
+          ]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_یہ", "pk-hfad-1_جگہ"],
+        "label": "pk-hfad-1_یہاں",
+        "token": {
+          "en": ["here"],
+          "ur": ["یہاں", "یہیں", "ادھر(یہاں)", "اِدھر"]
+        }
+      },
+      {
+        "label": "pk-hfad-2_hour",
+        "token": {
+          "en": ["hour"],
+          "hi": ["घंटा(समय)", "घंटे"],
+          "latn-ur": ["ghanta", "ghanty"],
+          "ur": ["گھنٹہ", "گھنٹے"]
+        }
+      }
+    ],
+    "organization": "hfad",
+    "url": "https://www.youtube.com/@pslhamzafoundationacademyf7624/videos"
+  },
+  {
+    "country": "pk",
+    "description": "constructable tokens (sign-phrases) in pakistan sign language made from pk-hfad-1 dictionary.",
+    "mapping": [
+      {
+        "components": ["pk-hfad-1_حساب", "pk-hfad-1_کیا(what)"],
+        "token": {
+          "en": ["how many", "how much"],
+          "ur": ["کتنے", "کتنا", "کتنی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_خوش", "pk-hfad-1_استقبال"],
+        "token": {
+          "en": ["welcome(exclamation)"],
+          "ur": ["خوش آمدید"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_کام", "pk-hfad-1_مختلف"],
+        "token": {
+          "en": ["professions"],
+          "ur": ["پیشے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_دکان", "pk-hfad-1_بازار"],
+        "token": {
+          "en": ["shopkeeper"],
+          "ur": ["دکاندار", "دُکاندار"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_c(double-handed-letter)", "pk-hfad-1_m(double-handed-letter)"],
+        "token": {
+          "en": ["chief minister"],
+          "ur": ["وزیر اعلی", "وزیر اعلیٰ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_دنیا", "pk-hfad-1_sports"],
+        "token": {
+          "en": ["olympic", "olympics"],
+          "ur": ["اولمپک", "اولمپکس"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_sports", "pk-hfad-1_قمیض"],
+        "token": {
+          "en": ["tracksuit"],
+          "ur": ["ٹریک سوٹ"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_ثواب", "pk-hfad-1_کام"],
+        "token": {
+          "en": ["good deed"],
+          "ur": ["نیکی", "بھلائی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_گناہ", "pk-hfad-1_کام"],
+        "token": {
+          "en": ["evil", "bad deed"],
+          "ur": ["برائی", "بُرائی", "بدی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_اللہ", "pk-hfad-1_ساتھ", "pk-hfad-1_مختلف"],
+        "token": {
+          "en": ["polytheism"],
+          "ur": ["شرک"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_کے(of)", "pk-hfad-1_لیے(for)"],
+        "token": {
+          "en": ["for(کیلئے)"],
+          "ur": ["کیلئے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_today", "pk-hfad-1_کل(tomorrow)"],
+        "token": {
+          "en": ["now a days"],
+          "ur": ["آجکل"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کا"],
+        "token": {
+          "en": ["your(آپکا)"],
+          "ur": ["آپکا"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کی(of)"],
+        "token": {
+          "en": ["your(آپکی)"],
+          "ur": ["آپکی"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کے(of)"],
+        "token": {
+          "en": ["your(آپکے)"],
+          "ur": ["آپکے"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کو"],
+        "token": {
+          "en": ["to you(formal-آپ)"],
+          "ur": ["آپکو"]
+        }
+      }
+    ],
+    "organization": "hfad",
+    "url": "https://www.youtube.com/@pslhamzafoundationacademyf7624/videos"
+  }
+]

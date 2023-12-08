@@ -1,0 +1,121 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "definitions": {
+    "label": {
+      "type": "string",
+      "minLength": 9,
+      "description": "Text label of the sign. Also the filename in the sign dictionary. Format: `country-organization-number_word-sequence(optional-disambiguation)-representing-the-sign`",
+      "pattern": "^[a-z]{2}-[a-z]{2,}-[0-9]+_([^ _\\./])+$",
+      "examples": ["pk-hfad-1_بادشاہی-مسجد", "pk-hfad-1_bottle(noun)", "pk-fesf-1_able"]
+    },
+    "components": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/label" },
+      "minItems": 2,
+      "description": "List of labels that can be concatenated to form the sign."
+    },
+    "listOfTexts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "languages": {
+      "type": "object",
+      "patternProperties": {
+        "^([a-z]{4}-)?[a-z]{2}$": { "$ref": "#/definitions/listOfTexts" }
+      },
+      "additionalProperties": false,
+      "minProperties": 1,
+      "description": "Object mapping language code to list of texts of that language. Language code must be ISO 639-1 2-letter language code optionally preceded by optional ISO 15924 4-letter script code and a hyphen. (lower case)",
+      "examples": [
+        {
+          "en": ["hello"]
+        },
+        {
+          "en": ["how are you"],
+          "hi": ["आप कैसे हैं"]
+        },
+        {
+          "latn-ur": ["kya haal hai?"],
+          "ur": ["کیا حال ہے؟"]
+        }
+      ]
+    }
+  },
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "country": {
+        "type": "string",
+        "description": "ISO 3166-1 alpha-2 country code. (lower case)",
+        "pattern": "^[a-z]{2}$"
+      },
+      "description": {
+        "type": "string",
+        "description": "The description of this collection. Include Sign Language name, full country name, region name and the full name of the organization."
+      },
+      "organization": {
+        "type": "string",
+        "minLength": 2,
+        "description": "The short code of the organization which is the source for this dataset. (lower case /[a-z]{2,}/)",
+        "pattern": "^[a-z]{2,}$"
+      },
+      "url": {
+        "type": "string",
+        "description": "The url where the dataset is hosted."
+      },
+      "mapping": {
+        "type": "array",
+        "items": {
+          "anyOf": [
+            {
+              "type": "object",
+              "properties": {
+                "label": { "$ref": "#/definitions/label" },
+                "components": { "$ref": "#/definitions/components" },
+                "token": { "$ref": "#/definitions/languages" }
+              },
+              "required": ["label", "token"],
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "properties": {
+                "components": { "$ref": "#/definitions/components" },
+                "token": { "$ref": "#/definitions/languages" }
+              },
+              "required": ["components", "token"],
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "properties": {
+                "label": { "$ref": "#/definitions/label" },
+                "components": { "$ref": "#/definitions/components" },
+                "transcription": { "$ref": "#/definitions/languages" },
+                "translation": { "$ref": "#/definitions/languages" }
+              },
+              "required": ["label", "transcription", "translation"],
+              "additionalProperties": false
+            },
+            {
+              "type": "object",
+              "properties": {
+                "components": { "$ref": "#/definitions/components" },
+                "transcription": { "$ref": "#/definitions/languages" },
+                "translation": { "$ref": "#/definitions/languages" }
+              },
+              "required": ["components", "transcription", "translation"],
+              "additionalProperties": false
+            }
+          ]
+        },
+        "uniqueItems": true
+      }
+    },
+    "required": ["country", "description", "organization", "url", "mapping"]
+  }
+}

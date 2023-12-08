@@ -1,0 +1,68 @@
+name: JSON Schema Validation
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  json-schema-validation:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli
+
+      - name: Validate Mapping JSON files against Schema
+        run: |
+          ajv -s schemas/mapping-schema.json -d "parallel_texts/*-mapping.json"
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Find Duplicate 'label' in Mapping JSON files
+        run: |
+          duplicate_labels=$(jq -s 'map(.[] | .mapping[] | select(has("label"))) | group_by(.label)[] | select(length > 1) | .[]' parallel_texts/*-mapping.json)
+        # 1. concatenate files & flatten 2. flatten 'mapping' values 3. filter & group by 'label' key 4. select repeated values 5. flatten again
+
+      - name: Find Duplicate 'components' in Mapping JSON files
+        run: |
+          duplicate_components=$(jq -s 'map(.[] | .mapping[] | select(has("components"))) | group_by(.components)[] | select(length > 1) | .[]' parallel_texts/*-mapping.json)
+        # 1. concatenate files & flatten 2. flatten 'mapping' values 3. filter & group by 'components' key 4. select repeated values 5. flatten again
+
+      - name: Validate Duplications
+        run: |
+          if [ -n "$duplicate_labels" ] || [ -n "$duplicate_components" ]; then
+            echo "Duplicates found:"
+            echo "By Labels:"
+            echo "$duplicate_labels"
+            echo "By Components:"
+            echo "$duplicate_components"
+            exit 1
+          fi
+
+      - name: Find unknown labels inside 'components' arrays
+        run: |
+          jq_component_validation_script='
+            def valid_labels:
+              map(.[] | .mapping[] | select(has("label")) | .label) | unique;
+
+            def invalid_components($labels):
+              map(.[] | .mapping[] | select(has("components")) |
+                  .components[] as $component |
+                  select($labels | index($component) | not) | $component);
+
+            valid_labels as $labels | invalid_components($labels)
+          '
+          unknown_components=$(jq -s "$jq_component_validation_script" parallel_texts/*-mapping.json)
+
+      - name: Validate 'components'
+        run: |
+          if [ "$unknown_components" != "[]" ]; then
+            echo "Unknown components found:"
+            echo "$unknown_components"
+            exit 1
+          fi

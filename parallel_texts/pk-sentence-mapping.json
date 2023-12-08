@@ -1,0 +1,199 @@
+[
+  {
+    "country": "pk",
+    "description": "sentences from pakistan sign language videos taught in hamza foundation academy for the deaf, lahore, pakistan..",
+    "mapping": [
+      {
+        "label": "pk-hfad-1_اللہ-ہم(we)-پر-رحم-amen",
+        "transcription": {
+          "en": ["god us on mercy amen", "allah us on mercy amen"],
+          "latn-ur": ["Allah hm pr rehm amen"],
+          "ur": ["اللہ ہم پر رحم آمین", "اللہ تعالی ہم پر رحم آمین", "خدا ہم پر رحمت آمین"]
+        },
+        "translation": {
+          "en": ["God have mercy on us, amen.", "Allah have mercy on us, amen."],
+          "hi": ["भगवान हम पर दया करें आमीन!", "ईश्वर हम पर दया करें, आमीन."],
+          "latn-ur": ["Allah ham par reham farma, Aameen."],
+          "ur": ["اللہ ہم پر رحم کر، آمین۔", "اللہ تعالی ہم پر رحمت فرما، آمین!", "خدا ہم پر رحم فرما، آمین۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کا", "pk-hfad-1_نام", "pk-hfad-1_کیا(what)", "pk-hfad-1_ہے"],
+        "label": "pk-hfad-1_آپ-کا-نام-کیا(what)-ہے",
+        "transcription": {
+          "en": ["your name what is"],
+          "latn-ur": ["aap ka nam kya hai"],
+          "ur": ["آپ کا نام کیا ہے"]
+        },
+        "translation": {
+          "en": ["What is your name?"],
+          "hi": ["आपका क्या नाम है?"],
+          "latn-ur": ["Aap ka naam kya hai?"],
+          "ur": ["آپ کا نام کیا ہے؟", "آپ کا کیا نام ہے؟"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_اپنا(ذاتی)", "pk-hfad-1_کام", "pk-hfad-1_کرو"],
+        "label": "pk-hfad-1_اپنا(ذاتی)-کام-کرو",
+        "transcription": {
+          "en": ["own work do"],
+          "latn-ur": ["apna kam kro"],
+          "ur": ["اپنا کام کرو"]
+        },
+        "translation": {
+          "en": ["Do your work.", "Do your own work."],
+          "hi": ["अपना काम करो।."],
+          "latn-ur": ["Apna kam kro."],
+          "ur": ["اپنا کام کرو۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_تم", "pk-hfad-1_آؤ"],
+        "label": "pk-hfad-1_تم-آؤ",
+        "transcription": {
+          "en": ["you come"],
+          "latn-ur": ["tum aao"],
+          "ur": ["تم آؤ"]
+        },
+        "translation": {
+          "en": ["You come."],
+          "hi": ["तुम आओ।."],
+          "latn-ur": ["Tum aao."],
+          "ur": ["تم آؤ۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_میں(i)", "pk-hfad-1_آؤں"],
+        "label": "pk-hfad-1_میں(i)-آؤں",
+        "transcription": {
+          "en": ["i come"],
+          "latn-ur": ["main aaun"],
+          "ur": ["میں آؤں"]
+        },
+        "translation": {
+          "en": ["I come"],
+          "latn-ur": ["Main aaun"],
+          "ur": ["میں آؤں"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آئی(came)"],
+        "label": "pk-hfad-1_وہ-آئی(came)",
+        "transcription": {
+          "en": ["she came"],
+          "latn-ur": ["wo aai"],
+          "ur": ["وہ آئی"]
+        },
+        "translation": {
+          "en": ["She came."],
+          "hi": ["वह आई.", "वह आयी."],
+          "latn-ur": ["Wo aai."],
+          "ur": ["وہ آئی۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آئے"],
+        "label": "pk-hfad-1_وہ-آئے",
+        "transcription": {
+          "en": ["they came"],
+          "latn-ur": ["wo aaey"],
+          "ur": ["وہ آئے"]
+        },
+        "translation": {
+          "en": ["They came."],
+          "hi": ["वे आए।."],
+          "latn-ur": ["Wo aaey."],
+          "ur": ["وہ آئے۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آیا(came)"],
+        "label": "pk-hfad-1_وہ-آیا(came)",
+        "transcription": {
+          "en": ["he came", "he arrived"],
+          "latn-ur": ["wo aaya"],
+          "ur": ["وہ آیا"]
+        },
+        "translation": {
+          "en": ["He came.", "He arrived."],
+          "hi": ["वो आया।.", "वह आया।."],
+          "latn-ur": ["Wo aaya."],
+          "ur": ["وہ آیا۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_وہ", "pk-hfad-1_گیا", "pk-hfad-1_تھا"],
+        "label": "pk-hfad-1_وہ-گیا-تھا",
+        "transcription": {
+          "latn-ur": ["wo gya tha"],
+          "ur": ["وہ گیا تھا"]
+        },
+        "translation": {
+          "en": ["He went."],
+          "hi": ["वह गया था."],
+          "latn-ur": ["Wo gya tha."],
+          "ur": ["وہ گیا تھا۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_ہم(we)", "pk-hfad-1_آئیں"],
+        "label": "pk-hfad-1_ہم(we)-آئیں",
+        "transcription": {
+          "en": ["we come"],
+          "latn-ur": ["hm aaein"],
+          "ur": ["ہم آئیں"]
+        },
+        "translation": {
+          "en": ["We come"],
+          "latn-ur": ["Hum aaein"],
+          "ur": ["ہم آئیں"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_ہم(we)", "pk-hfad-1_جائیں", "pk-hfad-1_گے"],
+        "label": "pk-hfad-1_ہم(we)-جائیں-گے",
+        "transcription": {
+          "en": ["we go will"],
+          "latn-ur": ["hm jaein ge"],
+          "ur": ["ہم جائیں گے"]
+        },
+        "translation": {
+          "en": ["We will go.", "We'll go."],
+          "hi": ["हम जाएंगे."],
+          "latn-ur": ["Hum jaein gy."],
+          "ur": ["ہم جائیں گے۔"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہماری-زبان-کی-گرہ-کھول",
+        "transcription": {
+          "en": ["our tongue 's knot untie"],
+          "latn-ur": ["hmari zuban ki girah khol"],
+          "ur": ["ہماری زبان کی گرہ کھول"]
+        },
+        "translation": {
+          "en": ["Open the knot of our tongue.", "Untie our tongue.", "Open our tongue's knot."],
+          "hi": ["हमारी जीभ की गाँठ खोलें."],
+          "latn-ur": ["Humari zuban ki girah kholein."],
+          "ur": ["ہماری زبان کی گرہ کھولو۔"]
+        }
+      },
+      {
+        "label": "pk-hfad-1_ہمارے-علم-میں(in)-اضافہ-amen",
+        "transcription": {
+          "en": ["our knowledge in increase amen"],
+          "latn-ur": ["hmary ilm mein izafa aameen"],
+          "ur": ["ہمارے علم میں اضافہ آمین"]
+        },
+        "translation": {
+          "en": ["Increase our knowledge, Amen."],
+          "hi": ["हमारा ज्ञान बढ़ाएँ, तथास्तु."],
+          "latn-ur": ["Hamary ilm me izafa kr, aameen."],
+          "ur": ["ہمارے علم میں اضافہ فرما، آمین۔", "ہمارا علم بڑھاو، آمین۔"]
+        }
+      }
+    ],
+    "organization": "hfad",
+    "url": "https://www.youtube.com/@pslhamzafoundationacademyf7624/videos"
+  }
+]

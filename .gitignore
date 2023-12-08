@@ -4,21 +4,14 @@ __pycache__/
 *$py.class
 .pytest_cache
 
-# huge datasets
+# local dataset files
+sign_recordings
 
-sign_recordings/features/**/*.*
-sign_recordings/reference_clips/**/*.*
-sign_recordings/videos/**/*.*
-
-text_corpora/raw_corpora/**/*.*
-text_corpora/supported_substrings_frequency*.json
-
-# keep these so that directory is visible at least
-!sign_recordings/features/**/.gitkeep
-!sign_recordings/reference_clips/**/.gitkeep
-!sign_recordings/videos/**/.gitkeep
+# project configurtion
+.vscode
 
 # other
 temp
+temp_*
 temp.*
 .DS_Store

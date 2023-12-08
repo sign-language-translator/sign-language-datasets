@@ -1,0 +1,24 @@
+[
+  {
+    "country": "pk",
+    "description": "synthetic sentences made from pakistan sign language videos taught in hamza foundation academy for the deaf, lahore, pakistan.",
+    "mapping": [
+      {
+        "components": ["pk-hfad-1_مجھے", "pk-hfad-1_1", "pk-hfad-1_سیب", "pk-hfad-1_دینا"],
+        "transcription": {
+          "en": ["me 1 apple give", "me one apple give"],
+          "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دینا"],
+          "latn-ur": ["mujhey aik seyb dena"]
+        },
+        "translation": {
+          "en": ["Give me an apple.", "Give me one apple."],
+          "hi": ["मुझे एक सेब दो।.", "मुझे एक सेब दीजिए."],
+          "ur": ["مجھے ایک سیب دو۔", "مجھے 1 سیب دینا۔"],
+          "latn-ur": ["mujhey 1 seb do."]
+        }
+      }
+    ],
+    "organization": "hfad",
+    "url": "https://www.youtube.com/@pslhamzafoundationacademyf7624/videos"
+  }
+]
