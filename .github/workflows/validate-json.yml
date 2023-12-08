@@ -61,7 +61,7 @@ jobs:
 
       - name: Validate 'components'
         run: |
-          if [ "$unknown_components" != "[]" ]; then
+          if [ -n "$unknown_components" ]; then
             echo "Unknown components found:"
             echo "$unknown_components"
             exit 1
