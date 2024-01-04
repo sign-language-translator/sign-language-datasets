@@ -4707,6 +4707,7 @@
         "label": "pk-hfad-1_نوکر",
         "token": {
           "en": ["servant", "maid"],
+          "latn-ur": ["naukar", "naukraani", "nokar", "nokrani", "khadim", "khadima", "khaadim", "khaadima"],
           "ur": ["نوکر", "نوکرانی", "خادم", "خادمہ"]
         }
       },
@@ -5049,6 +5050,7 @@
         "label": "pk-hfad-1_چونا-پتھر",
         "token": {
           "en": ["limestone"],
+          "latn-ur": ["chuna pathar", "choona pathar", "chunay ka pathar", "choony ka pathar"],
           "ur": ["چونا پتھر", "چونے کا پتھر"]
         }
       },
@@ -5056,6 +5058,7 @@
         "label": "pk-hfad-1_چوکیدار",
         "token": {
           "en": ["security guard", "watchman"],
+          "latn-ur": ["chowkidar", "chokidar", "security guard"],
           "ur": ["چوکیدار", "سیکورٹی گارڈ"]
         }
       },
@@ -5293,6 +5296,7 @@
         "label": "pk-hfad-1_کبوتر",
         "token": {
           "en": ["pigeon"],
+          "latn-ur": ["kabutar", "kabutri"],
           "ur": ["کبوتر", "کبوتری"]
         }
       },

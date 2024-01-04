@@ -220,7 +220,8 @@ pk-hfad-4_videos-sentences-mp4.zip
 
 </details>
 
-> ***NOTE:***  Ensure uniqueness in sign labels before publishing anything.
+> [!NOTE]\
+> Ensure uniqueness in sign labels before publishing anything.
 
 ## Citation
 
@@ -228,12 +229,14 @@ Coming Soon!
 
 ## Glossary
 
-| Word            | Definition                                                                                                                                                                                                             |
-| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gloss           | Text representation of a sign. A simplified label.                                                                                                                                                                     |
-| Accent          | A particular style of performing a sign such as speed, position and distance traveled by the hand.                                                                                                                     |
-| Transcription   | Word sequence corresponding to the signs performed in the source sign language video.                                                                                                                                  |
-| Translation     | Valid text of a spoken language with the same meaning as source sign language video.                                                                                                                                   |
-| Parallel Corpus | Collection of statements in Sign Language and their translations/transcriptions in spoken language texts.                                                                                                              |
-| Supported Word  | A text language token (word or phrase) for which a sign language video is available in the dictionary.                                                                                                                 |
-| Replication     | Videos created using the dictionary videos or web-scraped sentences as a reference clips.<br/>The performer can be hearing-abled person as well and multiple cameras from different angles can be used simultaneously. |
+| Word                      | Definition                                                                                                                                                                                                             |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Gloss                     | Text representation of a sign. A simplified label.                                                                                                                                                                     |
+| Accent                    | A particular style of performing a sign such as speed, position and distance traveled by the hand.                                                                                                                     |
+| Transcription             | Word sequence corresponding to the signs performed in the source sign language video.                                                                                                                                  |
+| Translation               | Valid text of a spoken language with the same meaning as source sign language video.                                                                                                                                   |
+| Parallel Corpus           | Collection of statements in Sign Language and their translations/transcriptions in spoken language texts.                                                                                                              |
+| Supported Word            | A text language token (word or phrase) for which a sign language video is available in the dictionary.                                                                                                                 |
+| Replication               | Videos created using the dictionary videos or web-scraped sentences as a reference clips.<br/>The performer can be hearing-abled person as well and multiple cameras from different angles can be used simultaneously. |
+| Synthetic Sentence        | A sign language sentence formed by concatenating videos corresponding to word tokens written in a particular order.                                                                                                    |
+| Word Sense Disambiguation | The task of figuring out the meaning or a relevant synonym of a word based on the current context.                                                                                                                     |

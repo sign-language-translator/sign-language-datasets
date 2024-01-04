@@ -65,53 +65,38 @@
       },
       "url": {
         "type": "string",
-        "description": "The url where the dataset is hosted."
+        "description": "The url where the dataset is hosted or is based on."
       },
       "mapping": {
         "type": "array",
         "items": {
-          "anyOf": [
-            {
-              "type": "object",
-              "properties": {
-                "label": { "$ref": "#/definitions/label" },
-                "components": { "$ref": "#/definitions/components" },
-                "token": { "$ref": "#/definitions/languages" }
-              },
-              "required": ["label", "token"],
-              "additionalProperties": false
+          "type": "object",
+          "properties": {
+            "label": { "$ref": "#/definitions/label" },
+            "components": { "$ref": "#/definitions/components" },
+            "token": {
+              "$ref": "#/definitions/languages",
+              "title": "A token is a text word or phrase that represents the sign in the video and has the same meaning."
             },
-            {
-              "type": "object",
-              "properties": {
-                "components": { "$ref": "#/definitions/components" },
-                "token": { "$ref": "#/definitions/languages" }
-              },
-              "required": ["components", "token"],
-              "additionalProperties": false
+            "transcription": {
+              "$ref": "#/definitions/languages",
+              "title": "A transcript is a text with word-for-word mapping of the sign sequence in the video."
             },
-            {
-              "type": "object",
-              "properties": {
-                "label": { "$ref": "#/definitions/label" },
-                "components": { "$ref": "#/definitions/components" },
-                "transcription": { "$ref": "#/definitions/languages" },
-                "translation": { "$ref": "#/definitions/languages" }
-              },
-              "required": ["label", "transcription", "translation"],
-              "additionalProperties": false
-            },
-            {
-              "type": "object",
-              "properties": {
-                "components": { "$ref": "#/definitions/components" },
-                "transcription": { "$ref": "#/definitions/languages" },
-                "translation": { "$ref": "#/definitions/languages" }
-              },
-              "required": ["components", "transcription", "translation"],
-              "additionalProperties": false
+            "translation": {
+              "$ref": "#/definitions/languages",
+              "title": "A translation is a grammatically correct text that has the same meaning as the sign sequence in the video."
             }
-          ]
+          },
+          "allOf": [
+            { "anyOf": [{ "required": ["label"] }, { "required": ["components"] }] },
+            {
+              "oneOf": [
+                { "required": ["token"] },
+                { "anyOf": [{ "required": ["transcription"] }, { "required": ["translation"] }] }
+              ]
+            }
+          ],
+          "additionalProperties": false
         },
         "uniqueItems": true
       }

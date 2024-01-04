@@ -1,10 +1,10 @@
 {
     "joint_word_to_split_words": {
-        "urdu": {},
-        "english": {}
+        "ur": {},
+        "en": {}
     },
     "misspelled_to_correct": {
-        "urdu": {
+        "ur": {
             "ترا": "تیرا",
             "تری": "تیرا",
             "ترے": "تیرے",
@@ -19,10 +19,10 @@
             "اُسکا": "اُس کا",
             "اسکی": "اس کی"
         },
-        "english": {}
+        "en": {}
     },
     "words_to_numbers": {
-        "english": {
+        "en": {
             "zero": 0,
             "one": 1,
             "two": 2,
@@ -124,7 +124,7 @@
             "ninety-eight": 98,
             "ninety-nine": 99
         },
-        "urdu": {
+        "ur": {
             "صفر": 0,
             "ایک": 1,
             "دو": 2,
@@ -228,7 +228,7 @@
         }
     },
     "number_suffixes_to_zeros": {
-        "english": {
+        "en": {
             "hundred": "00",
             "thousand": "000",
             "million": "000000",
@@ -237,7 +237,7 @@
             "billion": "000000000",
             "trillion": "000000000000"
         },
-        "urdu": {
+        "ur": {
             "سو": "00",
             "ہزار": "000",
             "لاکھ": "00000",
@@ -247,7 +247,7 @@
         }
     },
     "person_names": {
-        "english": [
+        "en": [
             "abeera",
             "abida",
             "abiha",
@@ -615,7 +615,7 @@
             "zubair",
             "zulfiqar"
         ],
-        "urdu": [
+        "ur": [
             "عبیرہ",
             "عابدہ",
             "ابیہا",
@@ -985,7 +985,7 @@
         ]
     },
     "named_entities": {
-        "urdu": {},
-        "english": {}
+        "ur": {},
+        "en": {}
     }
 }
