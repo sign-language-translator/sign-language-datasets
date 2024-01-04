@@ -1,6 +1,6 @@
 # Sign Language Datasets
 
-Datasets used by the [`sign_language_translator`](https://github.com/sign-language-translator/sign-language-translator) python package.
+Datasets used by the <kbd>[sign_language_translator](https://github.com/sign-language-translator/sign-language-translator)</kbd> python package.
 
 See the [**download tree**](#download-tree) for quick links to videos, landmarks, word mappings & parallel corpus.
 

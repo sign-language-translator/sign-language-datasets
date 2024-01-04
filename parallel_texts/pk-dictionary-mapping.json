@@ -5657,6 +5657,7 @@
         "label": "pk-hfad-1_گھوڑا",
         "token": {
           "en": ["horse"],
+          "latn-ur": ["ghora", "ghori", "ghory"],
           "ur": ["گھوڑا", "گھوڑی", "گھوڑے"]
         }
       },
@@ -5754,7 +5755,7 @@
       {
         "label": "pk-hfad-1_ہمیں",
         "token": {
-          "en": ["us"],
+          "en": ["us(we)"],
           "ur": ["ہمیں"]
         }
       },
