@@ -78,9 +78,9 @@
               "$ref": "#/definitions/languages",
               "title": "A token is a text word or phrase that represents the sign in the video and has the same meaning."
             },
-            "transcription": {
+            "gloss": {
               "$ref": "#/definitions/languages",
-              "title": "A transcript is a text with word-for-word mapping of the sign sequence in the video."
+              "title": "A gloss is a text with word-for-word mapping of the sign sequence in the video."
             },
             "translation": {
               "$ref": "#/definitions/languages",
@@ -92,7 +92,7 @@
             {
               "oneOf": [
                 { "required": ["token"] },
-                { "anyOf": [{ "required": ["transcription"] }, { "required": ["translation"] }] }
+                { "anyOf": [{ "required": ["gloss"] }, { "required": ["translation"] }] }
               ]
             }
           ],

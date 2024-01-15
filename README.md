@@ -28,7 +28,7 @@ Every region has its own sign language and there are few large scale standardiza
 
 1. We can obtain standard dictionaries from reputable organizations in each country and concatenate signs from them using standardized grammar rules to translate & synthesize datasets.
 2. We can record people performing the signs from the dictionary to capture diversity of accents.
-3. We can scrape sign language videos and use deep learning to generate their transcriptions & translations.
+3. We can scrape sign language videos and use deep learning to generate their glosses & translations.
 
 Because most regional languages will have very few hours of data, the best approach will be to train a **many-to-many seq2seq translation model**.
 
@@ -48,7 +48,7 @@ Sign language can be represented as:
 <details>
 <summary><b>Token Sequence + Gesture Dictionary</b></summary>
 
-1. Sign sequence writing using *gloss* words is called *transcription* and it captures the grammar of sign language.
+1. Sign sequence written using text word-for-word is called *gloss* and it captures the grammar of sign language.
 2. There are other sign writing notations like [HamNoSys](https://en.wikipedia.org/wiki/Hamburg_Notation_System) etc which write down individual movements of the hands but this project currently only uses the word level tokens.
 
 </details>
@@ -62,7 +62,7 @@ Sign language can be represented as:
 <details>
 <summary>A translation model requires a <i>parallel corpus</i> of sentences that should be mapped to each other.</summary>
 
-- For each sign language video or sequence of videos, save translations & transcriptions in multiple languages
+- For each sign language video or sequence of videos, save translations & glosses in multiple languages
 
 </details>
 
@@ -87,12 +87,12 @@ The datasets currently available in the *sign_language_translator* package are c
 
 1. Dictionaries: `country-organization-number_sign-label.mp4`
 2. Replications: `c*-o*-n*_s*_person-code_camera-angle.mp4`
-3. Sentences: `c*-o*-n*_transcript[_p*_c*].mp4`
+3. Sentences: `c*-o*-n*_gloss[_p*_c*].mp4`
 4. Archives: `c*-o*-n*[_p*-c*]_category-subcategory-extension.zip`
 5. Preprocessed videos: `c*-o*-n*_s*[_p*_c*].category-model.ext`
 6. Videos without Signs: `wordless_wordless_person_camera.mp4`
 
-- The sign labels & transcripts may contain word sense disambiguagtion wrapped in paranthesis e.g. `*_spring(coil).mp4` or `*_spring(water-fountain).mp4`.
+- The sign labels, tokens & glosses may contain word sense disambiguation wrapped in parenthesis e.g. `*_spring(coil).mp4` or `*_spring(water-fountain).mp4`.
 - Person Codes are of the format `[dh][fm]\d+`.
 For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-male-0002`
 - Camera Angles are from `(front|below|left|right|top-left|top-right)-\d+x\d+y\d+z`. (not finalized yet)
@@ -103,9 +103,9 @@ For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-m
 
 **Statistics**:
 
-| Sign Language | Dictionary                                                                                                              | Sentences                                                                                                                                                                                  | Synthetic Sentences                                                                                                                                                               | Replications                                     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Pakistan      | <pre><b>Signs: 776</b> (27 min)</pre><pre><b>Word Tokens</b>:<br/>en: 1584<br/>hi: 31<br/>latn-ur: 2<br/>ur: 2071</pre> | <pre><b>Count: 13</b> (57 sec)</pre><pre><b>Translations:</b><br/>en: 19<br/>hi: 14<br/>latn-ur: 13<br/>ur: 17</pre><pre><b>Transcriptions</b><br/>en: 14<br/>latn-ur: 13<br/>ur: 15</pre> | <pre><b>Count: 1</b> (7 sec)</pre><pre><b>Translations:</b><br/>en: 2<br/>hi: 2<br/>latn-ur: 1<br/>ur: 2</pre><pre><b>Transcriptions</b><br/>en: 2<br/>latn-ur: 1<br/>ur: 2</pre> | **Dictionary**: 22 hrs<br/>**Sentences**: 45 min |
+| Sign Language | Dictionary                                                                                                              | Sentences                                                                                                                                                                           | Synthetic Sentences                                                                                                                                                        | Replications                                     |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| Pakistan      | <pre><b>Signs: 776</b> (27 min)</pre><pre><b>Word Tokens</b>:<br/>en: 1584<br/>hi: 31<br/>latn-ur: 2<br/>ur: 2071</pre> | <pre><b>Count: 13</b> (57 sec)</pre><pre><b>Translations:</b><br/>en: 19<br/>hi: 14<br/>latn-ur: 13<br/>ur: 17</pre><pre><b>glosses</b><br/>en: 14<br/>latn-ur: 13<br/>ur: 15</pre> | <pre><b>Count: 1</b> (7 sec)</pre><pre><b>Translations:</b><br/>en: 2<br/>hi: 2<br/>latn-ur: 1<br/>ur: 2</pre><pre><b>glosses</b><br/>en: 2<br/>latn-ur: 1<br/>ur: 2</pre> | **Dictionary**: 22 hrs<br/>**Sentences**: 45 min |
 
 ## Download Tree
 
@@ -201,7 +201,7 @@ pk-hfad-4_videos-sentences-mp4.zip
 <summary>3. <b>Scrape or Record sign language Sentences.</b></summary>
 
 - Upload & Link the data
-- Add translations and transcriptions to the [parallel corpus](https://github.com/sign-language-translator/sign-language-datasets/blob/main/parallel_texts)
+- Add translations and glosses to the [parallel corpus](https://github.com/sign-language-translator/sign-language-datasets/blob/main/parallel_texts)
 
 </details>
 
@@ -215,7 +215,7 @@ pk-hfad-4_videos-sentences-mp4.zip
 </details>
 
 <details>
-<summary>5. <b>Translate <a href="https://github.com/sign-language-translator/sign-language-datasets/blob/main/parallel_texts">existing</a> tokens, translations & transcriptions to other text languages.</b></summary>
+<summary>5. <b>Translate <a href="https://github.com/sign-language-translator/sign-language-datasets/blob/main/parallel_texts">existing</a> tokens, translations & glosses to other text languages.</b></summary>
 </details>
 
 </details>
@@ -231,11 +231,11 @@ Coming Soon!
 
 | Word                      | Definition                                                                                                                                                                                                             |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gloss                     | Text representation of a sign. A simplified label.                                                                                                                                                                     |
+| Label                     | Text identifier of a sign language video/data sample. A filename without extension.                                                                                                                                    |
 | Accent                    | A particular style of performing a sign such as speed, position and distance traveled by the hand.                                                                                                                     |
-| Transcription             | Word sequence corresponding to the signs performed in the source sign language video.                                                                                                                                  |
+| Gloss                     | Word sequence corresponding to the signs performed in the source sign language video.                                                                                                                                  |
 | Translation               | Valid text of a spoken language with the same meaning as source sign language video.                                                                                                                                   |
-| Parallel Corpus           | Collection of statements in Sign Language and their translations/transcriptions in spoken language texts.                                                                                                              |
+| Parallel Corpus           | Collection of statements in Sign Language and their translations/glosses in spoken language texts.                                                                                                                     |
 | Supported Word            | A text language token (word or phrase) for which a sign language video is available in the dictionary.                                                                                                                 |
 | Replication               | Videos created using the dictionary videos or web-scraped sentences as a reference clips.<br/>The performer can be hearing-abled person as well and multiple cameras from different angles can be used simultaneously. |
 | Synthetic Sentence        | A sign language sentence formed by concatenating videos corresponding to word tokens written in a particular order.                                                                                                    |

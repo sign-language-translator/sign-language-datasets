@@ -5,14 +5,14 @@
     "mapping": [
       {
         "components": ["pk-hfad-1_مجھے", "pk-hfad-1_1", "pk-hfad-1_سیب", "pk-hfad-1_دینا"],
-        "transcription": {
+        "gloss": {
           "en": ["me 1 apple give", "me one apple give"],
           "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دینا"],
           "latn-ur": ["mujhey aik seyb dena"]
         },
         "translation": {
           "en": ["Give me an apple.", "Give me one apple."],
-          "hi": ["मुझे एक सेब दो।.", "मुझे एक सेब दीजिए."],
+          "hi": ["मुझे एक सेब दो।", "मुझे एक सेब दीजिए."],
           "ur": ["مجھے ایک سیب دو۔", "مجھے 1 سیب دینا۔"],
           "latn-ur": ["mujhey 1 seb do."]
         }
