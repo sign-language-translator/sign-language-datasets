@@ -1,6 +1,9 @@
 # Sign Language Datasets
 
-Datasets used by the <kbd>[sign_language_translator](https://github.com/sign-language-translator/sign-language-translator)</kbd> python package.
+**Datasets used by the <kbd>[sign_language_translator](https://github.com/sign-language-translator/sign-language-translator)</kbd> python package.**
+
+| **Support Us** ❤️ | <!-- [![Stripe](https://img.shields.io/badge/Stripe-626CD9?logo=Stripe&logoColor=white)]() --> [![PayPal](https://img.shields.io/badge/PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=7SNGNSKUQXQW2) |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 See the [**download tree**](#download-tree) for quick links to videos, landmarks, word mappings & parallel corpus.
 
