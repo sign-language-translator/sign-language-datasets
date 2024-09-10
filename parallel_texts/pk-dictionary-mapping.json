@@ -2067,8 +2067,8 @@
       {
         "label": "pk-hfad-1_اچھا",
         "token": {
-          "en": ["good", "great"],
-          "ur": ["اچھا", "اچھی", "اچھے", "ٹھیک", "شاندار", "کمال", "زبردست", "عمدہ"]
+          "en": ["good", "great", "👍"],
+          "ur": ["اچھا", "اچھی", "اچھے", "ٹھیک", "شاندار", "کمال", "زبردست", "عمدہ", "👍"]
         }
       },
       {
@@ -2368,7 +2368,7 @@
       {
         "label": "pk-hfad-1_بہت",
         "token": {
-          "en": ["very", "many", "a lot"],
+          "en": ["very", "many", "a lot", "lots"],
           "hi": ["बहुत"],
           "ur": ["بہت", "نہایت", "انتہائی", "شدید"]
         }
@@ -2607,7 +2607,7 @@
       {
         "label": "pk-hfad-1_تیز",
         "token": {
-          "en": ["fast(quick)", "quick", "quickly", "rapid(quick)", "speedy", "rapidly", "swiftly"],
+          "en": ["quick", "fast(quick)", "quickly", "rapid(quick)", "speedy", "rapidly", "swiftly"],
           "ur": ["تیز", "تیزی"]
         }
       },
@@ -4885,7 +4885,7 @@
       {
         "label": "pk-hfad-1_پسند",
         "token": {
-          "en": ["like(admire)", "liked", "likes", "liking", "keenness"],
+          "en": ["admire", "like(admire)", "liked", "likes(admires)", "liking", "keenness"],
           "ur": ["پسند", "رغبت"]
         }
       },
