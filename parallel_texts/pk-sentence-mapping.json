@@ -4,22 +4,8 @@
     "description": "sentences from pakistan sign language videos taught in hamza foundation academy for the deaf, lahore, pakistan..",
     "mapping": [
       {
-        "label": "pk-hfad-1_اللہ-ہم(we)-پر-رحم-amen",
-        "gloss": {
-          "en": ["god us on mercy amen", "allah us on mercy amen"],
-          "latn-ur": ["Allah hm pr rehm amen"],
-          "ur": ["اللہ ہم پر رحم آمین", "اللہ تعالی ہم پر رحم آمین", "خدا ہم پر رحمت آمین"]
-        },
-        "translation": {
-          "en": ["God have mercy on us, amen.", "Allah have mercy on us, amen."],
-          "hi": ["भगवान हम पर दया करें आमीन!", "ईश्वर हम पर दया करें, आमीन।"],
-          "latn-ur": ["Allah ham par reham farma, Aameen."],
-          "ur": ["اللہ ہم پر رحم کر، آمین۔", "اللہ تعالی ہم پر رحمت فرما، آمین!", "خدا ہم پر رحم فرما، آمین."]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_آپ", "pk-hfad-1_کا", "pk-hfad-1_نام", "pk-hfad-1_کیا(what)", "pk-hfad-1_ہے"],
-        "label": "pk-hfad-1_آپ-کا-نام-کیا(what)-ہے",
+        "components": ["pk-hfad-1_aap", "pk-hfad-1_ka", "pk-hfad-1_name", "pk-hfad-1_what", "pk-hfad-1_is"],
+        "label": "pk-hfad-1_aap-ka-nam-kya(what)-hy",
         "gloss": {
           "en": ["your name what is"],
           "latn-ur": ["aap ka nam kya hai"],
@@ -33,8 +19,22 @@
         }
       },
       {
-        "components": ["pk-hfad-1_اپنا(ذاتی)", "pk-hfad-1_کام", "pk-hfad-1_کرو"],
-        "label": "pk-hfad-1_اپنا(ذاتی)-کام-کرو",
+        "label": "pk-hfad-1_allah-hm(us)-pr-rehm-amen",
+        "gloss": {
+          "en": ["god us on mercy amen", "allah us on mercy amen"],
+          "latn-ur": ["Allah hm pr rehm amen"],
+          "ur": ["اللہ ہم پر رحم آمین", "اللہ تعالی ہم پر رحم آمین", "خدا ہم پر رحمت آمین"]
+        },
+        "translation": {
+          "en": ["God have mercy on us, amen.", "Allah have mercy on us, amen."],
+          "hi": ["भगवान हम पर दया करें आमीन!", "ईश्वर हम पर दया करें, आमीन।"],
+          "latn-ur": ["Allah ham par reham farma, Aameen."],
+          "ur": ["اللہ ہم پر رحم کر، آمین۔", "اللہ تعالی ہم پر رحمت فرما، آمین!", "خدا ہم پر رحم فرما، آمین."]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_apna(zati)", "pk-hfad-1_work", "pk-hfad-1_kro"],
+        "label": "pk-hfad-1_apna(zati)-kam-kro",
         "gloss": {
           "en": ["own work do"],
           "latn-ur": ["apna kam kro"],
@@ -48,96 +48,8 @@
         }
       },
       {
-        "components": ["pk-hfad-1_تم", "pk-hfad-1_آؤ"],
-        "label": "pk-hfad-1_تم-آؤ",
-        "gloss": {
-          "en": ["you come"],
-          "latn-ur": ["tum aao"],
-          "ur": ["تم آؤ"]
-        },
-        "translation": {
-          "en": ["You come."],
-          "hi": ["तुम आओ।"],
-          "latn-ur": ["Tum aao."],
-          "ur": ["تم آؤ۔"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_میں(i)", "pk-hfad-1_آؤں"],
-        "label": "pk-hfad-1_میں(i)-آؤں",
-        "gloss": {
-          "en": ["i come"],
-          "latn-ur": ["main aaun"],
-          "ur": ["میں آؤں"]
-        },
-        "translation": {
-          "en": ["I come"],
-          "latn-ur": ["Main aaun"],
-          "ur": ["میں آؤں"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آئی(came)"],
-        "label": "pk-hfad-1_وہ-آئی(came)",
-        "gloss": {
-          "en": ["she came"],
-          "latn-ur": ["wo aai"],
-          "ur": ["وہ آئی"]
-        },
-        "translation": {
-          "en": ["She came."],
-          "hi": ["वह आई।", "वह आयी."],
-          "latn-ur": ["Wo aai."],
-          "ur": ["وہ آئی۔"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آئے"],
-        "label": "pk-hfad-1_وہ-آئے",
-        "gloss": {
-          "en": ["they came"],
-          "latn-ur": ["wo aaey"],
-          "ur": ["وہ آئے"]
-        },
-        "translation": {
-          "en": ["They came."],
-          "hi": ["वे आए।"],
-          "latn-ur": ["Wo aaey."],
-          "ur": ["وہ آئے۔"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_وہ", "pk-hfad-1_آیا(came)"],
-        "label": "pk-hfad-1_وہ-آیا(came)",
-        "gloss": {
-          "en": ["he came", "he arrived"],
-          "latn-ur": ["wo aaya"],
-          "ur": ["وہ آیا"]
-        },
-        "translation": {
-          "en": ["He came.", "He arrived."],
-          "hi": ["वो आया.", "वह आया।"],
-          "latn-ur": ["Wo aaya."],
-          "ur": ["وہ آیا۔"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_وہ", "pk-hfad-1_گیا", "pk-hfad-1_تھا"],
-        "label": "pk-hfad-1_وہ-گیا-تھا",
-        "gloss": {
-          "latn-ur": ["wo gya tha"],
-          "ur": ["وہ گیا تھا"]
-        },
-        "translation": {
-          "en": ["He went."],
-          "hi": ["वह गया था।"],
-          "latn-ur": ["Wo gya tha."],
-          "ur": ["وہ گیا تھا۔"]
-        }
-      },
-      {
-        "components": ["pk-hfad-1_ہم(we)", "pk-hfad-1_آئیں"],
-        "label": "pk-hfad-1_ہم(we)-آئیں",
+        "components": ["pk-hfad-1_we", "pk-hfad-1_aaein"],
+        "label": "pk-hfad-1_hm(we)-aaein",
         "gloss": {
           "en": ["we come"],
           "latn-ur": ["hm aaein"],
@@ -150,8 +62,8 @@
         }
       },
       {
-        "components": ["pk-hfad-1_ہم(we)", "pk-hfad-1_جائیں", "pk-hfad-1_گے"],
-        "label": "pk-hfad-1_ہم(we)-جائیں-گے",
+        "components": ["pk-hfad-1_we", "pk-hfad-1_jaein", "pk-hfad-1_gy"],
+        "label": "pk-hfad-1_hm(we)-jaein-gy",
         "gloss": {
           "en": ["we go will"],
           "latn-ur": ["hm jaein ge"],
@@ -165,7 +77,7 @@
         }
       },
       {
-        "label": "pk-hfad-1_ہماری-زبان-کی-گرہ-کھول",
+        "label": "pk-hfad-1_hmari-zban-ki-grh-khol",
         "gloss": {
           "en": ["our tongue 's knot untie"],
           "latn-ur": ["hmari zuban ki girah khol"],
@@ -179,7 +91,7 @@
         }
       },
       {
-        "label": "pk-hfad-1_ہمارے-علم-میں(in)-اضافہ-amen",
+        "label": "pk-hfad-1_hmary-ilm-mein(in)-azafh-amen",
         "gloss": {
           "en": ["our knowledge in increase amen"],
           "latn-ur": ["hmary ilm mein izafa aameen"],
@@ -190,6 +102,94 @@
           "hi": ["हमारा ज्ञान बढ़ाएँ, तथास्तु।"],
           "latn-ur": ["Hamary ilm me izafa kr, aameen."],
           "ur": ["ہمارے علم میں اضافہ فرما، آمین۔", "ہمارا علم بڑھاو، آمین۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_i(me)", "pk-hfad-1_aaun"],
+        "label": "pk-hfad-1_main(i)-aaun",
+        "gloss": {
+          "en": ["i come"],
+          "latn-ur": ["main aaun"],
+          "ur": ["میں آؤں"]
+        },
+        "translation": {
+          "en": ["I come"],
+          "latn-ur": ["Main aaun"],
+          "ur": ["میں آؤں"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_tm", "pk-hfad-1_aao"],
+        "label": "pk-hfad-1_tm-aao",
+        "gloss": {
+          "en": ["you come"],
+          "latn-ur": ["tum aao"],
+          "ur": ["تم آؤ"]
+        },
+        "translation": {
+          "en": ["You come."],
+          "hi": ["तुम आओ।"],
+          "latn-ur": ["Tum aao."],
+          "ur": ["تم آؤ۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_that", "pk-hfad-1_aaei(came)"],
+        "label": "pk-hfad-1_wo-aaei(came)",
+        "gloss": {
+          "en": ["she came"],
+          "latn-ur": ["wo aai"],
+          "ur": ["وہ آئی"]
+        },
+        "translation": {
+          "en": ["She came."],
+          "hi": ["वह आई।", "वह आयी."],
+          "latn-ur": ["Wo aai."],
+          "ur": ["وہ آئی۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_that", "pk-hfad-1_aaey"],
+        "label": "pk-hfad-1_wo-aaey",
+        "gloss": {
+          "en": ["they came"],
+          "latn-ur": ["wo aaey"],
+          "ur": ["وہ آئے"]
+        },
+        "translation": {
+          "en": ["They came."],
+          "hi": ["वे आए।"],
+          "latn-ur": ["Wo aaey."],
+          "ur": ["وہ آئے۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_that", "pk-hfad-1_aaia(came)"],
+        "label": "pk-hfad-1_wo-aaia(came)",
+        "gloss": {
+          "en": ["he came", "he arrived"],
+          "latn-ur": ["wo aaya"],
+          "ur": ["وہ آیا"]
+        },
+        "translation": {
+          "en": ["He came.", "He arrived."],
+          "hi": ["वो आया.", "वह आया।"],
+          "latn-ur": ["Wo aaya."],
+          "ur": ["وہ آیا۔"]
+        }
+      },
+      {
+        "components": ["pk-hfad-1_that", "pk-hfad-1_gia", "pk-hfad-1_tha"],
+        "label": "pk-hfad-1_wo-gia-tha",
+        "gloss": {
+          "latn-ur": ["wo gya tha"],
+          "ur": ["وہ گیا تھا"]
+        },
+        "translation": {
+          "en": ["He went."],
+          "hi": ["वह गया था।"],
+          "latn-ur": ["Wo gya tha."],
+          "ur": ["وہ گیا تھا۔"]
         }
       }
     ],

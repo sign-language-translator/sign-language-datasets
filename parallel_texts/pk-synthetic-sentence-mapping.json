@@ -4,7 +4,7 @@
     "description": "synthetic sentences made from pakistan sign language videos taught in hamza foundation academy for the deaf, lahore, pakistan.",
     "mapping": [
       {
-        "components": ["pk-hfad-1_مجھے", "pk-hfad-1_1", "pk-hfad-1_سیب", "pk-hfad-1_دینا"],
+        "components": ["pk-hfad-1_me", "pk-hfad-1_1", "pk-hfad-1_apple", "pk-hfad-1_give"],
         "gloss": {
           "en": ["me 1 apple give", "me one apple give"],
           "latn-ur": ["mujhey aik seyb dena"],
