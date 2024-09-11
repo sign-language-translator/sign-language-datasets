@@ -7,14 +7,14 @@
         "components": ["pk-hfad-1_مجھے", "pk-hfad-1_1", "pk-hfad-1_سیب", "pk-hfad-1_دینا"],
         "gloss": {
           "en": ["me 1 apple give", "me one apple give"],
-          "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دینا"],
-          "latn-ur": ["mujhey aik seyb dena"]
+          "latn-ur": ["mujhey aik seyb dena"],
+          "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دینا"]
         },
         "translation": {
-          "en": ["Give me an apple.", "Give me one apple."],
+          "en": ["Give me an apple.", "Give me one apple.", "Give one apple to me."],
           "hi": ["मुझे एक सेब दो।", "मुझे एक सेब दीजिए."],
-          "ur": ["مجھے ایک سیب دو۔", "مجھے 1 سیب دینا۔"],
-          "latn-ur": ["mujhey 1 seb do."]
+          "latn-ur": ["mujhey 1 seb do.", "aik saib mujhe dena."],
+          "ur": ["مجھے ایک سیب دو۔", "مجھے 1 سیب دینا۔", "مجھ کو 1 سیب دو۔", "ایک سیب دیجیے مجھ کو۔"]
         }
       }
     ],
