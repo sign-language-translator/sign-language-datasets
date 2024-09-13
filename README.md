@@ -21,7 +21,7 @@ Download via CLI (needs python):
 
 ```bash
 pip install sign-langauge-translator
-slt download "datasets/.*landmarks.*csv.*\.zip"
+slt download "datasets/.*landmarks.*csv\.zip"
 ```
 
 ## Problem Overview
@@ -88,27 +88,58 @@ The datasets currently available in the *sign_language_translator* package are c
 <details>
 <summary><b>Naming conventions</b>:</summary>
 
-1. Dictionaries: `country-organization-number_sign-label.mp4`
-2. Replications: `c*-o*-n*_s*_person-code_camera-angle.mp4`
+1. Dictionaries: `country-organization-number_sign-gloss.mp4`
+2. Replications: `c*-o*-n*_g*_personCode_cameraAngle.mp4`
 3. Sentences: `c*-o*-n*_gloss[_p*_c*].mp4`
-4. Archives: `c*-o*-n*[_p*-c*]_category-subcategory-extension.zip`
-5. Preprocessed videos: `c*-o*-n*_s*[_p*_c*].category-model.ext`
-6. Videos without Signs: `wordless_wordless_person_camera.mp4`
+4. Archives: `c*-o*-n*[_p*_c*].category-subcategory-extension.zip`
+5. Preprocessed videos: `c*-o*-n*_g*[_p*_c*].category-embeddingModel.extension`
+6. Videos without Signs: `wordless_person_camera.mp4`
 
 - The sign labels, tokens & glosses may contain word sense disambiguation wrapped in parenthesis e.g. `*_spring(coil).mp4` or `*_spring(water-fountain).mp4`.
 - Person Codes are of the format `[dh][fm]\d+`.
 For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-male-0002`
 - Camera Angles are from `(front|below|left|right|top-left|top-right)-\d+x\d+y\d+z`. (not finalized yet)
 - Category in preprocessed videos and archives is from `(videos|landmarks)`.
-- Subcategory in Archive name is from `(dictionary(-replication)?|sentences(-replication)?|mediapipe-pose-2-hand-1)`. It will include the model name in case of preprocessed files.
+- Subcategory in Archive name is from `mediapipe-world|mediapipe-image|mediapipe` or `dictionary(-replication)?|sentences(-replication)?`. It will include the model name in case of preprocessed files.
 
 </details>
 
 **Statistics**:
 
-| Sign Language | Dictionary                                                                                                              | Sentences                                                                                                                                                                           | Synthetic Sentences                                                                                                                                                        | Replications                                     |
-| ------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
-| Pakistan      | <pre><b>Signs: 776</b> (27 min)</pre><pre><b>Word Tokens</b>:<br/>en: 1584<br/>hi: 92<br/>latn-ur: 2<br/>ur: 2071</pre> | <pre><b>Count: 13</b> (57 sec)</pre><pre><b>Translations:</b><br/>en: 19<br/>hi: 14<br/>latn-ur: 13<br/>ur: 17</pre><pre><b>glosses</b><br/>en: 14<br/>latn-ur: 13<br/>ur: 15</pre> | <pre><b>Count: 1</b> (7 sec)</pre><pre><b>Translations:</b><br/>en: 2<br/>hi: 2<br/>latn-ur: 1<br/>ur: 2</pre><pre><b>glosses</b><br/>en: 2<br/>latn-ur: 1<br/>ur: 2</pre> | **Dictionary**: 22 hrs<br/>**Sentences**: 45 min |
+<table>
+  <thead>
+    <tr>
+      <th>Sign Language</th>
+      <th>Dictionary</th>
+      <th>Sentences</th>
+      <th>Replications</th>
+      <th>Synthetic Sentences</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pakistan</td>
+      <td>
+        <pre><b>Signs: 776</b> (27 min)</pre>
+        <pre><b>Word Tokens</b>:<br/>en: 1591<br/>hi: 137<br/>latn-ur: 22<br/>ur: 2079</pre>
+      </td>
+      <td>
+        <pre><b>Count: 13</b> (57 sec)</pre>
+        <pre><b>Translations:</b><br/>en: 21<br/>hi: 14<br/>latn-ur: 13<br/>ur: 18</pre>
+        <pre><b>Glosses</b><br/>en: 14<br/>latn-ur: 13<br/>ur: 15</pre>
+      </td>
+      <td>
+        <b>Dictionary</b>: 22 hrs<br /><br />
+        <b>Sentences</b>: 45 min
+      </td>
+      <td>
+        <pre><b>Count: 1</b> (7 sec)</pre>
+        <pre><b>Translations:</b><br/>en: 3<br/>hi: 2<br/>latn-ur: 2<br/>ur: 4</pre>
+        <pre><b>Glosses</b><br/>en: 2<br/>latn-ur: 1<br/>ur: 2</pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Download Tree
 
@@ -135,11 +166,11 @@ For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-m
 <pre>
 <b style="font-size:large;">Releases</b>
 ├── <b><a href="https://github.com/sign-language-translator/sign-language-datasets/releases/tag/v0.0.4">v0.0.4</a> (Landmark Datasets)</b>
-│   ├── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.4/pk-hfad-1_landmarks-mediapipe-pose-2-hand-1-csv.zip">pk-hfad-1_landmarks-mediapipe-pose-2-hand-1-csv.zip</a>
-│   └── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.4/pk-hfad-1_landmarks-mediapipe-pose-2-hand-1-json.zip">pk-hfad-1_landmarks-mediapipe-pose-2-hand-1-json.zip</a>
+│   ├── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.4/pk-hfad-1.landmarks-mediapipe-world-csv.zip">pk-hfad-1.landmarks-mediapipe-world-csv.zip</a>
+│   └── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.4/pk-hfad-1.landmarks-mediapipe-image-csv.zip">pk-hfad-1.landmarks-mediapipe-image-csv.zip</a>
 │
 ├── <b><a href="https://github.com/sign-language-translator/sign-language-datasets/releases/tag/v0.0.3">v0.0.3</a> (Video Datasets)</b>
-│   └── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.3/pk-hfad-1_videos-mp4.zip">pk-hfad-1_videos-mp4.zip</a>
+│   └── <a href="https://github.com/sign-language-translator/sign-language-datasets/releases/download/v0.0.3/pk-hfad-1.videos-mp4.zip">pk-hfad-1.videos-mp4.zip</a>
 │
 ├── <b><a href="https://github.com/sign-language-translator/sign-language-datasets/releases/tag/v0.0.2">v0.0.2</a> (Dictionary)</b>
 │   ├── pk-hfad-1_*.mp4 [788]
@@ -194,7 +225,7 @@ pk-hfad-4_videos-sentences-mp4.zip
 <details>
 <summary>2. <b>Record Dictionary Videos to capture diverse accents</b></summary>
 
-1. **Rename** files to follow the convention (\*_person-id_camera-angle\*).
+1. **Rename** files to follow the convention (\*_personId_cameraAngle\*).
 2. **Upload** zip archive to [v0.0.3 Video Datasets](https://github.com/sign-language-translator/sign-language-datasets/releases/tag/v0.0.3) release.
 3. **Link** archive urls into [asset_urls/archive-urls.json](https://github.com/sign-language-translator/sign-language-datasets/blob/main/asset_urls/archive-urls.json).
 
@@ -228,7 +259,18 @@ pk-hfad-4_videos-sentences-mp4.zip
 
 ## Citation
 
-Coming Soon!
+```bibtex
+@misc{mdsr2023slt_dataset,
+  author       = {Mudassar Iqbal},
+  title        = {Sign Language Datasets},
+  year         = {2023},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/sign-language-translator/sign-language-datasets}},
+  note         = {Available under the Creative Commons Attribution 4.0 International License (CC BY 4.0).}
+}
+```
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You can use it for any purpose, even commercially, but you must give appropriate credit to the original creators and cite it.
 
 ## Glossary
 

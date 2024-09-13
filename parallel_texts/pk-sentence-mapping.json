@@ -8,14 +8,14 @@
         "label": "pk-hfad-1_aap-ka-nam-kya(what)-hy",
         "gloss": {
           "en": ["your name what is"],
-          "latn-ur": ["aap ka nam kya hai"],
+          "latn-ur": ["ap ka nam kya hy"],
           "ur": ["آپ کا نام کیا ہے"]
         },
         "translation": {
-          "en": ["What is your name?", "What's your name?"],
+          "en": ["What is your name?", "What's your name?", "Your name happens to be what exactly?"],
           "hi": ["आपका क्या नाम है?"],
           "latn-ur": ["Aap ka naam kya hai?"],
-          "ur": ["آپ کا نام کیا ہے؟", "آپ کا کیا نام ہے؟"]
+          "ur": ["آپ کا نام کیا ہے؟", "آپ کا کیا نام ہے؟", "کیا نام ہے آپ کا؟"]
         }
       },
       {
