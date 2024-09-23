@@ -11,7 +11,8 @@ sign_recordings
 .vscode
 
 # other
-temp
+temp/
+temp-*
 temp_*
 temp.*
 .DS_Store

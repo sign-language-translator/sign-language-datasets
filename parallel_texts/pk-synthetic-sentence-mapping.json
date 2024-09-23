@@ -7,14 +7,25 @@
         "components": ["pk-hfad-1_me", "pk-hfad-1_1", "pk-hfad-1_apple", "pk-hfad-1_give"],
         "gloss": {
           "en": ["me 1 apple give", "me one apple give"],
-          "latn-ur": ["mujhey aik seyb dena"],
-          "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دینا"]
+          "latn-ur": ["mujhey 1 seyb dena", "mjhy aik seb dijiye"],
+          "ur": ["مجھے 1 سیب دینا", "مجھے ایک سیب دیجیے"]
         },
         "translation": {
-          "en": ["Give me an apple.", "Give me one apple.", "Give one apple to me."],
+          "ar": ["أعطني تفاحة واحدة.", "أعطني تفاحة."],
+          "de": ["Gib mir einen Apfel."],
+          "en": ["Give me an apple.", "Give me 1 apple.", "Give one apple to me."],
+          "es": ["Dame una manzana."],
+          "fr": ["Donne-moi une pomme."],
           "hi": ["मुझे एक सेब दो।", "मुझे एक सेब दीजिए."],
+          "ja": ["リンゴをくれ。"],
+          "latn-ar": ["a'tini tufahatan wahidatan.", "a'tini tufahatan."],
+          "latn-ja": ["ringo o kure."],
+          "latn-ru": ["day mne yabloko"],
           "latn-ur": ["mujhey 1 seb do.", "aik saib mujhe dena."],
-          "ur": ["مجھے ایک سیب دو۔", "مجھے 1 سیب دینا۔", "مجھ کو 1 سیب دو۔", "ایک سیب دیجیے مجھ کو۔"]
+          "latn-zh": ["gěi wǒ yīgè píngguǒ."],
+          "ru": ["Дай мне яблоко."],
+          "ur": ["مجھے ایک سیب دو۔", "مجھے ۱ سیب دینا۔", "مجھ کو 1 سیب دیں۔", "ایک سیب دیجیے مجھ کو۔"],
+          "zh": ["给我一个苹果。"]
         }
       }
     ],

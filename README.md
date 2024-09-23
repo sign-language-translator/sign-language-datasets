@@ -19,6 +19,8 @@ See the [**download tree**](#download-tree) for quick links to videos, landmarks
       1. [Sign Recording Options](#sign-recording-options)
       2. [Translation Dataset Needs](#translation-dataset-needs)
    2. [Datasets](#datasets)
+      1. [Naming conventions](#naming-conventions)
+      2. [Statistics](#statistics)
    3. [Download Tree](#download-tree)
    4. [How to Contribute](#how-to-contribute)
    5. [Citation](#citation)
@@ -92,8 +94,10 @@ Sign language can be represented as:
 
 The datasets currently available in the *sign_language_translator* package are chunked, preprocessed and labeled appropriately. More details on assets can be found in the release description.
 
+### Naming conventions
+
 <details>
-<summary><b>Naming conventions</b>:</summary>
+<summary>Details (click to show):</summary>
 
 1. Dictionaries: `country-organization-number_sign-gloss.mp4`
 2. Replications: `c*-o*-n*_g*_personCode_cameraAngle.mp4`
@@ -111,7 +115,7 @@ For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-m
 
 </details>
 
-**Statistics**:
+### Statistics
 
 <table>
   <thead>
@@ -128,12 +132,12 @@ For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-m
       <td>Pakistan</td>
       <td>
         <pre><b>Signs: 776</b> (27 min)</pre>
-        <pre><b>Word Tokens</b>:<br/>en: 1591<br/>hi: 137<br/>latn-ur: 22<br/>ur: 2079</pre>
+        <pre><b>Word Tokens</b>:<br/>ar:   27<br/>en: 1591<br/>hi:  180<br/>ja:    3<br/>ur: 2081</pre>
       </td>
       <td>
         <pre><b>Count: 13</b> (57 sec)</pre>
-        <pre><b>Translations:</b><br/>en: 21<br/>hi: 14<br/>latn-ur: 13<br/>ur: 18</pre>
-        <pre><b>Glosses</b><br/>en: 14<br/>latn-ur: 13<br/>ur: 15</pre>
+        <pre><b>Translations:</b><br/>ar:  5 (latn-ar: 5)<br/>de:  4<br/>en: 21<br/>es:  5<br/>fr:  6<br/>hi: 10<br/>ja:  4 (latn-ja: 4)<br/>ru:  3 (latn-ru: 3)<br/>ur: 18 (latn-ur: 13)<br/>zh:  2 (latn-zh: 2)</pre>
+        <pre><b>Glosses</b><br/>en: 14<br/>ur: 15 (latn-ur: 13)</pre>
       </td>
       <td>
         <b>Dictionary</b>: 22 hrs<br /><br />
@@ -141,8 +145,8 @@ For example `df0001` stands for `deaf-female-0001` and `hm0002` means `hearing-m
       </td>
       <td>
         <pre><b>Count: 1</b> (7 sec)</pre>
-        <pre><b>Translations:</b><br/>en: 3<br/>hi: 2<br/>latn-ur: 2<br/>ur: 4</pre>
-        <pre><b>Glosses</b><br/>en: 2<br/>latn-ur: 1<br/>ur: 2</pre>
+        <pre><b>Translations:</b><br/>ar: 2 (latn-ar: 2)<br/>de: 1<br/>en: 3<br/>es: 1<br/>fr: 1<br/>hi: 2<br/>ja: 1 (latn-ja: 1)<br/>ru: 1 (latn-ru: 1)<br/>ur: 4 (latn-ur: 2)<br/>zh: 1 (latn-zh: 1)</pre>
+        <pre><b>Glosses</b><br/>en: 2<br/>ur: 2 (latn-ur: 1)</pre>
       </td>
     </tr>
   </tbody>
@@ -261,7 +265,7 @@ pk-hfad-4_videos-sentences-mp4.zip
 
 </details>
 
-> [!NOTE]\
+> [!NOTE]
 > Ensure uniqueness in sign labels before publishing anything.
 
 ## Citation

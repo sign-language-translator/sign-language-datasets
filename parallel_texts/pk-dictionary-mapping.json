@@ -352,6 +352,7 @@
         "label": "pk-hfad-1_ambulance",
         "token": {
           "en": ["ambulance"],
+          "hi": ["एम्बुलेंस"],
           "ur": ["ایمبولینس"]
         }
       },
@@ -363,6 +364,7 @@
             "امریکہ(ملک)",
             "امریکی(ملک)",
             "امریکا(ملک)",
+            "امریکن(ملک)",
             "ریاست ہائے متحدہ امریکہ",
             "ریاست ہائے متحدہ امریکا",
             "ریاستہائےمتحدہ",
@@ -451,7 +453,9 @@
       {
         "label": "pk-hfad-1_apple",
         "token": {
+          "ar": ["تفاحة"],
           "en": ["apple"],
+          "hi": ["सेब"],
           "ur": ["سیب"]
         }
       },
@@ -472,7 +476,9 @@
       {
         "label": "pk-hfad-1_apricot",
         "token": {
+          "ar": ["مشمش"],
           "en": ["apricot"],
+          "hi": ["खुबानी"],
           "ur": ["خوبانی"]
         }
       },
@@ -480,6 +486,7 @@
         "components": ["pk-hfad-1_a(double-handed-letter)", "pk-hfad-1_spring(season)"],
         "label": "pk-hfad-1_april(month)",
         "token": {
+          "ar": ["أبريل"],
           "en": ["april(month)"],
           "ur": ["اپریل"]
         }
@@ -530,6 +537,7 @@
       {
         "label": "pk-hfad-1_august(month)",
         "token": {
+          "ar": ["أغسطس"],
           "en": ["august(month)"],
           "ur": ["اگست"]
         }
@@ -663,6 +671,7 @@
         "label": "pk-hfad-1_bell",
         "token": {
           "en": ["bell"],
+          "hi": ["घंटी"],
           "ur": ["گھنٹی"]
         }
       },
@@ -824,6 +833,7 @@
         "label": "pk-hfad-1_burger",
         "token": {
           "en": ["burger"],
+          "hi": ["बर्गर"],
           "ur": ["برگر"]
         }
       },
@@ -852,7 +862,8 @@
         "label": "pk-hfad-1_butter",
         "token": {
           "en": ["butter"],
-          "ur": ["مکھن"]
+          "hi": ["मक्खन"],
+          "ur": ["مکھن", "مکھنی"]
         }
       },
       {
@@ -873,6 +884,7 @@
         "label": "pk-hfad-1_cake",
         "token": {
           "en": ["cake"],
+          "hi": ["केक"],
           "ur": ["کیک"]
         }
       },
@@ -880,6 +892,7 @@
         "label": "pk-hfad-1_calculator",
         "token": {
           "en": ["calculator"],
+          "hi": ["कैलकुलेटर"],
           "ur": ["کیلکولیٹر"]
         }
       },
@@ -887,6 +900,7 @@
         "label": "pk-hfad-1_calendar",
         "token": {
           "en": ["calendar"],
+          "hi": ["कैलेंडर"],
           "ur": ["کیلنڈر"]
         }
       },
@@ -922,6 +936,7 @@
         "label": "pk-hfad-1_canal",
         "token": {
           "en": ["canal"],
+          "hi": ["नहर"],
           "ur": ["نہر"]
         }
       },
@@ -936,6 +951,7 @@
         "label": "pk-hfad-1_carrot",
         "token": {
           "en": ["carrot"],
+          "hi": ["गाजर"],
           "ur": ["گاجر"]
         }
       },
@@ -957,6 +973,7 @@
         "label": "pk-hfad-1_cat",
         "token": {
           "en": ["cat"],
+          "hi": ["बिल्ली"],
           "ur": ["بلی"]
         }
       },
@@ -1148,6 +1165,7 @@
         "label": "pk-hfad-1_coconut",
         "token": {
           "en": ["coconut"],
+          "hi": ["नारियल"],
           "ur": ["ناریل"]
         }
       },
@@ -1176,6 +1194,7 @@
         "label": "pk-hfad-1_college",
         "token": {
           "en": ["college"],
+          "hi": ["कॉलेज"],
           "ur": ["کالج"]
         }
       },
@@ -1369,7 +1388,9 @@
         "components": ["pk-hfad-1_d(double-handed-letter)", "pk-hfad-1_cold"],
         "label": "pk-hfad-1_december",
         "token": {
+          "ar": ["ديسمبر"],
           "en": ["december"],
+          "hi": ["दिसंबर"],
           "ur": ["دسمبر"]
         }
       },
@@ -1484,6 +1505,7 @@
         "label": "pk-hfad-1_diary",
         "token": {
           "en": ["diary"],
+          "hi": ["डायरी"],
           "ur": ["ڈائری"]
         }
       },
@@ -1504,6 +1526,7 @@
       {
         "label": "pk-hfad-1_discipline",
         "token": {
+          "ar": ["تأديب"],
           "en": ["discipline"],
           "ur": ["نظم و ضبط"]
         }
@@ -1732,7 +1755,9 @@
       {
         "label": "pk-hfad-1_exhibition",
         "token": {
+          "ar": ["معرض"],
           "en": ["exhibition"],
+          "hi": ["प्रदर्शनी"],
           "ur": ["نمائش"]
         }
       },
@@ -1831,6 +1856,7 @@
       {
         "label": "pk-hfad-1_fashion",
         "token": {
+          "ar": ["موضة", "الموضة"],
           "en": ["fashion"],
           "ur": ["فیشن"]
         }
@@ -1885,6 +1911,7 @@
       {
         "label": "pk-hfad-1_february",
         "token": {
+          "ar": ["فبراير"],
           "en": ["february"],
           "ur": ["فروری"]
         }
@@ -1948,7 +1975,9 @@
       {
         "label": "pk-hfad-1_fish",
         "token": {
+          "ar": ["سمكة"],
           "en": ["fish"],
+          "hi": ["मछली"],
           "ur": ["مچھلی"]
         }
       },
@@ -2061,6 +2090,7 @@
       {
         "label": "pk-hfad-1_from",
         "token": {
+          "ar": ["من"],
           "en": ["from"],
           "hi": ["से"],
           "ur": ["سے"]
@@ -2125,7 +2155,9 @@
       {
         "label": "pk-hfad-1_garlic",
         "token": {
+          "ar": ["ثوم"],
           "en": ["garlic"],
+          "hi": ["लहसुन"],
           "ur": ["لہسن"]
         }
       },
@@ -2315,6 +2347,7 @@
         "label": "pk-hfad-1_guava",
         "token": {
           "en": ["guava"],
+          "hi": ["अमरूद"],
           "ur": ["امرود"]
         }
       },
@@ -2607,6 +2640,7 @@
         "label": "pk-hfad-1_hotel",
         "token": {
           "en": ["hotel"],
+          "hi": ["होटल"],
           "ur": ["ہوٹل"]
         }
       },
@@ -2880,7 +2914,9 @@
         "components": ["pk-hfad-1_j(double-handed-letter)", "pk-hfad-1_cold"],
         "label": "pk-hfad-1_january",
         "token": {
+          "ar": ["يناير"],
           "en": ["january"],
+          "hi": ["जनवरी"],
           "ur": ["جنوری"]
         }
       },
@@ -2895,6 +2931,7 @@
         "label": "pk-hfad-1_japan",
         "token": {
           "en": ["japan", "japanese"],
+          "ja": ["日本", "日本人", "日本語"],
           "ur": ["جاپان", "جاپانی"]
         }
       },
@@ -2932,6 +2969,7 @@
         "label": "pk-hfad-1_jhelum",
         "token": {
           "en": ["jhelum"],
+          "hi": ["झेलम"],
           "ur": ["جہلم"]
         }
       },
@@ -2967,14 +3005,18 @@
         "components": ["pk-hfad-1_j(double-handed-letter)", "pk-hfad-1_y(double-handed-letter)"],
         "label": "pk-hfad-1_july",
         "token": {
+          "ar": ["يوليو"],
           "en": ["july"],
+          "hi": ["जुलाई"],
           "ur": ["جولائی"]
         }
       },
       {
         "label": "pk-hfad-1_june",
         "token": {
+          "ar": ["يونيو"],
           "en": ["june"],
+          "hi": ["जून"],
           "ur": ["جون"]
         }
       },
@@ -3033,6 +3075,7 @@
         "label": "pk-hfad-1_kebab",
         "token": {
           "en": ["kebab"],
+          "hi": ["कबाब"],
           "ur": ["کباب"]
         }
       },
@@ -3160,6 +3203,7 @@
         "label": "pk-hfad-1_lahore",
         "token": {
           "en": ["lahore"],
+          "hi": ["लाहौर"],
           "ur": ["لاہور"]
         }
       },
@@ -3347,6 +3391,7 @@
       {
         "label": "pk-hfad-1_march(month)",
         "token": {
+          "ar": ["مارس"],
           "en": ["march(month)"],
           "ur": ["مارچ(مہینہ)"]
         }
@@ -3387,6 +3432,7 @@
         ],
         "label": "pk-hfad-1_may(month)",
         "token": {
+          "ar": ["مايو"],
           "en": ["may(month)"],
           "ur": ["مئی"]
         }
@@ -3639,6 +3685,7 @@
         "label": "pk-hfad-1_nawab",
         "token": {
           "en": ["nawab"],
+          "hi": ["नवाब"],
           "ur": ["نواب"]
         }
       },
@@ -3673,6 +3720,7 @@
       {
         "label": "pk-hfad-1_newspaper",
         "token": {
+          "ar": ["صحيفة"],
           "en": ["newspaper"],
           "ur": ["اخبار"]
         }
@@ -3710,6 +3758,7 @@
         "label": "pk-hfad-1_noodles",
         "token": {
           "en": ["noodles"],
+          "hi": ["नूडल्स"],
           "ur": ["نوڈلز"]
         }
       },
@@ -3817,7 +3866,9 @@
       {
         "label": "pk-hfad-1_onion",
         "token": {
+          "ar": ["بصل"],
           "en": ["onion"],
+          "hi": ["प्याज"],
           "ur": ["پیاز"]
         }
       },
@@ -4005,6 +4056,7 @@
         "label": "pk-hfad-1_pink",
         "token": {
           "en": ["pink"],
+          "hi": ["गुलाबी"],
           "ur": ["گلابی"]
         }
       },
@@ -4061,6 +4113,7 @@
         "label": "pk-hfad-1_pomegranate",
         "token": {
           "en": ["pomegranate"],
+          "hi": ["अनार"],
           "ur": ["انار"]
         }
       },
@@ -4068,6 +4121,7 @@
         "label": "pk-hfad-1_population",
         "token": {
           "en": ["population"],
+          "hi": ["जनसंख्या"],
           "ur": ["آبادی"]
         }
       },
@@ -4082,7 +4136,9 @@
       {
         "label": "pk-hfad-1_potato",
         "token": {
+          "ar": ["البطاطس"],
           "en": ["potato"],
+          "hi": ["आलू"],
           "ur": ["آلو"]
         }
       },
@@ -4192,7 +4248,9 @@
       {
         "label": "pk-hfad-1_purple",
         "token": {
+          "ar": ["أرجواني"],
           "en": ["purple"],
+          "hi": ["बैंगनी"],
           "ur": ["جامنی"]
         }
       },
@@ -4552,6 +4610,7 @@
       {
         "label": "pk-hfad-1_saudi-arabia",
         "token": {
+          "ar": ["المملكة العربية السعودية", "السعودية"],
           "en": ["saudi arabia", "saudi arabian", "saudi"],
           "ur": ["سعودی عرب", "سعودی"]
         }
@@ -4703,6 +4762,7 @@
         "label": "pk-hfad-1_silver",
         "token": {
           "en": ["silver"],
+          "hi": ["चाँदी"],
           "ur": ["چاندی"]
         }
       },
@@ -4831,6 +4891,7 @@
         "label": "pk-hfad-1_spinach",
         "token": {
           "en": ["spinach"],
+          "hi": ["पालक"],
           "ur": ["پالک"]
         }
       },
@@ -5056,6 +5117,7 @@
         "label": "pk-hfad-1_tea",
         "token": {
           "en": ["tea"],
+          "hi": ["चाय"],
           "ur": ["چائے"]
         }
       },
@@ -5123,6 +5185,7 @@
         "label": "pk-hfad-1_thursday",
         "token": {
           "en": ["thursday"],
+          "hi": ["गुरुवार"],
           "ur": ["جمعرات"]
         }
       },
@@ -5221,6 +5284,7 @@
         "label": "pk-hfad-1_tomato",
         "token": {
           "en": ["tomato"],
+          "hi": ["टमाटर"],
           "ur": ["ٹماٹر"]
         }
       },
@@ -5256,6 +5320,7 @@
         "label": "pk-hfad-1_tractor",
         "token": {
           "en": ["tractor"],
+          "hi": ["ट्रैक्टर"],
           "ur": ["ٹریکٹر"]
         }
       },
@@ -5614,13 +5679,16 @@
       {
         "label": "pk-hfad-1_watermelon",
         "token": {
+          "ar": ["بطيخ"],
           "en": ["watermelon"],
+          "hi": ["तरबूज"],
           "ur": ["تربوز"]
         }
       },
       {
         "label": "pk-hfad-1_we",
         "token": {
+          "ar": ["نحن", "نَحْنُ"],
           "en": ["we"],
           "hi": ["हम"],
           "ur": ["ہم"]
@@ -5881,6 +5949,7 @@
         "label": "pk-hfad-1_zoo",
         "token": {
           "en": ["zoo"],
+          "hi": ["चिड़ियाघर"],
           "ur": ["چڑیا گھر"]
         }
       },

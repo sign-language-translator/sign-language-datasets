@@ -5,41 +5,53 @@
     "mapping": [
       {
         "components": ["pk-hfad-1_aap", "pk-hfad-1_ka", "pk-hfad-1_name", "pk-hfad-1_what", "pk-hfad-1_is"],
-        "label": "pk-hfad-1_aap-ka-nam-kya(what)-hy",
         "gloss": {
           "en": ["your name what is"],
           "latn-ur": ["ap ka nam kya hy"],
           "ur": ["آپ کا نام کیا ہے"]
         },
+        "label": "pk-hfad-1_aap-ka-nam-kya(what)-hy",
         "translation": {
+          "ar": ["ما اسمكَ؟", "ما اسمكِ؟"],
+          "de": ["Wie heißen Sie?", "Wie ist ihr Name?"],
           "en": ["What is your name?", "What's your name?", "Your name happens to be what exactly?"],
+          "es": ["¿Cómo se llama?", "¿Cuál es su nombre?"],
+          "fr": ["quel est votre nom?", "Comment vous appelez-vous?", "Comment tu t'appelles?", "quel est ton nom?"],
           "hi": ["आपका क्या नाम है?"],
+          "ja": ["あなたの名前は何ですか？", "お名前は何ですか？", "あなたのお名前は？", "名前は何？"],
+          "latn-ar": ["ma ismoka?", "ma ismoki?"],
+          "latn-ja": ["Anata no namae wa nanidesuka?", "Onamae wa nandesuka?", "Anata no onamae wa?", "Namae wa nani?"],
+          "latn-ru": ["kak vas zovut?"],
           "latn-ur": ["Aap ka naam kya hai?"],
-          "ur": ["آپ کا نام کیا ہے؟", "آپ کا کیا نام ہے؟", "کیا نام ہے آپ کا؟"]
+          "latn-zh": ["Qǐngwèn nǐ jiào shénme míngzì?", "Nǐ jiào shénme míngzì?"],
+          "ru": ["как вас зовут?"],
+          "ur": ["آپ کا نام کیا ہے؟", "آپ کا کیا نام ہے؟", "کیا نام ہے آپکا؟"],
+          "zh": ["请问你叫什么名字？", "你叫什么名字？"]
         }
       },
       {
-        "label": "pk-hfad-1_allah-hm(us)-pr-rehm-amen",
         "gloss": {
           "en": ["god us on mercy amen", "allah us on mercy amen"],
-          "latn-ur": ["Allah hm pr rehm amen"],
+          "latn-ur": ["allah hm pr rehm amen"],
           "ur": ["اللہ ہم پر رحم آمین", "اللہ تعالی ہم پر رحم آمین", "خدا ہم پر رحمت آمین"]
         },
+        "label": "pk-hfad-1_allah-hm(us)-pr-rehm-amen",
         "translation": {
+          "ar": ["الله يرحمنا، آمين۔"],
           "en": ["God have mercy on us, amen.", "Allah have mercy on us, amen."],
-          "hi": ["भगवान हम पर दया करें आमीन!", "ईश्वर हम पर दया करें, आमीन।"],
+          "latn-ar": ["Allah yarhamna, aamin."],
           "latn-ur": ["Allah ham par reham farma, Aameen."],
           "ur": ["اللہ ہم پر رحم کر، آمین۔", "اللہ تعالی ہم پر رحمت فرما، آمین!", "خدا ہم پر رحم فرما، آمین."]
         }
       },
       {
         "components": ["pk-hfad-1_apna(zati)", "pk-hfad-1_work", "pk-hfad-1_kro"],
-        "label": "pk-hfad-1_apna(zati)-kam-kro",
         "gloss": {
           "en": ["own work do"],
           "latn-ur": ["apna kam kro"],
           "ur": ["اپنا کام کرو"]
         },
+        "label": "pk-hfad-1_apna(zati)-kam-kro",
         "translation": {
           "en": ["Do your work.", "Do your own work."],
           "hi": ["अपना काम करो।"],
@@ -49,12 +61,12 @@
       },
       {
         "components": ["pk-hfad-1_we", "pk-hfad-1_aaein"],
-        "label": "pk-hfad-1_hm(we)-aaein",
         "gloss": {
           "en": ["we come"],
           "latn-ur": ["hm aaein"],
           "ur": ["ہم آئیں"]
         },
+        "label": "pk-hfad-1_hm(we)-aaein",
         "translation": {
           "en": ["We come"],
           "latn-ur": ["Hum aaein"],
@@ -63,12 +75,12 @@
       },
       {
         "components": ["pk-hfad-1_we", "pk-hfad-1_jaein", "pk-hfad-1_gy"],
-        "label": "pk-hfad-1_hm(we)-jaein-gy",
         "gloss": {
           "en": ["we go will"],
           "latn-ur": ["hm jaein ge"],
           "ur": ["ہم جائیں گے"]
         },
+        "label": "pk-hfad-1_hm(we)-jaein-gy",
         "translation": {
           "en": ["We will go.", "We'll go."],
           "hi": ["हम जाएंगे।"],
@@ -77,12 +89,12 @@
         }
       },
       {
-        "label": "pk-hfad-1_hmari-zban-ki-grh-khol",
         "gloss": {
           "en": ["our tongue 's knot untie"],
           "latn-ur": ["hmari zuban ki girah khol"],
           "ur": ["ہماری زبان کی گرہ کھول"]
         },
+        "label": "pk-hfad-1_hmari-zban-ki-grh-khol",
         "translation": {
           "en": ["Open the knot of our tongue.", "Untie our tongue.", "Open our tongue's knot."],
           "hi": ["हमारी जीभ की गाँठ खोलें।"],
@@ -91,27 +103,28 @@
         }
       },
       {
-        "label": "pk-hfad-1_hmary-ilm-mein(in)-azafh-amen",
         "gloss": {
           "en": ["our knowledge in increase amen"],
           "latn-ur": ["hmary ilm mein izafa aameen"],
           "ur": ["ہمارے علم میں اضافہ آمین"]
         },
+        "label": "pk-hfad-1_hmary-ilm-mein(in)-azafh-amen",
         "translation": {
+          "ar": ["زدنا علمًا آمين"],
           "en": ["Increase our knowledge, Amen."],
-          "hi": ["हमारा ज्ञान बढ़ाएँ, तथास्तु।"],
+          "latn-ar": ["Zdna 'ilman, amin"],
           "latn-ur": ["Hamary ilm me izafa kr, aameen."],
           "ur": ["ہمارے علم میں اضافہ فرما، آمین۔", "ہمارا علم بڑھاو، آمین۔"]
         }
       },
       {
         "components": ["pk-hfad-1_i(me)", "pk-hfad-1_aaun"],
-        "label": "pk-hfad-1_main(i)-aaun",
         "gloss": {
           "en": ["i come"],
           "latn-ur": ["main aaun"],
           "ur": ["میں آؤں"]
         },
+        "label": "pk-hfad-1_main(i)-aaun",
         "translation": {
           "en": ["I come"],
           "latn-ur": ["Main aaun"],
@@ -120,12 +133,12 @@
       },
       {
         "components": ["pk-hfad-1_tm", "pk-hfad-1_aao"],
-        "label": "pk-hfad-1_tm-aao",
         "gloss": {
           "en": ["you come"],
           "latn-ur": ["tum aao"],
           "ur": ["تم آؤ"]
         },
+        "label": "pk-hfad-1_tm-aao",
         "translation": {
           "en": ["You come."],
           "hi": ["तुम आओ।"],
@@ -135,42 +148,54 @@
       },
       {
         "components": ["pk-hfad-1_that", "pk-hfad-1_aaei(came)"],
-        "label": "pk-hfad-1_wo-aaei(came)",
         "gloss": {
           "en": ["she came"],
           "latn-ur": ["wo aai"],
           "ur": ["وہ آئی"]
         },
+        "label": "pk-hfad-1_wo-aaei(came)",
         "translation": {
+          "de": ["sie kam."],
           "en": ["She came."],
-          "hi": ["वह आई।", "वह आयी."],
+          "es": ["Ella vino."],
+          "fr": ["Elle est venue."],
+          "hi": ["वह आयी."],
+          "latn-ru": ["Ona prishla."],
           "latn-ur": ["Wo aai."],
+          "ru": ["Она пришла."],
           "ur": ["وہ آئی۔"]
         }
       },
       {
         "components": ["pk-hfad-1_that", "pk-hfad-1_aaey"],
-        "label": "pk-hfad-1_wo-aaey",
         "gloss": {
           "en": ["they came"],
           "latn-ur": ["wo aaey"],
           "ur": ["وہ آئے"]
         },
+        "label": "pk-hfad-1_wo-aaey",
         "translation": {
+          "ar": ["لقد جاؤوا."],
+          "de": ["sie kamen."],
           "en": ["They came."],
+          "es": ["Ellos vinieron.", "Ellas vinieron."],
+          "fr": ["Ils sont venus."],
           "hi": ["वे आए।"],
+          "latn-ar": ["laqad ja'u."],
+          "latn-ru": ["Oni prishli."],
           "latn-ur": ["Wo aaey."],
+          "ru": ["Они пришли."],
           "ur": ["وہ آئے۔"]
         }
       },
       {
         "components": ["pk-hfad-1_that", "pk-hfad-1_aaia(came)"],
-        "label": "pk-hfad-1_wo-aaia(came)",
         "gloss": {
           "en": ["he came", "he arrived"],
           "latn-ur": ["wo aaya"],
           "ur": ["وہ آیا"]
         },
+        "label": "pk-hfad-1_wo-aaia(came)",
         "translation": {
           "en": ["He came.", "He arrived."],
           "hi": ["वो आया.", "वह आया।"],
@@ -180,11 +205,11 @@
       },
       {
         "components": ["pk-hfad-1_that", "pk-hfad-1_gia", "pk-hfad-1_tha"],
-        "label": "pk-hfad-1_wo-gia-tha",
         "gloss": {
           "latn-ur": ["wo gya tha"],
           "ur": ["وہ گیا تھا"]
         },
+        "label": "pk-hfad-1_wo-gia-tha",
         "translation": {
           "en": ["He went."],
           "hi": ["वह गया था।"],
